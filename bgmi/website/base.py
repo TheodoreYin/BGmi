@@ -4,7 +4,6 @@ from __future__ import print_function, unicode_literals
 import os
 import re
 from collections import defaultdict
-from itertools import chain
 
 from six import text_type
 
@@ -59,24 +58,6 @@ class BaseWebsite(object):
             bangumi_result = result_group_by_weekday
         return bangumi_result
 
-    @staticmethod
-    def followed_bangumi():
-        """
-
-        :return: list of bangumi followed
-        :rtype: list[dict]
-        """
-        weekly_list_followed = Bangumi.get_updating_bangumi(status=STATUS_FOLLOWED)
-        weekly_list_updated = Bangumi.get_updating_bangumi(status=STATUS_UPDATED)
-        weekly_list = defaultdict(list)
-        for k, v in chain(weekly_list_followed.items(), weekly_list_updated.items()):
-            weekly_list[k].extend(v)
-        for bangumi_list in weekly_list.values():
-            for bangumi in bangumi_list:
-                bangumi['subtitle_group'] = [{'name': x['name'],
-                                              'id': x['id']} for x in
-                                             Subtitle.get_subtitle_by_id(bangumi['subtitle_group'].split(', '))]
-        return weekly_list
 
     def bangumi_calendar(self, force_update=False, save=True, cover=None):
         """

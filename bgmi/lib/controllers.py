@@ -181,7 +181,6 @@ def cal(force_update=False, save=False):
             bangumi['cover'] = normalize_path(bangumi['cover'])
             subtitle_group = Subtitle.get_subtitle_from_data_source_dict(bangumi['data_source'])
             r[day][index]['subtitle_group'] = subtitle_group
-            print(subtitle_group)
     logger.debug(r)
     return r
 

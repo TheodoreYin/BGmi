@@ -4,6 +4,7 @@ import re
 import time
 from collections import defaultdict
 from copy import deepcopy
+from itertools import chain
 
 import requests
 from fuzzywuzzy import fuzz
@@ -12,8 +13,9 @@ from six import text_type
 
 from bgmi.config import MAX_PAGE, ENABLE_GLOBAL_FILTER, GLOBAL_FILTER
 from bgmi.lib import models
-from bgmi.lib.models import Bangumi, Subtitle, Filter
+from bgmi.lib.models import Bangumi, Filter
 from bgmi.lib.models import STATUS_UPDATING
+from bgmi.lib.models import Subtitle, STATUS_FOLLOWED, STATUS_UPDATED
 from bgmi.utils import test_connection, print_warning, print_info, download_cover, convert_cover_url_to_path
 from bgmi.website.bangumi_moe import BangumiMoe
 from bgmi.website.mikan import Mikanani
@@ -352,3 +354,22 @@ class DataSource():
 
         result = self.utils.filter_keyword(data=result, regex=regex)
         return result
+
+    @staticmethod
+    def followed_bangumi():
+        """
+
+        :return: list of bangumi followed
+        :rtype: list[dict]
+        """
+        weekly_list_followed = Bangumi.get_updating_bangumi(status=STATUS_FOLLOWED)
+        weekly_list_updated = Bangumi.get_updating_bangumi(status=STATUS_UPDATED)
+        weekly_list = defaultdict(list)
+        for k, v in chain(weekly_list_followed.items(), weekly_list_updated.items()):
+            weekly_list[k].extend(v)
+        for bangumi_list in weekly_list.values():
+            for bangumi in bangumi_list:
+                bangumi['subtitle_group'] = [{'name': x['name'],
+                                              'id': x['id']} for x in
+                                             Subtitle.get_subtitle_from_data_source_dict(bangumi['data_source'])]
+        return weekly_list
