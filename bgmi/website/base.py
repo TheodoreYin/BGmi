@@ -3,14 +3,13 @@ from __future__ import print_function, unicode_literals
 
 import os
 import re
-import time
 from collections import defaultdict
 from itertools import chain
 
 from six import text_type
 
 from bgmi.config import MAX_PAGE, GLOBAL_FILTER, ENABLE_GLOBAL_FILTER
-from bgmi.lib.models import (Filter, Subtitle, STATUS_FOLLOWED, STATUS_UPDATED,
+from bgmi.lib.models import (Subtitle, STATUS_FOLLOWED, STATUS_UPDATED,
                              Bangumi, STATUS_UPDATING)
 from bgmi.utils import (parse_episode, print_warning, print_info,
                         test_connection, download_cover, convert_cover_url_to_path)
@@ -32,8 +31,6 @@ class BaseWebsite(object):
             b.status = STATUS_UPDATING
             b.subtitle_group = Bangumi(**data).subtitle_group
             b.cover = data['cover']
-            # if not b.cover.startswith(self.cover_url):
-            #     b.cover = self.cover_url + data['cover']
             b.save()
 
     def fetch(self, save=False, group_by_weekday=True):
@@ -123,141 +120,6 @@ class BaseWebsite(object):
 
         return weekly_list
 
-    def get_maximum_episode(self, bangumi, subtitle=True, ignore_old_row=True, max_page=MAX_PAGE):
-        """
-
-        :type max_page: str
-        :param max_page:
-        :type bangumi: object
-        :type ignore_old_row: bool
-        :param ignore_old_row:
-        :type bangumi: Bangumi
-        :param subtitle:
-        :type subtitle: bool
-        """
-        followed_filter_obj, _ = Filter.get_or_create(bangumi_name=bangumi.name)
-
-        if followed_filter_obj and subtitle:
-            subtitle_group = followed_filter_obj.subtitle
-        else:
-            subtitle_group = None
-
-        if followed_filter_obj and subtitle:
-            include = followed_filter_obj.include
-        else:
-            include = None
-
-        if followed_filter_obj and subtitle:
-            exclude = followed_filter_obj.exclude
-        else:
-            exclude = None
-
-        if followed_filter_obj and subtitle:
-            regex = followed_filter_obj.regex
-        else:
-            regex = None
-
-        data = [i for i in self.fetch_episode(_id=bangumi.keyword, name=bangumi.name,
-                                              subtitle_group=subtitle_group,
-                                              include=include,
-                                              exclude=exclude,
-                                              regex=regex,
-                                              max_page=int(max_page))
-                if i['episode'] is not None]
-
-        if ignore_old_row:
-            data = [row for row in data if row['time'] > int(time.time()) - 3600 * 24 * 30 * 3]  # three month
-
-        if data:
-            bangumi = max(data, key=lambda _i: _i['episode'])
-            return bangumi, data
-        else:
-            return {'episode': 0}, []
-
-    def fetch_episode(self, _id, name='',
-                      subtitle_group=None,
-                      include=None,
-                      exclude=None,
-                      regex=None,
-                      max_page=int(MAX_PAGE)):
-        """
-        :type _id: str
-        :param _id:
-        :type name: str
-        :type subtitle_group: str
-        :type include: str
-        :type exclude: str
-        :type regex: str
-        :type max_page: int
-        """
-        result = []
-
-        max_page = int(max_page)
-
-        if subtitle_group and subtitle_group.split(', '):
-            condition = subtitle_group.split(', ')
-            response_data = self.fetch_episode_of_bangumi(bangumi_id=_id, subtitle_list=condition)
-        else:
-            response_data = self.fetch_episode_of_bangumi(bangumi_id=_id, max_page=max_page)
-
-        for info in response_data:
-            if '合集' not in info['title']:
-                info['name'] = name
-                result.append(info)
-
-        if include:
-            include_list = list(map(lambda s: s.strip(), include.split(',')))
-            result = list(filter(lambda s: True if all(map(lambda t: t in s['title'],
-                                                           include_list)) else False, result))
-
-        if exclude:
-            exclude_list = list(map(lambda s: s.strip(), exclude.split(',')))
-            result = list(filter(lambda s: True if all(map(lambda t: t not in s['title'],
-                                                           exclude_list)) else False, result))
-
-        result = self.filter_keyword(data=result, regex=regex)
-        return result
-
-    @staticmethod
-    def remove_duplicated_bangumi(result):
-        """
-
-        :type result: list[dict]
-        """
-        ret = []
-        episodes = list({i['episode'] for i in result})
-        for i in result:
-            if i['episode'] in episodes:
-                ret.append(i)
-                del episodes[episodes.index(i['episode'])]
-
-        return ret
-
-    @staticmethod
-    def filter_keyword(data, regex=None):
-        """
-
-        :type regex: str
-        :param data: list of bangumi dict
-        :type data: list[dict]
-        """
-        if regex:
-            try:
-                match = re.compile(regex)
-                data = [s for s in data if match.findall(s['title'])]
-            except re.error as e:
-                if os.getenv('DEBUG'):  # pragma: no cover
-                    import traceback
-                    traceback.print_exc()
-                    raise e
-                return data
-
-        if not ENABLE_GLOBAL_FILTER == '0':
-            data = list(filter(lambda s: all(map(lambda t: t.strip().lower() not in s['title'].lower(),
-                                                 GLOBAL_FILTER.split(','))), data))
-
-        return data
-
     def search_by_keyword(self, keyword, count):  # pragma: no cover
         """
         return a list of dict with at least 4 key: download, name, title, episode
@@ -274,7 +136,7 @@ class BaseWebsite(object):
 
         :param keyword: search key word
         :type keyword: str
-        :param count: how many page to fetch from website
+        :param count: how many page to fetch from data_source
         :type count: int
 
         :return: list of episode search result

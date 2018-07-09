@@ -5,3 +5,6 @@ lxml>=3.2.1
 tornado>=4.0.2
 icalendar>=3.11.3
 peewee>=3.2.4,<=3.3.4
+python-levenshtein
+fuzzywuzzy
+hanziconv

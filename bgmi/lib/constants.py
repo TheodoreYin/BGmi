@@ -119,6 +119,7 @@ actions_and_arguments = [
             {'dest': '--exclude', 'kwargs': dict(metavar='exclude', type=unicode_,
                                                  help='Filter by keywords which not int the title, split by ",".'), },
             {'dest': '--regex', 'kwargs': dict(metavar='regex', type=unicode_, help='Filter by regular expression'), },
+            {'dest': '--source', 'kwargs': dict(metavar='source', type=unicode_, help='Data source you want to download from'), },
         ]
     },
     {

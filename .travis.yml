@@ -69,4 +69,4 @@ script:
     - coverage run -a -m unittest tests.test_data_source
 
 after_success:
-  - codecov
+    - codecov
