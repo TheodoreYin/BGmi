@@ -100,6 +100,7 @@ def init_data():
     left = []
     subtitle = {}
     for data_source_id, data_source in DATA_SOURCE_MAP.items():
+        print_info('Fetching {}'.format(data_source_id))
         bangumi_list, subtitle_list = data_source.fetch_bangumi_calendar_and_subtitle_group()
         subtitle[data_source_id] = subtitle_list
         left += mergeDataSource(bangumi_tv_weekly_list,
@@ -323,15 +324,13 @@ class DataSource():
             for subtitle in subtitle_group:
                 condition[subtitle.data_source].append(subtitle.id)
             for s, subtitle_group in condition.items():
-                print(
-                    s, bangumi_obj.data_source[s]['keyword'],
-                    subtitle_group
-                )
+                print_info('Fetching {}'.format(s))
                 response_data += DATA_SOURCE_MAP[s].fetch_episode_of_bangumi(
                     bangumi_id=bangumi_obj.data_source[s]['keyword'],
                     subtitle_list=subtitle_group)
         else:
             for i in source:
+                print_info('Fetching {}'.format(i), )
                 response_data += DATA_SOURCE_MAP[i].fetch_episode_of_bangumi(
                     bangumi_id=bangumi_obj.data_source[i]['keyword'],
                     max_page=max_page)
@@ -372,3 +371,28 @@ class DataSource():
                                               'id': x['id']} for x in
                                              Subtitle.get_subtitle_from_data_source_dict(bangumi['data_source'])]
         return weekly_list
+
+    def search_by_keyword(self, keyword, count):  # pragma: no cover
+        """
+        return a list of dict with at least 4 key: download, name, title, episode
+        example:
+        ```
+            [
+                {
+                    'name':"路人女主的养成方法",
+                    'download': 'magnet:?xt=urn:btih:what ever',
+                    'title': "[澄空学园] 路人女主的养成方法 第12话 MP4 720p  完",
+                    'episode': 12
+                },
+            ]
+
+        :param keyword: search key word
+        :type keyword: str
+        :param count: how many page to fetch from data_source
+        :type count: int
+
+        :return: list of episode search result
+        :rtype: list[dict]
+        """
+        return sum([print_info('Search in {}'.format(i)) or s.search_by_keyword(keyword, count) for i,s in
+                    DATA_SOURCE_MAP.items()], [])
