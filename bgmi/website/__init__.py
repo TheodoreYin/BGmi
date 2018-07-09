@@ -322,14 +322,15 @@ class DataSource():
         print(source)
         if subtitle_group and subtitle_group.split(', '):
             condition = [x.strip() for x in subtitle_group.split(', ')]
-            subtitle_group = Subtitle.select(Subtitle.name, Subtitle.data_source) \
-                .where(Subtitle.name.in_(condition) and Subtitle.data_source.in_(source))
+            subtitle_group = Subtitle.select(Subtitle.id, Subtitle.name, Subtitle.data_source) \
+                .where(Subtitle.name.in_(condition) & Subtitle.data_source.in_(source))
             condition = defaultdict(list)
             for subtitle in subtitle_group:
-                condition[subtitle.data_source].append(subtitle.name)
+                condition[subtitle.data_source].append(subtitle.id)
             for s, subtitle_group in condition.items():
                 print(
                     s, bangumi_obj.data_source[s]['keyword'],
+                    subtitle_group
                 )
                 response_data += DATA_SOURCE_MAP[s].fetch_episode_of_bangumi(
                     bangumi_id=bangumi_obj.data_source[s]['keyword'],
