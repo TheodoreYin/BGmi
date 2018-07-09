@@ -33,7 +33,7 @@ DOWNLOAD_STATUS = (STATUS_NOT_DOWNLOAD, STATUS_DOWNLOADING, STATUS_DOWNLOADED)
 
 DoesNotExist = peewee.DoesNotExist
 
-db = peewee.SqliteDatabase("./n.db")
+db = peewee.SqliteDatabase(bgmi.config.SAVE_PATH)
 
 
 class NeoDB(peewee.Model):
