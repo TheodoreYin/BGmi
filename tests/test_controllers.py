@@ -24,6 +24,7 @@ class ControllersTest(unittest.TestCase):
             for bangumi in r[day]:
                 self.assertIn("status", bangumi)
                 self.assertIn("subtitle_group", bangumi)
+                self.assertIn("data_source", bangumi)
                 self.assertIn("name", bangumi)
                 self.assertIn("keyword", bangumi)
                 self.assertIn("update_time", bangumi)

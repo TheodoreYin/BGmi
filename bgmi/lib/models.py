@@ -186,11 +186,20 @@ class Subtitle(NeoDB):
 
         :type bangumi_obj: Bangumi
         """
-        source = list(bangumi_obj.data_source.keys())
+        return cls.get_subtitle_from_data_source_dict(bangumi_obj.data_source)
+
+    @classmethod
+    def get_subtitle_from_data_source_dict(cls, data_source):
+        """
+        :type data_source: dict
+        :param data_source:
+        :return:
+        """
+        source = list(data_source.keys())
         condition = list()
         for s in source:
             condition.append(
-                (Subtitle.id.in_(bangumi_obj.data_source[s]['subtitle_group'])) &
+                (Subtitle.id.in_(data_source[s]['subtitle_group'])) &
                 (Subtitle.data_source == s)
             )
         if len(condition) > 1:

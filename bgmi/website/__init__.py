@@ -103,12 +103,6 @@ def init_data():
         left += mergeDataSource(bangumi_tv_weekly_list,
                                 bangumi_list,
                                 data_source_id)
-    import json
-    with open('./tmp/f.json', 'w+', encoding='utf8') as f:
-        json.dump(bangumi_tv_weekly_list, f, ensure_ascii=False, indent=2)
-    with open('./tmp/left.json', 'w+', encoding='utf8') as f:
-        json.dump(left, f, ensure_ascii=False, indent=2)
-    # return bangumi_tv_weekly_list + left, None
     return bangumi_tv_weekly_list + left, subtitle
 
 
