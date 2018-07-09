@@ -315,7 +315,6 @@ class DataSource():
         else:
             source = bangumi_obj.data_source.keys()
         response_data = []
-        print(source)
         if subtitle_group and subtitle_group.split(', '):
             condition = [x.strip() for x in subtitle_group.split(', ')]
             subtitle_group = Subtitle.select(Subtitle.id, Subtitle.name, Subtitle.data_source) \

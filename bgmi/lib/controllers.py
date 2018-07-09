@@ -88,7 +88,7 @@ def filter_(name, subtitle=None, include=None, exclude=None, regex=None, data_so
     followed_filter_obj, _ = Filter.get_or_create(bangumi_name=name)
     subtitle_list = list(map(lambda s: s['name'], Subtitle.get_subtitle_of_bangumi(bangumi_obj)))
     if subtitle is not None:
-        if not check_input(followed_filter_obj, 'subtitle', subtitle, [x['name'] for x in subtitle_list]):
+        if not check_input(followed_filter_obj, 'subtitle', subtitle, subtitle_list):
             result['status'] = 'error'
             result['message'] = '{} is not valid subtitle group'.format(subtitle)
             return result
