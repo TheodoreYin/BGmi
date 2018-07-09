@@ -7,10 +7,10 @@ from bgmi.config import write_config, MAX_PAGE
 from bgmi.lib.constants import SUPPORT_WEBSITE
 from bgmi.lib.download import download_prepare
 from bgmi.lib.fetch import data_source
-from bgmi.lib.models import (STATUS_DELETED)
 from bgmi.lib.models import (Filter, Subtitle, Download, recreate_source_relatively_table,
                              STATUS_FOLLOWED, STATUS_UPDATED, STATUS_NOT_DOWNLOAD, FOLLOWED_STATUS, Followed,
                              Bangumi, model_to_dict)
+from bgmi.lib.models import (STATUS_DELETED)
 from bgmi.script import ScriptRunner
 from bgmi.utils import print_info, normalize_path, print_warning, print_success, print_error, GREEN, COLOR_END, logger
 
@@ -96,12 +96,15 @@ def filter_(name, subtitle=None, include=None, exclude=None, regex=None, data_so
 
     if regex is not None:
         followed_filter_obj.regex = regex
+
     if data_source is not None:
-        if data_source not in bangumi_obj.data_source.keys():
-            result['status'] = 'error'
-            result['message'] = '{} is not an available data source'.format(data_source)
-            return result
-        followed_filter_obj.data_source = data_source
+        data_source = [x.strip() for x in data_source.split(',')]
+        for s in data_source:
+            if s not in bangumi_obj.data_source.keys():
+                result['status'] = 'error'
+                result['message'] = '{} is not an available data source'.format(s)
+                return result
+        followed_filter_obj.data_source = ', '.join(data_source)
 
     followed_filter_obj.save()
     subtitle_list = list(map(lambda s: s['name'],
