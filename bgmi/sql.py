@@ -2,7 +2,7 @@
 import sqlite3
 
 from bgmi.config import SCRIPT_DB_PATH, BGMI_PATH
-from bgmi.lib.new_models import Bangumi, Followed, Download, Filter, Subtitle
+from bgmi.lib.models import Bangumi, Followed, Download, Filter, Subtitle
 from bgmi.utils import print_error
 
 CREATE_TABLE_SCRIPT = '''CREATE TABLE IF NOT EXISTS scripts (

@@ -10,7 +10,7 @@ import requests
 from fuzzywuzzy import fuzz
 from hanziconv import HanziConv
 
-from bgmi.lib import new_models
+from bgmi.lib import models
 from bgmi.lib.constants import (SPACIAL_APPEND_CHARS, SPACIAL_REMOVE_CHARS)
 from bgmi.website import DATA_SOURCE_MAP, init_data
 from bgmi.lib.models import Bangumi, STATUS_UPDATED, STATUS_FOLLOWED
@@ -18,11 +18,11 @@ from bgmi.utils import (print_warning, GREEN, YELLOW, COLOR_END, get_terminal_co
 
 from bgmi.website import DataSource
 
-from bgmi.lib import new_models
+from bgmi.lib import models
 
-new_models.Bangumi.create_table()
-new_models.Followed.create_table()
-new_models.Subtitle.create_table()
+models.Bangumi.create_table()
+models.Followed.create_table()
+models.Subtitle.create_table()
 
 
 def cal_wrapper():

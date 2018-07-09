@@ -2,13 +2,17 @@
 from __future__ import print_function, unicode_literals
 
 import os
+import time
 from collections import defaultdict
 
 import peewee
 from peewee import IntegerField, FixedCharField, TextField
 from playhouse.shortcuts import model_to_dict
+from playhouse.sqlite_ext import JSONField
 
 import bgmi.config
+
+# from typing import List
 
 # bangumi status
 STATUS_UPDATING = 0
@@ -29,10 +33,7 @@ DOWNLOAD_STATUS = (STATUS_NOT_DOWNLOAD, STATUS_DOWNLOADING, STATUS_DOWNLOADED)
 
 DoesNotExist = peewee.DoesNotExist
 
-db = peewee.SqliteDatabase(bgmi.config.DB_PATH)
-
-if os.environ.get('DEV'):
-    print('using', bgmi.config.DB_PATH)
+db = peewee.SqliteDatabase("./n.db")
 
 
 class NeoDB(peewee.Model):
@@ -43,11 +44,11 @@ class NeoDB(peewee.Model):
 class Bangumi(NeoDB):
     id = IntegerField(primary_key=True)
     name = TextField(unique=True, null=False)
-    subtitle_group = TextField(null=False)
-    keyword = TextField()
     update_time = FixedCharField(5, null=False)
-    cover = TextField()
+    keyword = TextField()
     status = IntegerField(default=0)
+    cover = TextField()
+    data_source = JSONField(default=lambda: {})  # type: dict
 
     week = ('Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun')
 
@@ -63,7 +64,14 @@ class Bangumi(NeoDB):
 
     @classmethod
     def delete_all(cls):
-        cls.update(status=STATUS_END).execute()
+        un_updated_bangumi = Followed.select().where(
+            Followed.updated_time > (int(time.time()) - 2 * 7 * 24 * 3600))  # type: list[Followed]
+        if os.getenv('DEBUG'):  # pragma: no cover
+            print('ignore updating bangumi', [x.bangumi_name for x in un_updated_bangumi])
+
+        cls.update(status=STATUS_END) \
+            .where(cls.name.not_in(
+            [x.bangumi_name for x in un_updated_bangumi])).execute()  # do not mark updating bangumi as STATUS_END
 
     @classmethod
     def get_updating_bangumi(cls, status=None, order=True):
@@ -85,6 +93,10 @@ class Bangumi(NeoDB):
 
         return weekly_list
 
+    @property
+    def source(self):
+        return self.data_source
+
 
 class Followed(NeoDB):
     bangumi_name = TextField(unique=True)
@@ -94,7 +106,6 @@ class Followed(NeoDB):
 
     class Meta:
         database = db
-        table_name = 'followed'
 
     @classmethod
     def delete_followed(cls, batch=True):
@@ -143,15 +154,17 @@ class Download(NeoDB):
 
 class Filter(NeoDB):
     bangumi_name = TextField(unique=True)
-    subtitle = TextField()
-    include = TextField()
-    exclude = TextField()
-    regex = TextField()
+    subtitle = TextField(null=True)
+    data_source = TextField(null=True)
+    include = TextField(null=True)
+    exclude = TextField(null=True)
+    regex = TextField(null=True)
 
 
 class Subtitle(NeoDB):
     id = TextField(primary_key=True, unique=True)
     name = TextField()
+    data_source = TextField()
 
     @classmethod
     def get_subtitle_by_id(cls, id_list=None):
@@ -166,6 +179,29 @@ class Subtitle(NeoDB):
         for index, subtitle in enumerate(data):
             data[index] = model_to_dict(subtitle)
         return data
+
+    @classmethod
+    def get_subtitle_of_bangumi(cls, bangumi_obj):
+        """
+
+        :type bangumi_obj: Bangumi
+        """
+        source = list(bangumi_obj.data_source.keys())
+        condition = list()
+        for s in source:
+            condition.append(
+                (Subtitle.id.in_(bangumi_obj.data_source[s]['subtitle_group'])) &
+                (Subtitle.data_source == s)
+            )
+        if len(condition) > 1:
+            tmp_c = condition[0]
+            for c in condition[1:]:
+                tmp_c = tmp_c | c
+        elif len(condition) == 1:
+            tmp_c = condition[0]
+        else:
+            return []
+        return [model_to_dict(x) for x in Subtitle.select().where(tmp_c)]
 
 
 script_db = peewee.SqliteDatabase(bgmi.config.SCRIPT_DB_PATH)
@@ -191,5 +227,6 @@ def recreate_source_relatively_table():
 if __name__ == '__main__':  # pragma:no cover
     from pprint import pprint
 
-    d = Bangumi.get_updating_bangumi(status=STATUS_FOLLOWED)
+    d = Bangumi.get(name='海贼王')
+    d = (Subtitle.get_subtitle_of_bangumi(d))
     pprint(d)

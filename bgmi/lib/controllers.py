@@ -8,9 +8,9 @@ from bgmi.lib.constants import SUPPORT_WEBSITE
 from bgmi.lib.download import download_prepare
 from bgmi.lib.fetch import data_source
 from bgmi.lib.models import (STATUS_DELETED)
-from bgmi.lib.new_models import (Filter, Subtitle, Download, recreate_source_relatively_table,
-                                 STATUS_FOLLOWED, STATUS_UPDATED, STATUS_NOT_DOWNLOAD, FOLLOWED_STATUS, Followed,
-                                 Bangumi, model_to_dict)
+from bgmi.lib.models import (Filter, Subtitle, Download, recreate_source_relatively_table,
+                             STATUS_FOLLOWED, STATUS_UPDATED, STATUS_NOT_DOWNLOAD, FOLLOWED_STATUS, Followed,
+                             Bangumi, model_to_dict)
 from bgmi.script import ScriptRunner
 from bgmi.utils import print_info, normalize_path, print_warning, print_success, print_error, GREEN, COLOR_END, logger
 

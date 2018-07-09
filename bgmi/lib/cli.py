@@ -19,7 +19,7 @@ from bgmi.lib.constants import (ACTION_ADD, ACTION_SOURCE, ACTION_DOWNLOAD, ACTI
 from bgmi.lib.controllers import filter_, source, config, mark, delete, add, search, update, list_
 from bgmi.lib.download import download_prepare, get_download_class
 from bgmi.lib.fetch import data_source
-from bgmi.lib.new_models import Bangumi, Followed, Filter, STATUS_UPDATED, STATUS_DELETED, STATUS_FOLLOWED
+from bgmi.lib.models import Bangumi, Followed, Filter, STATUS_UPDATED, STATUS_DELETED, STATUS_FOLLOWED
 from bgmi.script import ScriptRunner
 from bgmi.utils import (print_info, print_warning, print_success, print_error,
                         RED, GREEN, YELLOW, COLOR_END, get_terminal_col, logger)

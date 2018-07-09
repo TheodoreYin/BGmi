@@ -11,9 +11,9 @@ from hanziconv import HanziConv
 from six import text_type
 
 from bgmi.config import MAX_PAGE, ENABLE_GLOBAL_FILTER, GLOBAL_FILTER
-from bgmi.lib import new_models
+from bgmi.lib import models
 from bgmi.lib.models import STATUS_UPDATING
-from bgmi.lib.new_models import Bangumi, Subtitle, Filter
+from bgmi.lib.models import Bangumi, Subtitle, Filter
 from bgmi.utils import test_connection, print_warning, print_info, download_cover, convert_cover_url_to_path
 from bgmi.website.bangumi_moe import BangumiMoe
 from bgmi.website.mikan import Mikanani
@@ -89,7 +89,7 @@ def init_data():
                 'name': item['name_cn'],
                 'update_time': day['weekday']['en'].capitalize(),
                 'keyword': item['id'],
-                "status": new_models.STATUS_UPDATING,
+                "status": models.STATUS_UPDATING,
                 "cover": '',
                 'data_source': {},
             }
