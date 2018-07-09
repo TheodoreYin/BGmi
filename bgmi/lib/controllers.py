@@ -98,13 +98,16 @@ def filter_(name, subtitle=None, include=None, exclude=None, regex=None, data_so
         followed_filter_obj.regex = regex
 
     if data_source is not None:
-        data_source = [x.strip() for x in data_source.split(',')]
-        for s in data_source:
-            if s not in bangumi_obj.data_source.keys():
-                result['status'] = 'error'
-                result['message'] = '{} is not an available data source'.format(s)
-                return result
-        followed_filter_obj.data_source = ', '.join(data_source)
+        if not data_source:
+            followed_filter_obj.data_source = data_source
+        else:
+            data_source = [x.strip() for x in data_source.split(',')]
+            for s in data_source:
+                if s not in bangumi_obj.data_source.keys():
+                    result['status'] = 'error'
+                    result['message'] = '{} is not an available data source'.format(s)
+                    return result
+            followed_filter_obj.data_source = ', '.join(data_source)
 
     followed_filter_obj.save()
     subtitle_list = list(map(lambda s: s['name'],

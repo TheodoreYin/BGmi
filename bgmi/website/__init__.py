@@ -12,8 +12,8 @@ from six import text_type
 
 from bgmi.config import MAX_PAGE, ENABLE_GLOBAL_FILTER, GLOBAL_FILTER
 from bgmi.lib import models
-from bgmi.lib.models import STATUS_UPDATING
 from bgmi.lib.models import Bangumi, Subtitle, Filter
+from bgmi.lib.models import STATUS_UPDATING
 from bgmi.utils import test_connection, print_warning, print_info, download_cover, convert_cover_url_to_path
 from bgmi.website.bangumi_moe import BangumiMoe
 from bgmi.website.mikan import Mikanani
@@ -250,7 +250,7 @@ class DataSource():
         :param subtitle:
         :type subtitle: bool
         """
-        followed_filter_obj, _ = Filter.get_or_create(bangumi_name=bangumi.name)
+        followed_filter_obj, _ = Filter.get_or_create(bangumi_name=bangumi.name)  # type : (Filter, bool)
 
         if followed_filter_obj and subtitle:
             subtitle_group = followed_filter_obj.subtitle
@@ -319,6 +319,7 @@ class DataSource():
         else:
             source = bangumi_obj.data_source.keys()
         response_data = []
+        print(source)
         if subtitle_group and subtitle_group.split(', '):
             condition = [x.strip() for x in subtitle_group.split(', ')]
             subtitle_group = Subtitle.select(Subtitle.name, Subtitle.data_source) \
@@ -326,9 +327,12 @@ class DataSource():
             condition = defaultdict(list)
             for subtitle in subtitle_group:
                 condition[subtitle.data_source].append(subtitle.name)
-            for source, subtitle_group in condition.items():
-                response_data += DATA_SOURCE_MAP[source].fetch_episode_of_bangumi(
-                    bangumi_id=bangumi_obj.data_source[source]['keyword'],
+            for s, subtitle_group in condition.items():
+                print(
+                    s, bangumi_obj.data_source[s]['keyword'],
+                )
+                response_data += DATA_SOURCE_MAP[s].fetch_episode_of_bangumi(
+                    bangumi_id=bangumi_obj.data_source[s]['keyword'],
                     subtitle_list=subtitle_group)
         else:
             for i in source:
