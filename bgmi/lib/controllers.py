@@ -54,6 +54,21 @@ def add(name, episode=None):
 
 
 def filter_(name, subtitle=None, include=None, exclude=None, regex=None, data_source=None):
+    def check_input(filter_obj, field, user_input, usable_list):
+        if user_input == '':
+            setattr(filter_obj, field, None)
+            return True
+        string = [s.strip() for s in user_input.split(',') if s.strip()]
+        string_list = []
+        for s in string:
+            if s in usable_list:
+                string_list.append(s)
+            else:
+                return False
+        string = ', '.join(string_list)
+        setattr(filter_obj, field, string)
+        return True
+
     result = {'status': 'success', 'message': ''}
     try:
         bangumi_obj = Bangumi.get(name=name)  # type: Bangumi
@@ -71,22 +86,12 @@ def filter_(name, subtitle=None, include=None, exclude=None, regex=None, data_so
         return result
 
     followed_filter_obj, _ = Filter.get_or_create(bangumi_name=name)
-
+    subtitle_list = list(map(lambda s: s['name'], Subtitle.get_subtitle_of_bangumi(bangumi_obj)))
     if subtitle is not None:
-        try:
-            subtitle = [s.strip() for s in subtitle.split(',')]
-            subtitle_name = []
-            for s in subtitle:
-                subtitle_name.append(
-                    Subtitle.get(name=s).name
-                )
-            subtitle = ', '.join(subtitle_name)
-        except Subtitle.DoesNotExist as e:
+        if not check_input(followed_filter_obj, 'subtitle', subtitle, [x['name'] for x in subtitle_list]):
             result['status'] = 'error'
-            result['message'] = '{} is not an available subtitle group'.format(s)
+            result['message'] = '{} is not valid subtitle group'.format(subtitle)
             return result
-
-        followed_filter_obj.subtitle = subtitle
 
     if include is not None:
         followed_filter_obj.include = include
@@ -98,20 +103,12 @@ def filter_(name, subtitle=None, include=None, exclude=None, regex=None, data_so
         followed_filter_obj.regex = regex
 
     if data_source is not None:
-        if not data_source:
-            followed_filter_obj.data_source = data_source
-        else:
-            data_source = [x.strip() for x in data_source.split(',')]
-            for s in data_source:
-                if s not in bangumi_obj.data_source.keys():
-                    result['status'] = 'error'
-                    result['message'] = '{} is not an available data source'.format(s)
-                    return result
-            followed_filter_obj.data_source = ', '.join(data_source)
+        if not check_input(followed_filter_obj, 'data_source', data_source, bangumi_obj.data_source.keys()):
+            result['status'] = 'error'
+            result['message'] = '{} is not valid data source'.format(data_source)
+            return result
 
     followed_filter_obj.save()
-    subtitle_list = list(map(lambda s: s['name'],
-                             Subtitle.get_subtitle_of_bangumi(bangumi_obj)))
 
     data_source_list = list(bangumi_obj.data_source.keys())
     result['data'] = {
