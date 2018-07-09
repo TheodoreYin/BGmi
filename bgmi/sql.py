@@ -1,8 +1,8 @@
 # coding=utf-8
 import sqlite3
 
-from bgmi.config import SCRIPT_DB_PATH, BGMI_PATH
-from bgmi.lib.models import Bangumi, Followed, Download, Filter, Subtitle
+from bgmi.config import SCRIPT_DB_PATH, BGMI_PATH, DB_PATH
+from bgmi.lib.models import Bangumi, Followed, Download, Filter, Subtitle, db
 from bgmi.utils import print_error
 
 CREATE_TABLE_SCRIPT = '''CREATE TABLE IF NOT EXISTS scripts (
@@ -18,12 +18,9 @@ CLEAR_TABLE_ = 'DELETE  FROM {}'
 
 def init_db():
     try:
-        # bangumi.db
-        # conn = sqlite3.connect(DB_PATH)
+        db.init(DB_PATH)
         for x in [Bangumi, Followed, Download, Filter, Subtitle]:
             x.create_table()
-        # conn.commit()
-        # conn.close()
 
         # script.db
         conn = sqlite3.connect(SCRIPT_DB_PATH)

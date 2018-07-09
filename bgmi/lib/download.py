@@ -1,19 +1,16 @@
 # coding=utf-8
 from __future__ import print_function, unicode_literals
 
-import glob
 import os
 
 from bgmi.config import SAVE_PATH, DOWNLOAD_DELEGATE
 from bgmi.downloader.aria2_rpc import Aria2DownloadRPC
 from bgmi.downloader.deluge import DelugeRPC
 from bgmi.downloader.transmission_rpc import TransmissionRPC
-from bgmi.downloader.xunlei import XunleiLixianDownload
 from bgmi.lib.models import STATUS_DOWNLOADING, STATUS_NOT_DOWNLOAD, Download
 from bgmi.utils import print_error, normalize_path
 
 DOWNLOAD_DELEGATE_DICT = {
-    'xunlei': XunleiLixianDownload,
     'aria2-rpc': Aria2DownloadRPC,
     'transmission-rpc': TransmissionRPC,
     'deluge-rpc': DelugeRPC,
@@ -28,6 +25,10 @@ def get_download_class(download_obj=None, save_path='', overwrite=True, instance
 
     if instance:
         delegate = delegate(download_obj=download_obj, overwrite=overwrite, save_path=save_path)
+
+    if os.environ.get('DEV_DELEGATE'):
+        from bgmi.downloader.dev_downloader import DevDownloadDelegate
+        return DevDownloadDelegate(download_obj=download_obj, overwrite=overwrite, save_path=save_path)
 
     return delegate
 

@@ -14,12 +14,12 @@ except ImportError:
 
 # download delegate
 __wget__ = ('WGET_PATH',)
-__thunder__ = ('XUNLEI_LX_PATH',)
-__transmission__ = ('TRANSMISSION_RPC_URL', 'TRANSMISSION_RPC_PORT', 'TRANSMISSION_RPC_USERNAME', 'TRANSMISSION_RPC_PASSWORD',)
+__transmission__ = (
+'TRANSMISSION_RPC_URL', 'TRANSMISSION_RPC_PORT', 'TRANSMISSION_RPC_USERNAME', 'TRANSMISSION_RPC_PASSWORD',)
 __aria2__ = ('ARIA2_RPC_URL', 'ARIA2_RPC_TOKEN',)
 __deluge__ = ('DELUGE_RPC_URL', 'DELUGE_RPC_PASSWORD')
 
-__download_delegate__ = __wget__ + __thunder__ + __aria2__ + __transmission__
+__download_delegate__ = __wget__ + __aria2__ + __transmission__
 
 # fake __all__
 __all__ = ('BANGUMI_MOE_URL', 'SAVE_PATH', 'DOWNLOAD_DELEGATE',
@@ -42,7 +42,6 @@ __all__ = __all__ + __download_delegate__ + __readonly__
 DOWNLOAD_DELEGATE_MAP = {
     'rr!': __wget__,
     'aria2-rpc': __aria2__,
-    'xunlei': __thunder__,
     'transmission-rpc': __transmission__,
     'deluge-rpc': __deluge__,
 }
