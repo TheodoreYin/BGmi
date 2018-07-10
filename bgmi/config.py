@@ -1,21 +1,16 @@
 # coding=utf-8
-from __future__ import unicode_literals
 
+import configparser
 import hashlib
 import os
 import platform
 import random
 import sys
 
-try:
-    import ConfigParser as configparser
-except ImportError:
-    import configparser
-
 # download delegate
 __wget__ = ('WGET_PATH',)
 __transmission__ = (
-'TRANSMISSION_RPC_URL', 'TRANSMISSION_RPC_PORT', 'TRANSMISSION_RPC_USERNAME', 'TRANSMISSION_RPC_PASSWORD',)
+    'TRANSMISSION_RPC_URL', 'TRANSMISSION_RPC_PORT', 'TRANSMISSION_RPC_USERNAME', 'TRANSMISSION_RPC_PASSWORD',)
 __aria2__ = ('ARIA2_RPC_URL', 'ARIA2_RPC_TOKEN',)
 __deluge__ = ('DELUGE_RPC_URL', 'DELUGE_RPC_PASSWORD')
 
@@ -272,8 +267,6 @@ read_config()
 __all_writable_now__ = __writeable__ + DOWNLOAD_DELEGATE_MAP[DOWNLOAD_DELEGATE]
 
 # --------- Read-Only ---------- #
-# Python version
-IS_PYTHON3 = sys.version_info > (3, 0)
 
 # Detail URL
 # platform
@@ -283,21 +276,8 @@ IS_WINDOWS = platform.system() == 'Windows'
 import codecs
 import locale
 
-# Wrap sys.stdout into a StreamWriter to allow writing unicode.
+# Wrap sys.stdout into a StreamWriter to allow writing str.
 
-if IS_PYTHON3:
-    unicode = str
-    if platform.system() != 'Windows':
-        file_ = sys.stdout.buffer
-        sys.stdout = codecs.getwriter(locale.getpreferredencoding())(file_)
-else:
-    sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
-    input = raw_input
-
-
-def unicode_(s):
-    if not IS_PYTHON3:
-        unicode_string = s.decode(sys.getfilesystemencoding())
-        return unicode_string
-    else:
-        return unicode(s)
+if platform.system() != 'Windows':
+    file_ = sys.stdout.buffer
+    sys.stdout = codecs.getwriter(locale.getpreferredencoding())(file_)

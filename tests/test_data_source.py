@@ -1,17 +1,16 @@
 # -*- coding: utf-8 -*-
-from __future__ import print_function, unicode_literals
 
 import os
 import unittest
 
-from bgmi.config import unicode_
+from bgmi.config import str
 from bgmi.lib.fetch import data_source
 
 
 class ControllersTest(unittest.TestCase):
     def setUp(self):
-        self.bangumi_name_1 = unicode_(os.environ.get('BANGUMI_1'))
-        self.bangumi_name_2 = unicode_(os.environ.get('BANGUMI_2'))
+        self.bangumi_name_1 = str(os.environ.get('BANGUMI_1'))
+        self.bangumi_name_2 = str(os.environ.get('BANGUMI_2'))
         self.w = data_source
         pass
 

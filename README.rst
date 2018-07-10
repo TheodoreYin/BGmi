@@ -388,7 +388,6 @@ Bangumi Script is located at :code:`BGMI_PATH/script`, inherited :code:`ScriptBa
 .. code-block:: python
 
     # coding=utf-8
-    from __future__ import print_function, unicode_literals
 
     import re
     import json
@@ -451,7 +450,6 @@ Another example:
 .. code-block:: python
 
     # coding=utf-8
-    from __future__ import print_function, unicode_literals
 
     import re
     import requests

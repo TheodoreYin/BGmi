@@ -1,8 +1,7 @@
 # coding=utf-8
-from __future__ import print_function, unicode_literals
 
 import bgmi.config
-from bgmi.config import BANGUMI_MOE_URL, SHARE_DMHY_URL, unicode_
+from bgmi.config import BANGUMI_MOE_URL, SHARE_DMHY_URL
 
 ACTION_ADD = 'add'
 ACTION_FETCH = 'fetch'
@@ -83,7 +82,7 @@ actions_and_arguments = [
         'action': ACTION_ADD,
         'help': 'Subscribe bangumi.',
         'arguments': [
-            {'dest': 'name', 'kwargs': dict(metavar='name', type=unicode_, nargs='+', help='Bangumi name'), },
+            {'dest': 'name', 'kwargs': dict(metavar='name', type=str, nargs='+', help='Bangumi name'), },
             {'dest': '--episode',
              'kwargs': dict(metavar='episode', help='Add bangumi and mark it as specified episode.', type=int), },
             {'dest': '--not-ignore', 'kwargs': dict(action='store_true',
@@ -95,7 +94,7 @@ actions_and_arguments = [
         'help': 'Unsubscribe bangumi.',
         'arguments': [
             {'dest': '--name',
-             'kwargs': dict(metavar='name', nargs='+', type=unicode_, help='Bangumi name to unsubscribe.'), },
+             'kwargs': dict(metavar='name', nargs='+', type=str, help='Bangumi name to unsubscribe.'), },
             {'dest': '--clear-all',
              'kwargs': dict(action='store_true',
                             help='Clear all the subscriptions name will be ignored If you provide this flag.'), },
@@ -111,15 +110,16 @@ actions_and_arguments = [
         'action': ACTION_FILTER,
         'help': 'Set bangumi fetch filter.',
         'arguments': [
-            {'dest': 'name', 'kwargs': dict(metavar='name', type=unicode_, help='Bangumi name to set the filter.'), },
+            {'dest': 'name', 'kwargs': dict(metavar='name', type=str, help='Bangumi name to set the filter.'), },
             {'dest': '--subtitle',
-             'kwargs': dict(metavar='subtitle', type=unicode_, help='Subtitle group name, split by ",".'), },
-            {'dest': '--include', 'kwargs': dict(metavar='include', type=unicode_,
+             'kwargs': dict(metavar='subtitle', type=str, help='Subtitle group name, split by ",".'), },
+            {'dest': '--include', 'kwargs': dict(metavar='include', type=str,
                                                  help='Filter by keywords which in the title, split by ",".'), },
-            {'dest': '--exclude', 'kwargs': dict(metavar='exclude', type=unicode_,
+            {'dest': '--exclude', 'kwargs': dict(metavar='exclude', type=str,
                                                  help='Filter by keywords which not int the title, split by ",".'), },
-            {'dest': '--regex', 'kwargs': dict(metavar='regex', type=unicode_, help='Filter by regular expression'), },
-            {'dest': '--source', 'kwargs': dict(metavar='source', type=unicode_, help='Data source you want to download from'), },
+            {'dest': '--regex', 'kwargs': dict(metavar='regex', type=str, help='Filter by regular expression'), },
+            {'dest': '--source',
+             'kwargs': dict(metavar='source', type=str, help='Data source you want to download from'), },
         ]
     },
     {
@@ -127,7 +127,7 @@ actions_and_arguments = [
         'help': 'Update bangumi calendar and subscribed bangumi episode.',
         'arguments': [
             {'dest': 'name',
-             'kwargs': dict(metavar='name', type=unicode_, nargs='*', help='Update specified bangumi.'), },
+             'kwargs': dict(metavar='name', type=str, nargs='*', help='Update specified bangumi.'), },
 
             {'dest': ['--download', '-d'],
              'kwargs': dict(action='store', nargs='*', type=int, metavar='episode',
@@ -159,11 +159,11 @@ actions_and_arguments = [
         'help': 'Config BGmi.',
         'arguments': [
             {'dest': 'name',
-             'kwargs': dict(nargs='?', type=unicode_, help='Config name',
+             'kwargs': dict(nargs='?', type=str, help='Config name',
                             choices=bgmi.config.__all_writable_now__), },
 
             {'dest': 'value',
-             'kwargs': dict(nargs='?', type=unicode_, help='Config value')},
+             'kwargs': dict(nargs='?', type=str, help='Config value')},
         ],
     },
     {
@@ -171,7 +171,7 @@ actions_and_arguments = [
         'help': 'Mark bangumi episode.',
         'arguments': [
             {'dest': 'name',
-             'kwargs': dict(type=unicode_, help='Bangumi name'), },
+             'kwargs': dict(type=str, help='Bangumi name'), },
 
             {'dest': 'episode',
              'kwargs': dict(help='Bangumi episode', type=int), },
@@ -196,7 +196,7 @@ actions_and_arguments = [
         'help': 'Fetch bangumi.',
         'arguments': [
             {'dest': 'name',
-             'kwargs': dict(help='Bangumi name', type=unicode_), },
+             'kwargs': dict(help='Bangumi name', type=str), },
 
             {'dest': '--not-ignore',
              'kwargs': dict(action='store_true',
@@ -208,11 +208,11 @@ actions_and_arguments = [
         'help': 'Search torrents from data source by keyword',
         'arguments': [
             {'dest': 'keyword',
-             'kwargs': dict(help='Search keyword', type=unicode_), },
+             'kwargs': dict(help='Search keyword', type=str), },
             {'dest': '--count',
              'kwargs': dict(type=int, help='The max page count of search result.'), },
             {'dest': '--regex-filter',
-             'kwargs': dict(type=unicode_, help='Regular expression filter of title.'), },
+             'kwargs': dict(type=str, help='Regular expression filter of title.'), },
             {'dest': '--download',
              'kwargs': dict(action='store_true', help='Download search result.'), },
             {'dest': '--dupe',
@@ -228,7 +228,7 @@ actions_and_arguments = [
         'help': 'Select date source bangumi_moe or mikan_project',
         'arguments': [
             {'dest': 'source',
-             'kwargs': dict(help='bangumi_moe or mikan_project', type=unicode_,
+             'kwargs': dict(help='bangumi_moe or mikan_project', type=str,
                             choices=[x['id'] for x in SUPPORT_WEBSITE])},
         ]
     },

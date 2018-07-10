@@ -1,6 +1,4 @@
 # coding=utf-8
-from __future__ import print_function, unicode_literals
-
 import time
 
 from bgmi.config import write_config, MAX_PAGE
