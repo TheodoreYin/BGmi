@@ -74,7 +74,6 @@ def mergeDataSource(origin_bangumi_list, data_source_bangumi_list, source):
         m = findMostSimilarBangumi(bangumi['name'], data_source_bangumi_list)
         if m:
             data_source_bangumi_list.remove(m)
-            print(bangumi)
             bangumi['data_source'][source] = m
     for bangumi in data_source_bangumi_list:
         bangumi['data_source'] = {source: deepcopy(bangumi)}

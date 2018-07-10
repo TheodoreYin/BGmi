@@ -1,5 +1,5 @@
 # coding=utf-8
-import os
+import os.path
 import sqlite3
 from shutil import copy
 

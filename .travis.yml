@@ -16,7 +16,7 @@ cache:
 python:
     - 3.4
     - 3.6
-    - 3.7
+#    - 3.7
 
 install:
     - python setup.py install
