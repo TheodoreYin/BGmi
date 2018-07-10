@@ -270,7 +270,7 @@ class Mikanani(BaseWebsite):
             for obj in parser_day_bangumi(day):
                 bangumi_list.append(obj)
 
-        p = ThreadPool()
+        p = ThreadPool(4)
         r = p.map(self.parse_bangumi_details_page, [x['keyword'] for x in bangumi_list])
         p.close()
 

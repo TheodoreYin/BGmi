@@ -19,6 +19,10 @@ STATUS_UPDATING = 0
 STATUS_END = 1
 BANGUMI_STATUS = (STATUS_UPDATING, STATUS_END)
 
+# bangumi type
+TYPE_MAINLINE = 0
+TYPE_LEFT = 1
+
 # subscription status
 STATUS_DELETED = 0
 STATUS_FOLLOWED = 1
@@ -48,6 +52,7 @@ class Bangumi(NeoDB):
     keyword = TextField()
     status = IntegerField(default=0)
     cover = TextField()
+    type = TextField(null=False)
     data_source = JSONField(default=lambda: {})  # type: dict
 
     week = ('Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun')
@@ -92,6 +97,10 @@ class Bangumi(NeoDB):
             weekly_list = list(data)
 
         return weekly_list
+
+    @classmethod
+    def get_all_bangumi(cls):
+        return [model_to_dict(bgm) for bgm in cls.select()]
 
     @property
     def source(self):

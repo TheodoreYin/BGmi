@@ -13,7 +13,7 @@ from six import text_type
 
 from bgmi.config import MAX_PAGE, ENABLE_GLOBAL_FILTER, GLOBAL_FILTER
 from bgmi.lib import models
-from bgmi.lib.models import Bangumi, Filter
+from bgmi.lib.models import Bangumi, Filter, model_to_dict, TYPE_MAINLINE, TYPE_LEFT
 from bgmi.lib.models import STATUS_UPDATING
 from bgmi.lib.models import Subtitle, STATUS_FOLLOWED, STATUS_UPDATED
 from bgmi.utils import test_connection, print_warning, print_info, download_cover, convert_cover_url_to_path
@@ -54,8 +54,8 @@ def findMostSimilarBangumi(name, bangumi_list):
     name = HanziConv.toSimplified(name)
     for index, bangumi in enumerate(bangumi_list):
         n2 = HanziConv.toSimplified(bangumi['name'])
-        s = fuzz.partial_ratio(name, n2)
-        if s > 50:
+        s = fuzz.ratio(name, n2)
+        if s > 40:
             if s > m:
                 m = s
                 max_bangumi = bangumi
@@ -74,7 +74,8 @@ def mergeDataSource(origin_bangumi_list, data_source_bangumi_list, source):
         m = findMostSimilarBangumi(bangumi['name'], data_source_bangumi_list)
         if m:
             data_source_bangumi_list.remove(m)
-            bangumi['data_source'][source] = cleanBangumiDict(m)
+            print(bangumi)
+            bangumi['data_source'][source] = m
     for bangumi in data_source_bangumi_list:
         bangumi['data_source'] = {source: deepcopy(bangumi)}
     return data_source_bangumi_list
@@ -93,19 +94,28 @@ def init_data():
                 'keyword': item['id'],
                 "status": models.STATUS_UPDATING,
                 "cover": '',
+                "type": TYPE_MAINLINE,
                 'data_source': {},
             }
         bangumi_tv_weekly_list += day['items']
-
+    bgm_tv_name_list = [x['name'] for x in bangumi_tv_weekly_list]
+    bangumi_tv_weekly_list += [model_to_dict(bgm) for bgm in Bangumi.select()
+        .where(Bangumi.name.not_in(bgm_tv_name_list) | (Bangumi.type == TYPE_MAINLINE))]
     left = []
     subtitle = {}
     for data_source_id, data_source in DATA_SOURCE_MAP.items():
         print_info('Fetching {}'.format(data_source_id))
         bangumi_list, subtitle_list = data_source.fetch_bangumi_calendar_and_subtitle_group()
+        bangumi_list = [cleanBangumiDict(bangumi) for bangumi in bangumi_list]
         subtitle[data_source_id] = subtitle_list
-        left += mergeDataSource(bangumi_tv_weekly_list,
-                                bangumi_list,
-                                data_source_id)
+        l = mergeDataSource(bangumi_tv_weekly_list,
+                            bangumi_list,
+                            data_source_id)
+        for bangumi in l:
+            bangumi['type'] = TYPE_LEFT
+        left += l
+    bangumi_tv_weekly_list = [x for x in bangumi_tv_weekly_list if x['data_source']]
+
     return bangumi_tv_weekly_list + left, subtitle
 
 
@@ -187,6 +197,17 @@ class DataSource():
 
         :type data: dict
         """
+        (Bangumi.insert({
+            Bangumi.name: data['name'],
+            Bangumi.update_time: data['update_time'],
+            Bangumi.keyword: data['keyword'],
+            Bangumi.status: data['status'],
+            Bangumi.cover: data['cover'],
+            Bangumi.type: data['type'],
+            Bangumi.data_source: data['data_source']  # type: dict
+        }).on_conflict_replace(
+            # conflict_target=(Bangumi.name,),
+        )).execute()
         b, obj_created = Bangumi.get_or_create(name=data['name'], defaults=data)
         if not obj_created:
             b.status = STATUS_UPDATING
@@ -394,5 +415,5 @@ class DataSource():
         :return: list of episode search result
         :rtype: list[dict]
         """
-        return sum([print_info('Search in {}'.format(i)) or s.search_by_keyword(keyword, count) for i,s in
+        return sum([print_info('Search in {}'.format(i)) or s.search_by_keyword(keyword, count) for i, s in
                     DATA_SOURCE_MAP.items()], [])
