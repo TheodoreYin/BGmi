@@ -38,15 +38,22 @@ DOWNLOAD_DELEGATE_MAP = {
     'deluge-rpc': __deluge__,
 }
 
-if not os.environ.get('BGMI_PATH'):  # pragma: no cover
-    if platform.system() == 'Windows':
-        BGMI_PATH = os.path.join(os.environ.get('USERPROFILE', None), '.bgmi')
-        if not BGMI_PATH:
-            raise SystemExit
-    else:
-        BGMI_PATH = os.path.join(os.environ.get('HOME', '/tmp'), '.bgmi')
-else:
-    BGMI_PATH = os.environ.get('BGMI_PATH')
+
+def get_bgmi_path():
+    if not os.environ.get('BGMI_PATH'):
+        if platform.system() == 'Windows':
+            BGMI_PATH = os.path.join(os.environ.get('USERPROFILE', None), '.bgmi')
+
+        else:
+            BGMI_PATH = os.path.join(os.environ.get('HOME', '/tmp'), '.bgmi')
+    else:  # pragma: no cover
+        BGMI_PATH = os.environ.get('BGMI_PATH')
+    return BGMI_PATH
+
+
+BGMI_PATH = get_bgmi_path()
+if not BGMI_PATH:  # pragma: no cover
+    raise SystemExit
 
 DB_PATH = os.path.join(BGMI_PATH, 'bangumi.db')
 CONFIG_FILE_PATH = os.path.join(BGMI_PATH, 'bgmi.cfg')
@@ -74,8 +81,6 @@ def read_config():
 
 def print_config():
     c = configparser.ConfigParser()
-    if not os.path.exists(CONFIG_FILE_PATH):
-        return
 
     c.read(CONFIG_FILE_PATH)
     string = ''
@@ -97,10 +102,7 @@ def write_default_config():
     for k in __writeable__:
         v = globals().get(k, '0')
         if k == 'ADMIN_TOKEN' and v is None:
-            if sys.version_info > (3, 0):
-                v = hashlib.md5(str(random.random()).encode('utf-8')).hexdigest()
-            else:
-                v = hashlib.md5(str(random.random())).hexdigest()
+            v = hashlib.md5(str(random.random()).encode('utf-8')).hexdigest()
 
         c.set('bgmi', k, v)
 
@@ -117,7 +119,7 @@ def write_default_config():
     try:
         with open(CONFIG_FILE_PATH, 'w') as f:
             c.write(f)
-    except IOError:
+    except IOError:  # pragma: no cover
         print('[-] Error writing to config file and ignored')
 
 
@@ -130,10 +132,6 @@ def write_config(config=None, value=None):
 
     c = configparser.ConfigParser()
     c.read(CONFIG_FILE_PATH)
-    if config is not None and config not in __all_writable_now__:
-        result = {'status': 'error',
-                  'message': '{0} does not exist or not writeable'.format(config)}
-        # return result
 
     try:
         if config is None:
@@ -180,7 +178,7 @@ def write_config(config=None, value=None):
                 result = {'status': 'error',
                           'message': '{0} does not exist or not writeable'.format(config)}
 
-    except configparser.NoOptionError:
+    except (configparser.NoOptionError, configparser.NoSectionError):
         write_default_config()
         result = {'status': 'error', 'message': 'Error in config file, try rerun `bgmi config`'}
 
@@ -272,6 +270,6 @@ import locale
 
 # Wrap sys.stdout into a StreamWriter to allow writing str.
 
-if platform.system() != 'Windows':
+if platform.system() != 'Windows':  # pragma: no cover
     file_ = sys.stdout.buffer
     sys.stdout = codecs.getwriter(locale.getpreferredencoding())(file_)
