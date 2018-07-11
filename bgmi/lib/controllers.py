@@ -1,4 +1,5 @@
 # coding=utf-8
+import os
 import time
 
 from bgmi.config import write_config, MAX_PAGE
@@ -247,6 +248,8 @@ def search(keyword, count=MAX_PAGE, regex=None, dupe=False, min_episode=None, ma
                             max_episode=max_episode),
             'data': data}
     except Exception as e:
+        if os.environ.get('DEBUG'):
+            raise e
         return {
             'status': 'error',
             'message': str(e),
