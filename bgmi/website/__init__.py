@@ -1,4 +1,5 @@
 # coding=utf-8
+import json
 import os.path
 import re
 import time
@@ -88,12 +89,12 @@ def init_data():
     for day in r:
         for index, item in enumerate(day['items']):
             day['items'][index] = {
-                'name': item['name_cn'],
+                'name'       : item['name_cn'],
                 'update_time': day['weekday']['en'].capitalize(),
-                'keyword': item['id'],
-                "status": models.STATUS_UPDATING,
-                "cover": '',
-                "type": TYPE_MAINLINE,
+                'keyword'    : item['id'],
+                "status"     : models.STATUS_UPDATING,
+                "cover"      : json.dumps(item.get('images', {})),
+                "type"       : TYPE_MAINLINE,
                 'data_source': {},
             }
         bangumi_tv_weekly_list += day['items']

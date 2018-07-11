@@ -23,6 +23,7 @@ TYPE_MAINLINE = 0
 TYPE_LEFT = 1
 
 # subscription status
+# Followed bangumi status
 STATUS_DELETED = 0
 STATUS_FOLLOWED = 1
 STATUS_UPDATED = 2
@@ -36,7 +37,7 @@ DOWNLOAD_STATUS = (STATUS_NOT_DOWNLOAD, STATUS_DOWNLOADING, STATUS_DOWNLOADED)
 
 DoesNotExist = peewee.DoesNotExist
 
-db = peewee.SqliteDatabase(bgmi.config.SAVE_PATH)
+db = peewee.SqliteDatabase(bgmi.config.DB_PATH)
 
 
 class NeoDB(peewee.Model):
@@ -68,14 +69,13 @@ class Bangumi(NeoDB):
 
     @classmethod
     def delete_all(cls):
-        un_updated_bangumi = Followed.select().where(
-            Followed.updated_time > (int(time.time()) - 2 * 7 * 24 * 3600))  # type: list[Followed]
+        un_updated_bangumi = Followed.select() \
+            .where(Followed.updated_time > (int(time.time()) - 2 * 7 * 24 * 3600))  # type: list[Followed]
         if os.getenv('DEBUG'):  # pragma: no cover
             print('ignore updating bangumi', [x.bangumi_name for x in un_updated_bangumi])
 
         cls.update(status=STATUS_END) \
-            .where(cls.name.not_in(
-            [x.bangumi_name for x in un_updated_bangumi])).execute()  # do not mark updating bangumi as STATUS_END
+            .where(cls.name.not_in([x.bangumi_name for x in un_updated_bangumi])).execute()  # do not mark updating bangumi as STATUS_END
 
     @classmethod
     def get_updating_bangumi(cls, status=None, order=True):
@@ -99,11 +99,7 @@ class Bangumi(NeoDB):
 
     @classmethod
     def get_all_bangumi(cls):
-        return [model_to_dict(bgm) for bgm in cls.select()]
-
-    @property
-    def source(self):
-        return self.data_source
+        return cls.select().dicts()
 
 
 class Followed(NeoDB):
@@ -121,7 +117,6 @@ class Followed(NeoDB):
         if not batch:
             if not input('[+] are you sure want to CLEAR ALL THE BANGUMI? (y/N): ') == 'y':
                 return False
-
         q.execute()
         return True
 
@@ -170,23 +165,10 @@ class Filter(NeoDB):
 
 
 class Subtitle(NeoDB):
-    id = TextField(primary_key=True, unique=True)
+    id = TextField()
     name = TextField()
     data_source = TextField()
 
-    @classmethod
-    def get_subtitle_by_id(cls, id_list=None):
-        data = list(cls.select().where(cls.id.in_(id_list)))
-        for index, subtitle in enumerate(data):
-            data[index] = model_to_dict(subtitle)
-        return data
-
-    @classmethod
-    def get_subtitle_by_name(cls, name_list=None):
-        data = list(cls.select().where(cls.name.in_(name_list)))
-        for index, subtitle in enumerate(data):
-            data[index] = model_to_dict(subtitle)
-        return data
 
     @classmethod
     def get_subtitle_of_bangumi(cls, bangumi_obj):

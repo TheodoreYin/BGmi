@@ -1,0 +1,393 @@
+{
+  "mikan_project": [
+    {
+      "name": "名侦探柯南",
+      "keyword": "227",
+      "cover": "https://mikanani.me/Images/Bangumi/201310/91d95f43.jpg",
+      "status": 0,
+      "update_time": "Sun",
+      "subtitle_group": [
+        "10",
+        "161",
+        "93",
+        "202",
+        "305",
+        "22",
+        "387",
+        "169",
+        "373",
+        "7",
+        "38",
+        "21",
+        "97",
+        "25",
+        "81",
+        "151",
+        "14",
+        "65",
+        "85",
+        "9",
+        "57",
+        "52"
+      ],
+      "subtitle_groups": [
+        {
+          "id": "10",
+          "name": "柯南事务所"
+        },
+        {
+          "id": "161",
+          "name": "银色子弹字幕组"
+        },
+        {
+          "id": "93",
+          "name": "风车字幕组"
+        },
+        {
+          "id": "202",
+          "name": "生肉/不明字幕"
+        },
+        {
+          "id": "305",
+          "name": "波洛咖啡厅"
+        },
+        {
+          "id": "22",
+          "name": "银光字幕组"
+        },
+        {
+          "id": "387",
+          "name": "神帆字幕组"
+        },
+        {
+          "id": "169",
+          "name": "星火字幕组"
+        },
+        {
+          "id": "373",
+          "name": "丢丢字幕组"
+        },
+        {
+          "id": "7",
+          "name": "红烧鱼字幕组"
+        },
+        {
+          "id": "38",
+          "name": "猪猪字幕组"
+        },
+        {
+          "id": "21",
+          "name": "幻樱字幕组"
+        },
+        {
+          "id": "97",
+          "name": "丸子家族"
+        },
+        {
+          "id": "25",
+          "name": "星光字幕组"
+        },
+        {
+          "id": "81",
+          "name": "汐空字幕组"
+        },
+        {
+          "id": "151",
+          "name": "风翼字幕组"
+        },
+        {
+          "id": "14",
+          "name": "囧夏发布组"
+        },
+        {
+          "id": "65",
+          "name": "Ylbud樱律字幕组"
+        },
+        {
+          "id": "85",
+          "name": "自由字幕组"
+        },
+        {
+          "id": "9",
+          "name": "天空树双语字幕组"
+        },
+        {
+          "id": "57",
+          "name": "漫盟之影字幕组"
+        },
+        {
+          "id": "52",
+          "name": "小行字幕组"
+        }
+      ],
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "name": "海贼王",
+      "keyword": "228",
+      "cover": "https://mikanani.me/Images/Bangumi/201310/0aa598c7.jpg",
+      "status": 0,
+      "update_time": "Sun",
+      "subtitle_group": [
+        "1",
+        "9",
+        "202",
+        "38",
+        "22"
+      ],
+      "subtitle_groups": [
+        {
+          "id": "1",
+          "name": "OPFans枫雪动漫"
+        },
+        {
+          "id": "9",
+          "name": "天空树双语字幕组"
+        },
+        {
+          "id": "202",
+          "name": "生肉/不明字幕"
+        },
+        {
+          "id": "38",
+          "name": "猪猪字幕组"
+        },
+        {
+          "id": "22",
+          "name": "银光字幕组"
+        }
+      ],
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "name": "神怒之日",
+      "keyword": "1456",
+      "cover": "https://mikanani.me/Images/Bangumi/201710/0e9ea8e4.jpg",
+      "status": 0,
+      "update_time": "Sun",
+      "subtitle_group": [
+        "202",
+        "70",
+        "30",
+        "19"
+      ],
+      "subtitle_groups": [
+        {
+          "id": "202",
+          "name": "生肉/不明字幕"
+        },
+        {
+          "id": "70",
+          "name": "喵萌茶会字幕组"
+        },
+        {
+          "id": "30",
+          "name": "澄空学园"
+        },
+        {
+          "id": "19",
+          "name": "动漫国字幕组"
+        }
+      ],
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "name": "HUGtto！光之美少女",
+      "keyword": "1538",
+      "cover": "https://mikanani.me/Images/Bangumi/201802/d6b7452c.jpg",
+      "status": 0,
+      "update_time": "Sun",
+      "subtitle_group": [
+        "6",
+        "154"
+      ],
+      "subtitle_groups": [
+        {
+          "id": "6",
+          "name": "雪飘工作室"
+        },
+        {
+          "id": "154",
+          "name": "梦星字幕组"
+        }
+      ],
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "name": "鬼太郎 第六季",
+      "keyword": "1618",
+      "cover": "https://mikanani.me/Images/Bangumi/201804/e6f6dfc5.jpg",
+      "status": 0,
+      "update_time": "Sun",
+      "subtitle_group": [
+        "181"
+      ],
+      "subtitle_groups": [
+        {
+          "id": "181",
+          "name": "c.c动漫"
+        }
+      ],
+      "type": 1,
+      "data_source": {}
+    }
+  ],
+  "bangumi_moe": [
+    {
+      "status": 0,
+      "subtitle_group": [
+        "5492ecbc2a934ba5288acb20"
+      ],
+      "name": "名侦探柯南",
+      "keyword": "548fe27ef892774b140ac6e8",
+      "update_time": "Sat",
+      "cover": "https://bangumi.moe/data/images/2014/12/6s8brph4pbw53m1ehi9.jpg",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "59030031e777e29f2a081ba1",
+        "59058a79e777e29f2a081e10",
+        "55a3ddfab85ffe43596230d5"
+      ],
+      "name": "海贼王",
+      "keyword": "548ef7225af0fb402813b57b",
+      "update_time": "Sun",
+      "cover": "https://bangumi.moe/data/images/2014/12/4812mhys7u6n7vvlvgl.jpg",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "58fe0031e777e29f2a08175d",
+        "567cdf0d3e4e6e4148f19bbd",
+        "567bda4eafc701435d468b61"
+      ],
+      "name": "偶像活动",
+      "keyword": "548f0f4cf892774b140ac678",
+      "update_time": "Mon",
+      "cover": "https://bangumi.moe/data/images/2014/12/6dv8ukxc0odnwade3pi.jpg",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "57fc8d1eee98e9ca2073074b",
+        "55c057b124180bc3647feb1d",
+        "56b36ddc50ad6a683360db67",
+        "559d1fcdb85ffe4359622f5f",
+        "56b9f07f50ad6a683360dd1f",
+        "54bffe22229d1ecf2c1e553b"
+      ],
+      "name": "妖精的尾巴",
+      "keyword": "548f0f2df892774b140ac674",
+      "update_time": "Sat",
+      "cover": "https://bangumi.moe/data/images/2014/12/6dznn2rykghikpgav2k.jpg",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "5492dda32a934ba5288acb1b"
+      ],
+      "name": "龙珠改 魔人布欧篇",
+      "keyword": "548f0275f892774b140ac634",
+      "update_time": "Sun",
+      "cover": "https://bangumi.moe/data/images/2014/12/53o20pi40qg4izrj1hj.jpg",
+      "type": 1,
+      "data_source": {}
+    }
+  ],
+  "dmhy": [
+    {
+      "status": 0,
+      "subtitle_group": [
+        "488",
+        "506"
+      ],
+      "name": "櫻桃小丸子",
+      "keyword": "%E5%B0%8F%E4%B8%B8%E5%AD%90",
+      "update_time": "Sun",
+      "cover": "https://share.dmhy.org/images/weekly/chibimaru.jpg",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "34",
+        "57",
+        "380",
+        "485",
+        "506"
+      ],
+      "name": "海賊王",
+      "keyword": "%E6%B5%B7%E8%B3%8A%E7%8E%8B",
+      "update_time": "Sun",
+      "cover": "https://share.dmhy.org/images/weekly/OnePiece.jpg",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "488",
+        "552"
+      ],
+      "name": "寶石寵物",
+      "keyword": "%E7%9F%B3%E5%AF%B5",
+      "update_time": "Sun",
+      "cover": "https://share.dmhy.org/images/weekly/jewelpet7.gif",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "37",
+        "552"
+      ],
+      "name": "光之美少女!",
+      "keyword": "%E5%85%89%E4%B9%8B",
+      "update_time": "Sun",
+      "cover": "https://share.dmhy.org/images/weekly/MahouTsukaiPrecure.gif",
+      "type": 1,
+      "data_source": {}
+    },
+    {
+      "status": 0,
+      "subtitle_group": [
+        "117",
+        "669",
+        "185",
+        "454",
+        "58",
+        "134",
+        "151",
+        "663",
+        "432",
+        "434",
+        "674",
+        "423",
+        "141",
+        "649",
+        "619"
+      ],
+      "name": "百變小櫻 透明牌篇",
+      "keyword": "%E9%AD%94%E5%8D%A1%7C%E5%BA%AB%E6%B4%9B%7C%E7%99%BE%E8%AE%8A",
+      "update_time": "Sun",
+      "cover": "https://share.dmhy.org/images/weekly/ccsakura.gif",
+      "type": 1,
+      "data_source": {}
+    }
+  ]
+}

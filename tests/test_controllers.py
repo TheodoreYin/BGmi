@@ -65,4 +65,3 @@ class ControllersTest(unittest.TestCase):
     @staticmethod
     def setUpClass():
         setup()
-        recreate_source_relatively_table()

@@ -106,14 +106,13 @@ def filter_(name, subtitle=None, include=None, exclude=None, regex=None, data_so
 
     data_source_list = list(bangumi_obj.data_source.keys())
     result['data'] = {
-        'name': name,
+        'name'          : name,
         'subtitle_group': subtitle_list,
-        'data_source': data_source_list,
-        'followed': list(map(lambda s: s['name'], Subtitle.get_subtitle_by_id(followed_filter_obj.subtitle.split(', ')))
-                         if followed_filter_obj.subtitle else []),
-        'include': followed_filter_obj.include,
-        'exclude': followed_filter_obj.exclude,
-        'regex': followed_filter_obj.regex,
+        'data_source'   : data_source_list,
+        'followed'      : followed_filter_obj.subtitle.split(', ') if followed_filter_obj.subtitle else [],
+        'include'       : followed_filter_obj.include,
+        'exclude'       : followed_filter_obj.exclude,
+        'regex'         : followed_filter_obj.regex,
     }
     logger.debug(result)
     return result

@@ -1,0 +1,2351 @@
+[
+    {
+        "weekday": {
+            "en": "Mon",
+            "cn": "\u661f\u671f\u4e00",
+            "ja": "\u6708\u8000\u65e5",
+            "id": 1
+        },
+        "items": [
+            {
+                "id": 199423,
+                "url": "http:\/\/bgm.tv\/subject\/199423",
+                "type": 2,
+                "name": "\u9b54\u9053\u7956\u5e08",
+                "name_cn": "\u9b54\u9053\u7956\u5e08",
+                "summary": "",
+                "air_date": "2018-07-09",
+                "air_weekday": 1,
+                "rating": {
+                    "total": 5,
+                    "count": {
+                        "10": 0,
+                        "9": 1,
+                        "8": 2,
+                        "7": 2,
+                        "6": 0,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.8
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/a9\/3e\/199423_G1W8d.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/a9\/3e\/199423_G1W8d.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/a9\/3e\/199423_G1W8d.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/a9\/3e\/199423_G1W8d.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/a9\/3e\/199423_G1W8d.jpg"
+                },
+                "collection": {
+                    "doing": 32
+                }
+            },
+            {
+                "id": 216310,
+                "url": "http:\/\/bgm.tv\/subject\/216310",
+                "type": 2,
+                "name": "\u30e4\u30de\u30ce\u30b9\u30b9\u30e1 \u30b5\u30fc\u30c9\u30b7\u30fc\u30ba\u30f3",
+                "name_cn": "\u5411\u5c71\u8fdb\u53d1 \u7b2c\u4e09\u5b63",
+                "summary": "",
+                "air_date": "2018-07-02",
+                "air_weekday": 1,
+                "rating": {
+                    "total": 84,
+                    "count": {
+                        "10": 1,
+                        "9": 11,
+                        "8": 32,
+                        "7": 34,
+                        "6": 4,
+                        "5": 1,
+                        "4": 1,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.6
+                },
+                "rank": 922,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/49\/a2\/216310_ci5yT.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/49\/a2\/216310_ci5yT.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/49\/a2\/216310_ci5yT.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/49\/a2\/216310_ci5yT.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/49\/a2\/216310_ci5yT.jpg"
+                },
+                "collection": {
+                    "doing": 394
+                }
+            },
+            {
+                "id": 219143,
+                "url": "http:\/\/bgm.tv\/subject\/219143",
+                "type": 2,
+                "name": "\u5144\u306b\u4ed8\u3051\u308b\u85ac\u306f\u306a\u3044\uff012-\u5feb\u628a\u6211\u54e5\u5e2f\u8d702-",
+                "name_cn": "\u6ca1\u6709\u7ed9\u6211\u54e5\u5403\u7684\u836f\uff012",
+                "summary": "",
+                "air_date": "2018-07-02",
+                "air_weekday": 1,
+                "rating": {
+                    "total": 3,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 2,
+                        "6": 0,
+                        "5": 1,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.3
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/d8\/d4\/219143_88Fi8.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/d8\/d4\/219143_88Fi8.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/d8\/d4\/219143_88Fi8.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/d8\/d4\/219143_88Fi8.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/d8\/d4\/219143_88Fi8.jpg"
+                },
+                "collection": {
+                    "doing": 27
+                }
+            },
+            {
+                "id": 226507,
+                "url": "http:\/\/bgm.tv\/subject\/226507",
+                "type": 2,
+                "name": "One Room \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3",
+                "name_cn": "One Room \u7b2c\u4e8c\u5b63",
+                "summary": "",
+                "air_date": "2018-07-02",
+                "air_weekday": 1,
+                "rating": {
+                    "total": 89,
+                    "count": {
+                        "10": 1,
+                        "9": 1,
+                        "8": 20,
+                        "7": 36,
+                        "6": 24,
+                        "5": 4,
+                        "4": 1,
+                        "3": 1,
+                        "2": 1,
+                        "1": 0
+                    },
+                    "score": 6.8
+                },
+                "rank": 2119,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/87\/1e\/226507_dBZCh.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/87\/1e\/226507_dBZCh.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/87\/1e\/226507_dBZCh.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/87\/1e\/226507_dBZCh.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/87\/1e\/226507_dBZCh.jpg"
+                },
+                "collection": {
+                    "doing": 466
+                }
+            },
+            {
+                "id": 231722,
+                "url": "http:\/\/bgm.tv\/subject\/231722",
+                "type": 2,
+                "name": "\u90aa\u795e\u3061\u3083\u3093\u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af",
+                "name_cn": "\u90aa\u795e\u4e0e\u53a8\u4e8c\u75c5\u5c11\u5973",
+                "summary": "",
+                "air_date": "2018-07-09",
+                "air_weekday": 1,
+                "rating": {
+                    "total": 78,
+                    "count": {
+                        "10": 1,
+                        "9": 1,
+                        "8": 14,
+                        "7": 26,
+                        "6": 18,
+                        "5": 8,
+                        "4": 3,
+                        "3": 5,
+                        "2": 1,
+                        "1": 1
+                    },
+                    "score": 6.3
+                },
+                "rank": 2864,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/49\/c0\/231722_6mS09.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/49\/c0\/231722_6mS09.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/49\/c0\/231722_6mS09.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/49\/c0\/231722_6mS09.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/49\/c0\/231722_6mS09.jpg"
+                },
+                "collection": {
+                    "doing": 343
+                }
+            },
+            {
+                "id": 240198,
+                "url": "http:\/\/bgm.tv\/subject\/240198",
+                "type": 2,
+                "name": "\u4eac\u90fd\u5bfa\u753a\u4e09\u6761\u306e\u30db\u30fc\u30e0\u30ba",
+                "name_cn": "\u4eac\u90fd\u5bfa\u753a\u4e09\u6761\u5546\u5e97\u8857\u7684\u798f\u5c14\u6469\u65af",
+                "summary": "",
+                "air_date": "2018-07-09",
+                "air_weekday": 1,
+                "rating": {
+                    "total": 19,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 1,
+                        "7": 6,
+                        "6": 12,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.4
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/c5\/07\/240198_pi0Y7.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/c5\/07\/240198_pi0Y7.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/c5\/07\/240198_pi0Y7.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/c5\/07\/240198_pi0Y7.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/c5\/07\/240198_pi0Y7.jpg"
+                },
+                "collection": {
+                    "doing": 105
+                }
+            },
+            {
+                "id": 241264,
+                "url": "http:\/\/bgm.tv\/subject\/241264",
+                "type": 2,
+                "name": "Phantom in the Twilight",
+                "name_cn": "\u66ae\u5149\u5e7b\u5f71",
+                "summary": "",
+                "air_date": "2018-07-09",
+                "air_weekday": 1,
+                "rating": {
+                    "total": 8,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 3,
+                        "7": 0,
+                        "6": 2,
+                        "5": 3,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.4
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/7f\/ce\/241264_m6IO7.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/7f\/ce\/241264_m6IO7.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/7f\/ce\/241264_m6IO7.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/7f\/ce\/241264_m6IO7.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/7f\/ce\/241264_m6IO7.jpg"
+                },
+                "collection": {
+                    "doing": 66
+                }
+            }
+        ]
+    },
+    {
+        "weekday": {
+            "en": "Tue",
+            "cn": "\u661f\u671f\u4e8c",
+            "ja": "\u706b\u8000\u65e5",
+            "id": 2
+        },
+        "items": [
+            {
+                "id": 218572,
+                "url": "http:\/\/bgm.tv\/subject\/218572",
+                "type": 2,
+                "name": "\u30a2\u30f3\u30b4\u30eb\u30e2\u30a2 \u5143\u5bc7\u5408\u6226\u8a18",
+                "name_cn": "Angolmois \u5143\u5bc7\u5408\u6218\u8bb0",
+                "summary": "",
+                "air_date": "2018-07-10",
+                "air_weekday": 2,
+                "rating": {
+                    "total": 6,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 3,
+                        "7": 2,
+                        "6": 1,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.3
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/8e\/ee\/218572_VDgMO.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/8e\/ee\/218572_VDgMO.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/8e\/ee\/218572_VDgMO.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/8e\/ee\/218572_VDgMO.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/8e\/ee\/218572_VDgMO.jpg"
+                },
+                "collection": {
+                    "doing": 57
+                }
+            },
+            {
+                "id": 223155,
+                "url": "http:\/\/bgm.tv\/subject\/223155",
+                "type": 2,
+                "name": "\u76db\u4e16\u5986\u5a18",
+                "name_cn": "\u76db\u4e16\u5986\u5a18",
+                "summary": "",
+                "air_date": "2018-07-24",
+                "air_weekday": 2,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/98\/04\/223155_sQh9O.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/98\/04\/223155_sQh9O.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/98\/04\/223155_sQh9O.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/98\/04\/223155_sQh9O.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/98\/04\/223155_sQh9O.jpg"
+                }
+            },
+            {
+                "id": 231278,
+                "url": "http:\/\/bgm.tv\/subject\/231278",
+                "type": 2,
+                "name": "Back Street Girls",
+                "name_cn": "\u540e\u8857\u5973\u5b69",
+                "summary": "",
+                "air_date": "2018-07-03",
+                "air_weekday": 2,
+                "rating": {
+                    "total": 188,
+                    "count": {
+                        "10": 3,
+                        "9": 2,
+                        "8": 11,
+                        "7": 72,
+                        "6": 56,
+                        "5": 21,
+                        "4": 16,
+                        "3": 3,
+                        "2": 1,
+                        "1": 3
+                    },
+                    "score": 6.2
+                },
+                "rank": 3739,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/5d\/10\/231278_FrbN1.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/5d\/10\/231278_FrbN1.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/5d\/10\/231278_FrbN1.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/5d\/10\/231278_FrbN1.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/5d\/10\/231278_FrbN1.jpg"
+                },
+                "collection": {
+                    "doing": 749
+                }
+            },
+            {
+                "id": 238087,
+                "url": "http:\/\/bgm.tv\/subject\/238087",
+                "type": 2,
+                "name": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30f3\u30c7\u30ec\u30e9\u30ac\u30fc\u30eb\u30ba\u5287\u5834 \u7b2c3\u671f",
+                "name_cn": "\u5076\u50cf\u5927\u5e08 \u7070\u59d1\u5a18\u5973\u5b69\u5267\u573a \u7b2c\u4e09\u5b63",
+                "summary": "",
+                "air_date": "2018-07-03",
+                "air_weekday": 2,
+                "rating": {
+                    "total": 19,
+                    "count": {
+                        "10": 1,
+                        "9": 0,
+                        "8": 3,
+                        "7": 12,
+                        "6": 2,
+                        "5": 1,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.1
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/eb\/73\/238087_j5IX2.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/eb\/73\/238087_j5IX2.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/eb\/73\/238087_j5IX2.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/eb\/73\/238087_j5IX2.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/eb\/73\/238087_j5IX2.jpg"
+                },
+                "collection": {
+                    "doing": 143
+                }
+            },
+            {
+                "id": 241093,
+                "url": "http:\/\/bgm.tv\/subject\/241093",
+                "type": 2,
+                "name": "\u5343\u9283\u58eb",
+                "name_cn": "\u5343\u94f3\u58eb",
+                "summary": "",
+                "air_date": "2018-07-03",
+                "air_weekday": 2,
+                "rating": {
+                    "total": 17,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 2,
+                        "6": 1,
+                        "5": 6,
+                        "4": 4,
+                        "3": 2,
+                        "2": 0,
+                        "1": 2
+                    },
+                    "score": 4.4
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/18\/f3\/241093_U8EkK.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/18\/f3\/241093_U8EkK.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/18\/f3\/241093_U8EkK.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/18\/f3\/241093_U8EkK.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/18\/f3\/241093_U8EkK.jpg"
+                },
+                "collection": {
+                    "doing": 40
+                }
+            },
+            {
+                "id": 242082,
+                "url": "http:\/\/bgm.tv\/subject\/242082",
+                "type": 2,
+                "name": "\u6df1\u591c\uff01\u5929\u624d\u30d0\u30ab\u30dc\u30f3",
+                "name_cn": "\u6df1\u591c\uff01\u5929\u624d\u50bb\u9e4f",
+                "summary": "",
+                "air_date": "2018-07-10",
+                "air_weekday": 2,
+                "rating": {
+                    "total": 5,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 3,
+                        "6": 1,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 5.6
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/f8\/3d\/242082_vmAvx.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/f8\/3d\/242082_vmAvx.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/f8\/3d\/242082_vmAvx.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/f8\/3d\/242082_vmAvx.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/f8\/3d\/242082_vmAvx.jpg"
+                },
+                "collection": {
+                    "doing": 45
+                }
+            },
+            {
+                "id": 242170,
+                "url": "http:\/\/bgm.tv\/subject\/242170",
+                "type": 2,
+                "name": "\u30aa\u30fc\u30d0\u30fc\u30ed\u30fc\u30c9III",
+                "name_cn": "OVERLORD III",
+                "summary": "",
+                "air_date": "2018-07-10",
+                "air_weekday": 2,
+                "rating": {
+                    "total": 78,
+                    "count": {
+                        "10": 3,
+                        "9": 7,
+                        "8": 20,
+                        "7": 33,
+                        "6": 9,
+                        "5": 5,
+                        "4": 0,
+                        "3": 0,
+                        "2": 1,
+                        "1": 0
+                    },
+                    "score": 7.2
+                },
+                "rank": 1404,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/47\/d4\/242170_iz9Ko.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/47\/d4\/242170_iz9Ko.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/47\/d4\/242170_iz9Ko.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/47\/d4\/242170_iz9Ko.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/47\/d4\/242170_iz9Ko.jpg"
+                },
+                "collection": {
+                    "doing": 465
+                }
+            },
+            {
+                "id": 251539,
+                "url": "http:\/\/bgm.tv\/subject\/251539",
+                "type": 2,
+                "name": "\u3077\u308c\u3077\u308c\u3077\u308c\u3042\u3067\u30593",
+                "name_cn": "Play Play \u6602\u5bbf\u661f\u56e2 3",
+                "summary": "",
+                "air_date": "2018-07-10",
+                "air_weekday": 2,
+                "rating": {
+                    "total": 3,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 1,
+                        "6": 1,
+                        "5": 0,
+                        "4": 1,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 5.7
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/96\/b6\/251539_6T0rT.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/96\/b6\/251539_6T0rT.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/96\/b6\/251539_6T0rT.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/96\/b6\/251539_6T0rT.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/96\/b6\/251539_6T0rT.jpg"
+                },
+                "collection": {
+                    "doing": 21
+                }
+            }
+        ]
+    },
+    {
+        "weekday": {
+            "en": "Wed",
+            "cn": "\u661f\u671f\u4e09",
+            "ja": "\u6c34\u8000\u65e5",
+            "id": 3
+        },
+        "items": [
+            {
+                "id": 101994,
+                "url": "http:\/\/bgm.tv\/subject\/101994",
+                "type": 2,
+                "name": "\u3042\u308b\u30be\u30f3\u30d3\u5c11\u5973\u306e\u707d\u96e3",
+                "name_cn": "\u67d0\u50f5\u5c38\u5c11\u5973\u7684\u707e\u96be",
+                "summary": "",
+                "air_date": "2018-07-04",
+                "air_weekday": 3,
+                "rating": {
+                    "total": 31,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 1,
+                        "7": 0,
+                        "6": 5,
+                        "5": 3,
+                        "4": 7,
+                        "3": 1,
+                        "2": 4,
+                        "1": 10
+                    },
+                    "score": 3.3
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/a1\/e5\/101994_B53RR.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/a1\/e5\/101994_B53RR.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/a1\/e5\/101994_B53RR.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/a1\/e5\/101994_B53RR.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/a1\/e5\/101994_B53RR.jpg"
+                },
+                "collection": {
+                    "doing": 42
+                }
+            },
+            {
+                "id": 214741,
+                "url": "http:\/\/bgm.tv\/subject\/214741",
+                "type": 2,
+                "name": "\u897f\u884c\u7eaa",
+                "name_cn": "\u897f\u884c\u7eaa",
+                "summary": "",
+                "air_date": "2018-07-18",
+                "air_weekday": 3,
+                "rating": {
+                    "total": 1,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 0,
+                        "6": 0,
+                        "5": 0,
+                        "4": 1,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 4
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/4a\/a8\/214741_Kl30c.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/4a\/a8\/214741_Kl30c.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/4a\/a8\/214741_Kl30c.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/4a\/a8\/214741_Kl30c.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/4a\/a8\/214741_Kl30c.jpg"
+                },
+                "collection": {
+                    "doing": 1
+                }
+            },
+            {
+                "id": 228820,
+                "url": "http:\/\/bgm.tv\/subject\/228820",
+                "type": 2,
+                "name": "Free!-Dive to the Future-",
+                "name_cn": "",
+                "summary": "",
+                "air_date": "2018-07-11",
+                "air_weekday": 3,
+                "rating": {
+                    "total": 8,
+                    "count": {
+                        "10": 2,
+                        "9": 0,
+                        "8": 1,
+                        "7": 3,
+                        "6": 0,
+                        "5": 2,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.4
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/a4\/b8\/228820_igs7w.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/a4\/b8\/228820_igs7w.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/a4\/b8\/228820_igs7w.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/a4\/b8\/228820_igs7w.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/a4\/b8\/228820_igs7w.jpg"
+                },
+                "collection": {
+                    "doing": 90
+                }
+            },
+            {
+                "id": 237834,
+                "url": "http:\/\/bgm.tv\/subject\/237834",
+                "type": 2,
+                "name": "\u4e2d\u9593\u7ba1\u7406\u9332\u30c8\u30cd\u30ac\u30ef",
+                "name_cn": "\u4e2d\u95f4\u7ba1\u7406\u5f55\u5229\u6839\u5ddd",
+                "summary": "",
+                "air_date": "2018-07-04",
+                "air_weekday": 3,
+                "rating": {
+                    "total": 65,
+                    "count": {
+                        "10": 0,
+                        "9": 1,
+                        "8": 5,
+                        "7": 34,
+                        "6": 19,
+                        "5": 3,
+                        "4": 2,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 6.5
+                },
+                "rank": 2482,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/38\/ed\/237834_t6mtx.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/38\/ed\/237834_t6mtx.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/38\/ed\/237834_t6mtx.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/38\/ed\/237834_t6mtx.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/38\/ed\/237834_t6mtx.jpg"
+                },
+                "collection": {
+                    "doing": 297
+                }
+            },
+            {
+                "id": 252537,
+                "url": "http:\/\/bgm.tv\/subject\/252537",
+                "type": 2,
+                "name": "\u713c\u8089\u5e97\u30bb\u30f3\u30b4\u30af",
+                "name_cn": "",
+                "summary": "",
+                "air_date": "2018-07-04",
+                "air_weekday": 3,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/46\/a9\/252537_VQMVB.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/46\/a9\/252537_VQMVB.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/46\/a9\/252537_VQMVB.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/46\/a9\/252537_VQMVB.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/46\/a9\/252537_VQMVB.jpg"
+                },
+                "collection": {
+                    "doing": 9
+                }
+            }
+        ]
+    },
+    {
+        "weekday": {
+            "en": "Thu",
+            "cn": "\u661f\u671f\u56db",
+            "ja": "\u6728\u8000\u65e5",
+            "id": 4
+        },
+        "items": [
+            {
+                "id": 2782,
+                "url": "http:\/\/bgm.tv\/subject\/2782",
+                "type": 2,
+                "name": "NARUTO -\u30ca\u30eb\u30c8- \u75be\u98a8\u4f1d",
+                "name_cn": "\u706b\u5f71\u5fcd\u8005\u75be\u98ce\u4f20",
+                "summary": "",
+                "air_date": "2007-02-15",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 1915,
+                    "count": {
+                        "10": 193,
+                        "9": 194,
+                        "8": 420,
+                        "7": 593,
+                        "6": 287,
+                        "5": 136,
+                        "4": 45,
+                        "3": 17,
+                        "2": 7,
+                        "1": 23
+                    },
+                    "score": 7.2
+                },
+                "rank": 1349,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/60\/24\/2782_r0650.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/60\/24\/2782_r0650.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/60\/24\/2782_r0650.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/60\/24\/2782_r0650.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/60\/24\/2782_r0650.jpg"
+                },
+                "collection": {
+                    "doing": 1024
+                }
+            },
+            {
+                "id": 191323,
+                "url": "http:\/\/bgm.tv\/subject\/191323",
+                "type": 2,
+                "name": "\u5922\u738b\u56fd\u3068\u7720\u308c\u308b100\u4eba\u306e\u738b\u5b50\u69d8",
+                "name_cn": "\u68a6\u738b\u56fd\u4e0e\u6c89\u7761\u7684100\u540d\u738b\u5b50",
+                "summary": "",
+                "air_date": "2018-07-05",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 12,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 2,
+                        "7": 5,
+                        "6": 3,
+                        "5": 0,
+                        "4": 2,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.4
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/c3\/27\/191323_hLsyp.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/c3\/27\/191323_hLsyp.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/c3\/27\/191323_hLsyp.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/c3\/27\/191323_hLsyp.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/c3\/27\/191323_hLsyp.jpg"
+                },
+                "collection": {
+                    "doing": 38
+                }
+            },
+            {
+                "id": 214265,
+                "url": "http:\/\/bgm.tv\/subject\/214265",
+                "type": 2,
+                "name": "\u5c11\u5973\u2606\u6b4c\u5287 \u30ec\u30f4\u30e5\u30fc\u30fb\u30b9\u30bf\u30a1\u30e9\u30a4\u30c8",
+                "name_cn": "\u5c11\u5973\u2606\u6b4c\u5267 Revue\u30fbStarlight",
+                "summary": "",
+                "air_date": "2018-07-12",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 7,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 1,
+                        "7": 5,
+                        "6": 1,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/ca\/48\/214265_uHAIG.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/ca\/48\/214265_uHAIG.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/ca\/48\/214265_uHAIG.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/ca\/48\/214265_uHAIG.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/ca\/48\/214265_uHAIG.jpg"
+                },
+                "collection": {
+                    "doing": 117
+                }
+            },
+            {
+                "id": 225843,
+                "url": "http:\/\/bgm.tv\/subject\/225843",
+                "type": 2,
+                "name": "\u4e03\u661f\u306e\u30b9\u30d0\u30eb",
+                "name_cn": "\u6634\u5bbf\u4e03\u661f",
+                "summary": "",
+                "air_date": "2018-07-05",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 71,
+                    "count": {
+                        "10": 1,
+                        "9": 0,
+                        "8": 0,
+                        "7": 8,
+                        "6": 30,
+                        "5": 17,
+                        "4": 5,
+                        "3": 2,
+                        "2": 2,
+                        "1": 6
+                    },
+                    "score": 5.2
+                },
+                "rank": 4351,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/42\/ad\/225843_1c19U.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/42\/ad\/225843_1c19U.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/42\/ad\/225843_1c19U.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/42\/ad\/225843_1c19U.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/42\/ad\/225843_1c19U.jpg"
+                },
+                "collection": {
+                    "doing": 288
+                }
+            },
+            {
+                "id": 228350,
+                "url": "http:\/\/bgm.tv\/subject\/228350",
+                "type": 2,
+                "name": "BANANA FISH",
+                "name_cn": "\u6218\u6817\u6740\u673a",
+                "summary": "",
+                "air_date": "2018-07-05",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 50,
+                    "count": {
+                        "10": 3,
+                        "9": 1,
+                        "8": 19,
+                        "7": 13,
+                        "6": 9,
+                        "5": 3,
+                        "4": 1,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 7.1
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/8b\/7f\/228350_d9VaU.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/8b\/7f\/228350_d9VaU.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/8b\/7f\/228350_d9VaU.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/8b\/7f\/228350_d9VaU.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/8b\/7f\/228350_d9VaU.jpg"
+                },
+                "collection": {
+                    "doing": 352
+                }
+            },
+            {
+                "id": 230110,
+                "url": "http:\/\/bgm.tv\/subject\/230110",
+                "type": 2,
+                "name": "\u3059\u306e\u306f\u3089\u8358\u306e\u7ba1\u7406\u4eba\u3055\u3093",
+                "name_cn": "\u6625\u539f\u5e84\u7684\u7ba1\u7406\u4eba",
+                "summary": "",
+                "air_date": "2018-07-05",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 93,
+                    "count": {
+                        "10": 4,
+                        "9": 0,
+                        "8": 7,
+                        "7": 28,
+                        "6": 31,
+                        "5": 11,
+                        "4": 5,
+                        "3": 3,
+                        "2": 0,
+                        "1": 4
+                    },
+                    "score": 6.1
+                },
+                "rank": 3545,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/91\/41\/230110_5tFWD.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/91\/41\/230110_5tFWD.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/91\/41\/230110_5tFWD.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/91\/41\/230110_5tFWD.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/91\/41\/230110_5tFWD.jpg"
+                },
+                "collection": {
+                    "doing": 396
+                }
+            },
+            {
+                "id": 236224,
+                "url": "http:\/\/bgm.tv\/subject\/236224",
+                "type": 2,
+                "name": "\u7570\u4e16\u754c\u9b54\u738b\u3068\u53ec\u559a\u5c11\u5973\u306e\u5974\u96b7\u9b54\u8853",
+                "name_cn": "\u5f02\u4e16\u754c\u9b54\u738b\u4e0e\u53ec\u5524\u5c11\u5973\u7684\u5974\u96b6\u9b54\u672f",
+                "summary": "",
+                "air_date": "2018-07-05",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 95,
+                    "count": {
+                        "10": 2,
+                        "9": 2,
+                        "8": 7,
+                        "7": 29,
+                        "6": 40,
+                        "5": 9,
+                        "4": 3,
+                        "3": 2,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 6.3
+                },
+                "rank": 3085,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/53\/20\/236224_EO3GO.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/53\/20\/236224_EO3GO.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/53\/20\/236224_EO3GO.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/53\/20\/236224_EO3GO.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/53\/20\/236224_EO3GO.jpg"
+                },
+                "collection": {
+                    "doing": 407
+                }
+            },
+            {
+                "id": 241089,
+                "url": "http:\/\/bgm.tv\/subject\/241089",
+                "type": 2,
+                "name": "\u5929\u72fc Sirius the Jaeger",
+                "name_cn": "",
+                "summary": "",
+                "air_date": "2018-07-12",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 12,
+                    "count": {
+                        "10": 1,
+                        "9": 0,
+                        "8": 1,
+                        "7": 6,
+                        "6": 3,
+                        "5": 1,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.9
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/13\/93\/241089_Tc9c9.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/13\/93\/241089_Tc9c9.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/13\/93\/241089_Tc9c9.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/13\/93\/241089_Tc9c9.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/13\/93\/241089_Tc9c9.jpg"
+                },
+                "collection": {
+                    "doing": 278
+                }
+            },
+            {
+                "id": 246431,
+                "url": "http:\/\/bgm.tv\/subject\/246431",
+                "type": 2,
+                "name": "BanG Dream! \u30ac\u30eb\u30d1\u2606\u30d4\u30b3",
+                "name_cn": "BanG Dream! \u5c11\u5973\u4e50\u56e2\u6d3e\u5bf9\uff01\u2606PICO",
+                "summary": "",
+                "air_date": "2018-07-05",
+                "air_weekday": 4,
+                "rating": {
+                    "total": 14,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 1,
+                        "7": 8,
+                        "6": 5,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.7
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/08\/fd\/246431_2Ya25.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/08\/fd\/246431_2Ya25.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/08\/fd\/246431_2Ya25.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/08\/fd\/246431_2Ya25.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/08\/fd\/246431_2Ya25.jpg"
+                },
+                "collection": {
+                    "doing": 77
+                }
+            },
+            {
+                "id": 250558,
+                "url": "http:\/\/bgm.tv\/subject\/250558",
+                "type": 2,
+                "name": "\u304b\u307f\u3055\u307e\u307f\u306a\u3089\u3044\u3000\u30d2\u30df\u30c4\u306e\u3053\u3053\u305f\u307e\u3000\u590f\u3060\uff01\u304a\u304a\u306f\u3057\u3083\u304e\u30b9\u30da\u30b7\u30e3\u30eb",
+                "name_cn": "\u89c1\u4e60\u795e\u660e \u79d8\u5bc6\u7684\u5fc3\u7075 \u590f\u5929\u5927\u55a7\u95f9SP",
+                "summary": "",
+                "air_date": "2018-07-05",
+                "air_weekday": 4,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/4f\/9b\/250558_MBUI1.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/4f\/9b\/250558_MBUI1.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/4f\/9b\/250558_MBUI1.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/4f\/9b\/250558_MBUI1.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/4f\/9b\/250558_MBUI1.jpg"
+                },
+                "collection": {
+                    "doing": 1
+                }
+            }
+        ]
+    },
+    {
+        "weekday": {
+            "en": "Fri",
+            "cn": "\u661f\u671f\u4e94",
+            "ja": "\u91d1\u8000\u65e5",
+            "id": 5
+        },
+        "items": [
+            {
+                "id": 83124,
+                "url": "http:\/\/bgm.tv\/subject\/83124",
+                "type": 2,
+                "name": "\u5996\u602a\u30a6\u30a9\u30c3\u30c1",
+                "name_cn": "\u5996\u602a\u624b\u8868",
+                "summary": "",
+                "air_date": "2014-01-08",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 121,
+                    "count": {
+                        "10": 7,
+                        "9": 11,
+                        "8": 38,
+                        "7": 42,
+                        "6": 13,
+                        "5": 8,
+                        "4": 1,
+                        "3": 1,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.4
+                },
+                "rank": 1164,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/da\/bf\/83124_t8vg0.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/da\/bf\/83124_t8vg0.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/da\/bf\/83124_t8vg0.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/da\/bf\/83124_t8vg0.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/da\/bf\/83124_t8vg0.jpg"
+                },
+                "collection": {
+                    "doing": 125
+                }
+            },
+            {
+                "id": 91205,
+                "url": "http:\/\/bgm.tv\/subject\/91205",
+                "type": 2,
+                "name": "\u30cf\u30a4\u30b9\u30b3\u30a2\u30ac\u30fc\u30eb",
+                "name_cn": "\u9ad8\u5206\u5c11\u5973",
+                "summary": "",
+                "air_date": "2018-07-13",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 7,
+                    "count": {
+                        "10": 1,
+                        "9": 0,
+                        "8": 0,
+                        "7": 4,
+                        "6": 2,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.1
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/79\/bb\/91205_WzBkF.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/79\/bb\/91205_WzBkF.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/79\/bb\/91205_WzBkF.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/79\/bb\/91205_WzBkF.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/79\/bb\/91205_WzBkF.jpg"
+                },
+                "collection": {
+                    "doing": 165
+                }
+            },
+            {
+                "id": 218226,
+                "url": "http:\/\/bgm.tv\/subject\/218226",
+                "type": 2,
+                "name": "\u3061\u304a\u3061\u3083\u3093\u306e\u901a\u5b66\u8def",
+                "name_cn": "\u5343\u7eea\u7684\u901a\u5b66\u8def",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 132,
+                    "count": {
+                        "10": 1,
+                        "9": 1,
+                        "8": 15,
+                        "7": 62,
+                        "6": 43,
+                        "5": 7,
+                        "4": 2,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 6.6
+                },
+                "rank": 2649,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/13\/a0\/218226_q1l6K.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/13\/a0\/218226_q1l6K.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/13\/a0\/218226_q1l6K.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/13\/a0\/218226_q1l6K.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/13\/a0\/218226_q1l6K.jpg"
+                },
+                "collection": {
+                    "doing": 651
+                }
+            },
+            {
+                "id": 220375,
+                "url": "http:\/\/bgm.tv\/subject\/220375",
+                "type": 2,
+                "name": "\u306f\u308b\u304b\u306a\u30ec\u30b7\u30fc\u30d6",
+                "name_cn": "\u9065\u7684\u63a5\u7403",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 82,
+                    "count": {
+                        "10": 1,
+                        "9": 2,
+                        "8": 13,
+                        "7": 43,
+                        "6": 18,
+                        "5": 4,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 6.9
+                },
+                "rank": 2062,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/1c\/39\/220375_5rFVZ.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/1c\/39\/220375_5rFVZ.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/1c\/39\/220375_5rFVZ.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/1c\/39\/220375_5rFVZ.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/1c\/39\/220375_5rFVZ.jpg"
+                },
+                "collection": {
+                    "doing": 487
+                }
+            },
+            {
+                "id": 220566,
+                "url": "http:\/\/bgm.tv\/subject\/220566",
+                "type": 2,
+                "name": "\u6bba\u622e\u306e\u5929\u4f7f",
+                "name_cn": "\u6740\u622e\u5929\u4f7f",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 149,
+                    "count": {
+                        "10": 6,
+                        "9": 2,
+                        "8": 33,
+                        "7": 65,
+                        "6": 32,
+                        "5": 7,
+                        "4": 3,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 7
+                },
+                "rank": 1942,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/1a\/b7\/220566_UeRSQ.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/1a\/b7\/220566_UeRSQ.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/1a\/b7\/220566_UeRSQ.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/1a\/b7\/220566_UeRSQ.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/1a\/b7\/220566_UeRSQ.jpg"
+                },
+                "collection": {
+                    "doing": 725
+                }
+            },
+            {
+                "id": 235130,
+                "url": "http:\/\/bgm.tv\/subject\/235130",
+                "type": 2,
+                "name": "\u3050\u3089\u3093\u3076\u308b",
+                "name_cn": "\u78a7\u84dd\u4e4b\u6d77",
+                "summary": "",
+                "air_date": "2018-07-13",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 16,
+                    "count": {
+                        "10": 1,
+                        "9": 0,
+                        "8": 4,
+                        "7": 8,
+                        "6": 1,
+                        "5": 2,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.1
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/1f\/13\/235130_suy3s.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/1f\/13\/235130_suy3s.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/1f\/13\/235130_suy3s.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/1f\/13\/235130_suy3s.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/1f\/13\/235130_suy3s.jpg"
+                },
+                "collection": {
+                    "doing": 256
+                }
+            },
+            {
+                "id": 240366,
+                "url": "http:\/\/bgm.tv\/subject\/240366",
+                "type": 2,
+                "name": "\u97f3\u697d\u5c11\u5973",
+                "name_cn": "\u97f3\u4e50\u5c11\u5973",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 19,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 2,
+                        "7": 4,
+                        "6": 7,
+                        "5": 4,
+                        "4": 1,
+                        "3": 1,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 5.9
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/eb\/78\/240366_SH9Do.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/eb\/78\/240366_SH9Do.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/eb\/78\/240366_SH9Do.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/eb\/78\/240366_SH9Do.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/eb\/78\/240366_SH9Do.jpg"
+                },
+                "collection": {
+                    "doing": 121
+                }
+            },
+            {
+                "id": 240828,
+                "url": "http:\/\/bgm.tv\/subject\/240828",
+                "type": 2,
+                "name": "\u30cf\u30c3\u30d4\u30fc\u30b7\u30e5\u30ac\u30fc\u30e9\u30a4\u30d5",
+                "name_cn": "Happy Sugar Life",
+                "summary": "",
+                "air_date": "2018-07-13",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 10,
+                    "count": {
+                        "10": 0,
+                        "9": 1,
+                        "8": 2,
+                        "7": 2,
+                        "6": 5,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.9
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/e2\/68\/240828_H4uLo.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/e2\/68\/240828_H4uLo.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/e2\/68\/240828_H4uLo.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/e2\/68\/240828_H4uLo.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/e2\/68\/240828_H4uLo.jpg"
+                },
+                "collection": {
+                    "doing": 170
+                }
+            },
+            {
+                "id": 241091,
+                "url": "http:\/\/bgm.tv\/subject\/241091",
+                "type": 2,
+                "name": "\u30ed\u30fc\u30c9 \u30aa\u30d6 \u30f4\u30a1\u30fc\u30df\u30ea\u30aa\u30f3 \u7d05\u84ee\u306e\u738b",
+                "name_cn": "LORD of VERMILION \u7ea2\u83b2\u4e4b\u738b",
+                "summary": "",
+                "air_date": "2018-07-13",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 3,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 1,
+                        "7": 1,
+                        "6": 0,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 5.3
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/a8\/c3\/241091_DZEDn.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/a8\/c3\/241091_DZEDn.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/a8\/c3\/241091_DZEDn.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/a8\/c3\/241091_DZEDn.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/a8\/c3\/241091_DZEDn.jpg"
+                },
+                "collection": {
+                    "doing": 37
+                }
+            },
+            {
+                "id": 241831,
+                "url": "http:\/\/bgm.tv\/subject\/241831",
+                "type": 2,
+                "name": "\u50cd\u304f\u304a\u5144\u3055\u3093\uff01\u306e2\uff01",
+                "name_cn": "\u6253\u5de5\u5c0f\u54e5\uff01\u4e4b2\uff01",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 2,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 1,
+                        "6": 1,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.5
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/23\/01\/241831_5Sa59.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/23\/01\/241831_5Sa59.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/23\/01\/241831_5Sa59.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/23\/01\/241831_5Sa59.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/23\/01\/241831_5Sa59.jpg"
+                },
+                "collection": {
+                    "doing": 41
+                }
+            },
+            {
+                "id": 242737,
+                "url": "http:\/\/bgm.tv\/subject\/242737",
+                "type": 2,
+                "name": "\u60aa\u5076 \u2010\u5929\u624d\u4eba\u5f62\u2010",
+                "name_cn": "\u5929\u624d\u73a9\u5076",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 4,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 2,
+                        "6": 2,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.5
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/ea\/9b\/242737_Tkztl.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/ea\/9b\/242737_Tkztl.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/ea\/9b\/242737_Tkztl.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/ea\/9b\/242737_Tkztl.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/ea\/9b\/242737_Tkztl.jpg"
+                },
+                "collection": {
+                    "doing": 13
+                }
+            },
+            {
+                "id": 250117,
+                "url": "http:\/\/bgm.tv\/subject\/250117",
+                "type": 2,
+                "name": "\u95c7\u829d\u5c45 \u7b2c6\u671f",
+                "name_cn": "\u6697\u829d\u5c45 \u7b2c\u516d\u5b63",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "rating": {
+                    "total": 4,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 1,
+                        "6": 1,
+                        "5": 2,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 5.8
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/7d\/3e\/250117_ZpxXb.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/7d\/3e\/250117_ZpxXb.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/7d\/3e\/250117_ZpxXb.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/7d\/3e\/250117_ZpxXb.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/7d\/3e\/250117_ZpxXb.jpg"
+                },
+                "collection": {
+                    "doing": 65
+                }
+            },
+            {
+                "id": 252736,
+                "url": "http:\/\/bgm.tv\/subject\/252736",
+                "type": 2,
+                "name": "\u7eb3\u7c73\u5b66\u9662",
+                "name_cn": "\u7eb3\u7c73\u5b66\u9662",
+                "summary": "",
+                "air_date": "2018-07-06",
+                "air_weekday": 5,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/d8\/c2\/252736_tE5O0.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/d8\/c2\/252736_tE5O0.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/d8\/c2\/252736_tE5O0.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/d8\/c2\/252736_tE5O0.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/d8\/c2\/252736_tE5O0.jpg"
+                }
+            }
+        ]
+    },
+    {
+        "weekday": {
+            "en": "Sat",
+            "cn": "\u661f\u671f\u516d",
+            "ja": "\u571f\u8000\u65e5",
+            "id": 6
+        },
+        "items": [
+            {
+                "id": 899,
+                "url": "http:\/\/bgm.tv\/subject\/899",
+                "type": 2,
+                "name": "\u540d\u63a2\u5075\u30b3\u30ca\u30f3",
+                "name_cn": "\u540d\u4fa6\u63a2\u67ef\u5357",
+                "summary": "",
+                "air_date": "1996-01-08",
+                "air_weekday": 6,
+                "rating": {
+                    "total": 3138,
+                    "count": {
+                        "10": 341,
+                        "9": 343,
+                        "8": 922,
+                        "7": 1000,
+                        "6": 403,
+                        "5": 98,
+                        "4": 19,
+                        "3": 3,
+                        "2": 2,
+                        "1": 7
+                    },
+                    "score": 7.6
+                },
+                "rank": 571,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/01\/88\/899_Q3F3X.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/01\/88\/899_Q3F3X.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/01\/88\/899_Q3F3X.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/01\/88\/899_Q3F3X.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/01\/88\/899_Q3F3X.jpg"
+                },
+                "collection": {
+                    "doing": 1944
+                }
+            },
+            {
+                "id": 228969,
+                "url": "http:\/\/bgm.tv\/subject\/228969",
+                "type": 2,
+                "name": "\u3086\u3089\u304e\u8358\u306e\u5e7d\u5948\u3055\u3093",
+                "name_cn": "\u6c64\u6447\u5e84\u7684\u5e7d\u5948\u540c\u5b66",
+                "summary": "",
+                "air_date": "2018-07-14",
+                "air_weekday": 6,
+                "rating": {
+                    "total": 15,
+                    "count": {
+                        "10": 1,
+                        "9": 0,
+                        "8": 2,
+                        "7": 8,
+                        "6": 4,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.1
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/64\/97\/228969_0i030.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/64\/97\/228969_0i030.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/64\/97\/228969_0i030.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/64\/97\/228969_0i030.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/64\/97\/228969_0i030.jpg"
+                },
+                "collection": {
+                    "doing": 165
+                }
+            },
+            {
+                "id": 235612,
+                "url": "http:\/\/bgm.tv\/subject\/235612",
+                "type": 2,
+                "name": "\u306f\u305f\u3089\u304f\u7d30\u80de",
+                "name_cn": "\u5de5\u4f5c\u7ec6\u80de",
+                "summary": "",
+                "air_date": "2018-07-07",
+                "air_weekday": 6,
+                "rating": {
+                    "total": 244,
+                    "count": {
+                        "10": 1,
+                        "9": 14,
+                        "8": 112,
+                        "7": 92,
+                        "6": 21,
+                        "5": 3,
+                        "4": 0,
+                        "3": 1,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.5
+                },
+                "rank": 947,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/84\/fc\/235612_EHO4Q.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/84\/fc\/235612_EHO4Q.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/84\/fc\/235612_EHO4Q.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/84\/fc\/235612_EHO4Q.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/84\/fc\/235612_EHO4Q.jpg"
+                },
+                "collection": {
+                    "doing": 1154
+                }
+            },
+            {
+                "id": 237762,
+                "url": "http:\/\/bgm.tv\/subject\/237762",
+                "type": 2,
+                "name": "\u304a\u3057\u3048\u3066\u9b54\u6cd5\u306e\u30da\u30f3\u30c7\u30e5\u30e9\u30e0\uff5e\u30ea\u30eb\u30ea\u30eb\u30d5\u30a7\u30a2\u30ea\u30eb\uff5e",
+                "name_cn": "\u544a\u8bc9\u6211\u9b54\u6cd5\u4e4b\u6446\uff5e\u8389\u9732\u8389\u9732\u5996\u7cbe\u8389\u9732\uff5e",
+                "summary": "",
+                "air_date": "2018-07-07",
+                "air_weekday": 6,
+                "rating": {
+                    "total": 2,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 1,
+                        "7": 0,
+                        "6": 0,
+                        "5": 1,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.5
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/59\/f7\/237762_ZXxnZ.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/59\/f7\/237762_ZXxnZ.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/59\/f7\/237762_ZXxnZ.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/59\/f7\/237762_ZXxnZ.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/59\/f7\/237762_ZXxnZ.jpg"
+                },
+                "collection": {
+                    "doing": 5
+                }
+            },
+            {
+                "id": 238988,
+                "url": "http:\/\/bgm.tv\/subject\/238988",
+                "type": 2,
+                "name": "\u30be\u30a4\u30c9\u30ef\u30a4\u30eb\u30c9",
+                "name_cn": "",
+                "summary": "",
+                "air_date": "2018-07-07",
+                "air_weekday": 6,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/7e\/05\/238988_99K10.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/7e\/05\/238988_99K10.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/7e\/05\/238988_99K10.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/7e\/05\/238988_99K10.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/7e\/05\/238988_99K10.jpg"
+                },
+                "collection": {
+                    "doing": 9
+                }
+            },
+            {
+                "id": 239960,
+                "url": "http:\/\/bgm.tv\/subject\/239960",
+                "type": 2,
+                "name": "\u767e\u932c\u306e\u8987\u738b\u3068\u8056\u7d04\u306e\u6226\u4e59\u5973",
+                "name_cn": "\u767e\u70bc\u9738\u738b\u4e0e\u5723\u7ea6\u5973\u6b66\u795e",
+                "summary": "",
+                "air_date": "2018-07-07",
+                "air_weekday": 6,
+                "rating": {
+                    "total": 41,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 1,
+                        "7": 4,
+                        "6": 14,
+                        "5": 15,
+                        "4": 3,
+                        "3": 2,
+                        "2": 1,
+                        "1": 1
+                    },
+                    "score": 5.3
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/62\/2f\/239960_N6F65.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/62\/2f\/239960_N6F65.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/62\/2f\/239960_N6F65.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/62\/2f\/239960_N6F65.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/62\/2f\/239960_N6F65.jpg"
+                },
+                "collection": {
+                    "doing": 153
+                }
+            },
+            {
+                "id": 241092,
+                "url": "http:\/\/bgm.tv\/subject\/241092",
+                "type": 2,
+                "name": "\u30ed\u30dc\u30c3\u30c8\u30ac\u30fc\u30eb\u30baNEO",
+                "name_cn": "\u673a\u5668\u4eba\u5c11\u5973NEO",
+                "summary": "",
+                "air_date": "0000-00-00",
+                "air_weekday": 6,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/fc\/fb\/241092_o2e28.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/fc\/fb\/241092_o2e28.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/fc\/fb\/241092_o2e28.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/fc\/fb\/241092_o2e28.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/fc\/fb\/241092_o2e28.jpg"
+                },
+                "collection": {
+                    "doing": 9
+                }
+            },
+            {
+                "id": 248990,
+                "url": "http:\/\/bgm.tv\/subject\/248990",
+                "type": 2,
+                "name": "\u7d04\u675f\u306e\u4e03\u591c\u796d\u308a",
+                "name_cn": "\u7ea6\u5b9a\u7684\u4e03\u591c\u796d",
+                "summary": "",
+                "air_date": "2018-07-07",
+                "air_weekday": 6,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/f2\/19\/248990_zALsb.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/f2\/19\/248990_zALsb.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/f2\/19\/248990_zALsb.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/f2\/19\/248990_zALsb.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/f2\/19\/248990_zALsb.jpg"
+                },
+                "collection": {
+                    "doing": 7
+                }
+            },
+            {
+                "id": 249680,
+                "url": "http:\/\/bgm.tv\/subject\/249680",
+                "type": 2,
+                "name": "\u30aa\u30b3\u30b8\u30e7\u3068\u30e4\u30de\u30cd",
+                "name_cn": "",
+                "summary": "",
+                "air_date": "0000-00-00",
+                "air_weekday": 6,
+                "images": null,
+                "collection": {
+                    "doing": 3
+                }
+            }
+        ]
+    },
+    {
+        "weekday": {
+            "en": "Sun",
+            "cn": "\u661f\u671f\u65e5",
+            "ja": "\u65e5\u8000\u65e5",
+            "id": 7
+        },
+        "items": [
+            {
+                "id": 975,
+                "url": "http:\/\/bgm.tv\/subject\/975",
+                "type": 2,
+                "name": "ONE PIECE",
+                "name_cn": "\u6d77\u8d3c\u738b",
+                "summary": "",
+                "air_date": "1999-10-20",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 5070,
+                    "count": {
+                        "10": 1871,
+                        "9": 1093,
+                        "8": 1034,
+                        "7": 589,
+                        "6": 245,
+                        "5": 116,
+                        "4": 28,
+                        "3": 13,
+                        "2": 18,
+                        "1": 63
+                    },
+                    "score": 8.5
+                },
+                "rank": 26,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/92\/97\/975_YKuWd.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/92\/97\/975_YKuWd.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/92\/97\/975_YKuWd.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/92\/97\/975_YKuWd.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/92\/97\/975_YKuWd.jpg"
+                },
+                "collection": {
+                    "doing": 4074
+                }
+            },
+            {
+                "id": 132220,
+                "url": "http:\/\/bgm.tv\/subject\/132220",
+                "type": 2,
+                "name": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85",
+                "name_cn": "\u9f99\u73e0\u8d85",
+                "summary": "",
+                "air_date": "2015-07-05",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 439,
+                    "count": {
+                        "10": 41,
+                        "9": 23,
+                        "8": 69,
+                        "7": 105,
+                        "6": 114,
+                        "5": 40,
+                        "4": 27,
+                        "3": 10,
+                        "2": 3,
+                        "1": 7
+                    },
+                    "score": 6.7
+                },
+                "rank": 2784,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/0d\/a2\/132220_E3vck.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/0d\/a2\/132220_E3vck.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/0d\/a2\/132220_E3vck.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/0d\/a2\/132220_E3vck.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/0d\/a2\/132220_E3vck.jpg"
+                },
+                "collection": {
+                    "doing": 353
+                }
+            },
+            {
+                "id": 175404,
+                "url": "http:\/\/bgm.tv\/subject\/175404",
+                "type": 2,
+                "name": "ISLAND",
+                "name_cn": "",
+                "summary": "",
+                "air_date": "2018-07-01",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 225,
+                    "count": {
+                        "10": 13,
+                        "9": 1,
+                        "8": 17,
+                        "7": 79,
+                        "6": 73,
+                        "5": 26,
+                        "4": 7,
+                        "3": 2,
+                        "2": 1,
+                        "1": 6
+                    },
+                    "score": 6.4
+                },
+                "rank": 3352,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/52\/3b\/175404_UcROP.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/52\/3b\/175404_UcROP.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/52\/3b\/175404_UcROP.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/52\/3b\/175404_UcROP.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/52\/3b\/175404_UcROP.jpg"
+                },
+                "collection": {
+                    "doing": 1027
+                }
+            },
+            {
+                "id": 185792,
+                "url": "http:\/\/bgm.tv\/subject\/185792",
+                "type": 2,
+                "name": "\u30ea\u30c8\u30eb\u30a6\u30a3\u30c3\u30c1\u30a2\u30ab\u30c7\u30df\u30a2",
+                "name_cn": "\u5c0f\u9b54\u5973\u5b66\u56ed",
+                "summary": "",
+                "air_date": "2017-01-08",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 2826,
+                    "count": {
+                        "10": 143,
+                        "9": 403,
+                        "8": 1145,
+                        "7": 744,
+                        "6": 270,
+                        "5": 73,
+                        "4": 28,
+                        "3": 6,
+                        "2": 7,
+                        "1": 7
+                    },
+                    "score": 7.6
+                },
+                "rank": 546,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/c5\/09\/185792_YmcaM.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/c5\/09\/185792_YmcaM.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/c5\/09\/185792_YmcaM.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/c5\/09\/185792_YmcaM.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/c5\/09\/185792_YmcaM.jpg"
+                },
+                "collection": {
+                    "doing": 756
+                }
+            },
+            {
+                "id": 196053,
+                "url": "http:\/\/bgm.tv\/subject\/196053",
+                "type": 2,
+                "name": "\u30ad\u30e9\u30ad\u30e9\u2606\u30d7\u30ea\u30ad\u30e5\u30a2\u30a2\u30e9\u30e2\u30fc\u30c9",
+                "name_cn": "KiraKira\u2606\u5149\u4e4b\u7f8e\u5c11\u5973 A La Mode",
+                "summary": "",
+                "air_date": "2017-02-05",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 87,
+                    "count": {
+                        "10": 3,
+                        "9": 1,
+                        "8": 13,
+                        "7": 20,
+                        "6": 26,
+                        "5": 12,
+                        "4": 10,
+                        "3": 1,
+                        "2": 1,
+                        "1": 0
+                    },
+                    "score": 6.3
+                },
+                "rank": 3202,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/b5\/25\/196053_0q7AB.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/b5\/25\/196053_0q7AB.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/b5\/25\/196053_0q7AB.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/b5\/25\/196053_0q7AB.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/b5\/25\/196053_0q7AB.jpg"
+                },
+                "collection": {
+                    "doing": 83
+                }
+            },
+            {
+                "id": 199373,
+                "url": "http:\/\/bgm.tv\/subject\/199373",
+                "type": 2,
+                "name": "\u30d0\u30ad",
+                "name_cn": "\u5203\u7259",
+                "summary": "",
+                "air_date": "2018-07-01",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 29,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 5,
+                        "7": 9,
+                        "6": 12,
+                        "5": 1,
+                        "4": 1,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 6.4
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/d3\/27\/199373_y6WZ4.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/d3\/27\/199373_y6WZ4.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/d3\/27\/199373_y6WZ4.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/d3\/27\/199373_y6WZ4.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/d3\/27\/199373_y6WZ4.jpg"
+                },
+                "collection": {
+                    "doing": 156
+                }
+            },
+            {
+                "id": 217300,
+                "url": "http:\/\/bgm.tv\/subject\/217300",
+                "type": 2,
+                "name": "\u9032\u6483\u306e\u5de8\u4eba Season 3",
+                "name_cn": "\u8fdb\u51fb\u7684\u5de8\u4eba \u7b2c\u4e09\u5b63",
+                "summary": "",
+                "air_date": "2018-07-22",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 38,
+                    "count": {
+                        "10": 9,
+                        "9": 4,
+                        "8": 12,
+                        "7": 6,
+                        "6": 5,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 2
+                    },
+                    "score": 7.8
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/18\/86\/217300_WGgTy.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/18\/86\/217300_WGgTy.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/18\/86\/217300_WGgTy.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/18\/86\/217300_WGgTy.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/18\/86\/217300_WGgTy.jpg"
+                },
+                "collection": {
+                    "doing": 336
+                }
+            },
+            {
+                "id": 228382,
+                "url": "http:\/\/bgm.tv\/subject\/228382",
+                "type": 2,
+                "name": "\u3064\u304f\u3082\u304c\u307f\u8cb8\u3057\u307e\u3059",
+                "name_cn": "\u4ed8\u4e27\u795e\u51fa\u79df\u4e2d",
+                "summary": "",
+                "air_date": "2018-07-22",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 2,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 2,
+                        "6": 0,
+                        "5": 0,
+                        "4": 0,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/61\/36\/228382_9Ff8b.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/61\/36\/228382_9Ff8b.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/61\/36\/228382_9Ff8b.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/61\/36\/228382_9Ff8b.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/61\/36\/228382_9Ff8b.jpg"
+                },
+                "collection": {
+                    "doing": 63
+                }
+            },
+            {
+                "id": 236020,
+                "url": "http:\/\/bgm.tv\/subject\/236020",
+                "type": 2,
+                "name": "\u3042\u305d\u3073\u3042\u305d\u3070\u305b",
+                "name_cn": "\u6765\u73a9\u6e38\u620f\u5427",
+                "summary": "",
+                "air_date": "2018-07-08",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 77,
+                    "count": {
+                        "10": 1,
+                        "9": 6,
+                        "8": 29,
+                        "7": 28,
+                        "6": 8,
+                        "5": 4,
+                        "4": 0,
+                        "3": 1,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7.3
+                },
+                "rank": 1303,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/fb\/c2\/236020_6jd4d.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/fb\/c2\/236020_6jd4d.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/fb\/c2\/236020_6jd4d.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/fb\/c2\/236020_6jd4d.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/fb\/c2\/236020_6jd4d.jpg"
+                },
+                "collection": {
+                    "doing": 428
+                }
+            },
+            {
+                "id": 236590,
+                "url": "http:\/\/bgm.tv\/subject\/236590",
+                "type": 2,
+                "name": "\u306f\u306d\u30d0\u30c9\uff01",
+                "name_cn": "\u8f7b\u7fbd\u98de\u626c",
+                "summary": "",
+                "air_date": "2018-07-01",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 334,
+                    "count": {
+                        "10": 11,
+                        "9": 27,
+                        "8": 193,
+                        "7": 71,
+                        "6": 22,
+                        "5": 7,
+                        "4": 2,
+                        "3": 0,
+                        "2": 0,
+                        "1": 1
+                    },
+                    "score": 7.7
+                },
+                "rank": 530,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/81\/9c\/236590_xneZa.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/81\/9c\/236590_xneZa.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/81\/9c\/236590_xneZa.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/81\/9c\/236590_xneZa.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/81\/9c\/236590_xneZa.jpg"
+                },
+                "collection": {
+                    "doing": 1259
+                }
+            },
+            {
+                "id": 240811,
+                "url": "http:\/\/bgm.tv\/subject\/240811",
+                "type": 2,
+                "name": "\u9280\u9b42. \u9280\u30ce\u9b42\u7bc7 \u7b2c2\u30af\u30fc\u30eb",
+                "name_cn": "\u94f6\u9b42. \u94f6\u4e4b\u9b42\u7bc7 \u7b2c\u4e8c\u5b63",
+                "summary": "",
+                "air_date": "2018-07-08",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 14,
+                    "count": {
+                        "10": 1,
+                        "9": 1,
+                        "8": 3,
+                        "7": 4,
+                        "6": 3,
+                        "5": 1,
+                        "4": 1,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 7
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/26\/3f\/240811_Eeexh.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/26\/3f\/240811_Eeexh.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/26\/3f\/240811_Eeexh.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/26\/3f\/240811_Eeexh.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/26\/3f\/240811_Eeexh.jpg"
+                },
+                "collection": {
+                    "doing": 110
+                }
+            },
+            {
+                "id": 241133,
+                "url": "http:\/\/bgm.tv\/subject\/241133",
+                "type": 2,
+                "name": "\u30d7\u30e9\u30cd\u30c3\u30c8\u30fb\u30a6\u30a3\u30ba",
+                "name_cn": "\u884c\u661f\u4e0e\u5171",
+                "summary": "",
+                "air_date": "2018-07-08",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 51,
+                    "count": {
+                        "10": 0,
+                        "9": 1,
+                        "8": 22,
+                        "7": 21,
+                        "6": 5,
+                        "5": 1,
+                        "4": 0,
+                        "3": 0,
+                        "2": 1,
+                        "1": 0
+                    },
+                    "score": 7.2
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/90\/34\/241133_4wBHq.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/90\/34\/241133_4wBHq.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/90\/34\/241133_4wBHq.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/90\/34\/241133_4wBHq.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/90\/34\/241133_4wBHq.jpg"
+                },
+                "collection": {
+                    "doing": 312
+                }
+            },
+            {
+                "id": 246914,
+                "url": "http:\/\/bgm.tv\/subject\/246914",
+                "type": 2,
+                "name": "\u30b9\u30fc\u30d1\u30fc\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30d2\u30fc\u30ed\u30fc\u30ba",
+                "name_cn": "\u8d85\u7ea7\u9f99\u73e0\u82f1\u96c4",
+                "summary": "",
+                "air_date": "2018-07-01",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 5,
+                    "count": {
+                        "10": 0,
+                        "9": 0,
+                        "8": 0,
+                        "7": 0,
+                        "6": 0,
+                        "5": 2,
+                        "4": 0,
+                        "3": 0,
+                        "2": 1,
+                        "1": 2
+                    },
+                    "score": 2.8
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/8c\/f9\/246914_6JK6I.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/8c\/f9\/246914_6JK6I.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/8c\/f9\/246914_6JK6I.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/8c\/f9\/246914_6JK6I.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/8c\/f9\/246914_6JK6I.jpg"
+                },
+                "collection": {
+                    "doing": 24
+                }
+            },
+            {
+                "id": 248206,
+                "url": "http:\/\/bgm.tv\/subject\/248206",
+                "type": 2,
+                "name": "\u3058\u3087\u3057\u304a\u3061\u3063\uff01\uff5e2\u968e\u304b\u3089\u5973\u306e\u5b50\u304c\u2026\u964d\u3063\u3066\u304d\u305f\uff01\uff1f\uff5e",
+                "name_cn": "\u843d\u5973\u5b50\uff01\u6709\u5973\u5b69\u5b50\u4ece\u4e8c\u697c\u6389\u4e0b\u6765\u4e86\uff01\uff1f",
+                "summary": "",
+                "air_date": "2018-07-01",
+                "air_weekday": 7,
+                "rating": {
+                    "total": 39,
+                    "count": {
+                        "10": 2,
+                        "9": 0,
+                        "8": 1,
+                        "7": 9,
+                        "6": 17,
+                        "5": 8,
+                        "4": 2,
+                        "3": 0,
+                        "2": 0,
+                        "1": 0
+                    },
+                    "score": 6.2
+                },
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/ee\/1f\/248206_vEylV.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/ee\/1f\/248206_vEylV.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/ee\/1f\/248206_vEylV.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/ee\/1f\/248206_vEylV.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/ee\/1f\/248206_vEylV.jpg"
+                },
+                "collection": {
+                    "doing": 142
+                }
+            },
+            {
+                "id": 253250,
+                "url": "http:\/\/bgm.tv\/subject\/253250",
+                "type": 2,
+                "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30b9\u30c8\u30e9\u30a4\u30af \u65b0\u30b7\u30ea\u30fc\u30ba",
+                "name_cn": "\u602a\u7269\u5f39\u73e0 \u65b0\u7cfb\u5217",
+                "summary": "",
+                "air_date": "2018-07-08",
+                "air_weekday": 7,
+                "images": {
+                    "large": "http:\/\/lain.bgm.tv\/pic\/cover\/l\/b0\/d9\/253250_6o8YI.jpg",
+                    "common": "http:\/\/lain.bgm.tv\/pic\/cover\/c\/b0\/d9\/253250_6o8YI.jpg",
+                    "medium": "http:\/\/lain.bgm.tv\/pic\/cover\/m\/b0\/d9\/253250_6o8YI.jpg",
+                    "small": "http:\/\/lain.bgm.tv\/pic\/cover\/s\/b0\/d9\/253250_6o8YI.jpg",
+                    "grid": "http:\/\/lain.bgm.tv\/pic\/cover\/g\/b0\/d9\/253250_6o8YI.jpg"
+                },
+                "collection": {
+                    "doing": 1
+                }
+            }
+        ]
+    }
+]
