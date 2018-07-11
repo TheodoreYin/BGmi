@@ -14,11 +14,10 @@ ACTION_DOWNLOAD = 'download'
 ACTION_LIST = 'list'
 ACTION_MARK = 'mark'
 ACTION_SEARCH = 'search'
-ACTION_SOURCE = 'source'
 ACTION_COMPLETE = 'complete'  # bash completion
 ACTIONS = (ACTION_ADD, ACTION_DELETE, ACTION_UPDATE, ACTION_CAL,
            ACTION_CONFIG, ACTION_FILTER, ACTION_FETCH, ACTION_DOWNLOAD,
-           ACTION_LIST, ACTION_MARK, ACTION_SEARCH, ACTION_SOURCE, ACTION_COMPLETE)
+           ACTION_LIST, ACTION_MARK, ACTION_SEARCH, ACTION_COMPLETE)
 ACTION_FOLLOWED = 'followed'  # place holder?
 ACTION_HISTORY = 'history'
 
@@ -222,15 +221,6 @@ actions_and_arguments = [
             {'dest': '--max-episode',
              'kwargs': dict(metavar='max_episode', type=int, help='Maximum episode filter of title.'), },
         ],
-    },
-    {
-        'action': ACTION_SOURCE,
-        'help': 'Select date source bangumi_moe or mikan_project',
-        'arguments': [
-            {'dest': 'source',
-             'kwargs': dict(help='bangumi_moe or mikan_project', type=str,
-                            choices=[x['id'] for x in SUPPORT_WEBSITE])},
-        ]
     },
     {
         'action': 'install',
