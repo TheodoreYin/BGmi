@@ -34,7 +34,7 @@ script:
     - bgmi -h
     - coverage run -a -m unittest tests.test_config
     - coverage run -a -m unittest tests.test_models
-
+    - coverage run -a -m unittest tests.test_utils
     - coverage run -a -m unittest tests.test_controllers
     - cp tests/test_script.py $HOME/.bgmi/scripts/test_script.py
     - coverage run -a -m bgmi.main cal -f

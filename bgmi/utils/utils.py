@@ -225,44 +225,47 @@ def get_terminal_col():  # pragma: no cover
             return 80
 
 
+def update(mark):
+    try:
+        print_info('Checking update ...')
+        version = requests.get('https://pypi.python.org/pypi/bgmi/json',
+                               verify=False).json()['info']['version']
+
+        with open(os.path.join(BGMI_PATH, 'latest'), 'w') as f:
+            f.write(version)
+
+        if version > __version__:
+            print_warning('Please update bgmi to the latest version {}{}{}.'
+                          '\nThen execute `bgmi upgrade` to migrate database'
+                          .format(GREEN, version, COLOR_END))
+        else:
+            print_success('Your BGmi is the latest version.')
+
+        package_json = requests.get(PACKAGE_JSON_URL).json()
+        admin_version = package_json['version']
+        if glob.glob(os.path.join(FRONT_STATIC_PATH, 'package.json')):
+            with open(os.path.join(FRONT_STATIC_PATH, 'package.json'), 'r') as f:
+                local_version = json.loads(f.read())['version']
+            if [int(x) for x in admin_version.split('.')] > [int(x) for x in local_version.split('.')]:
+                get_web_admin(method='update')
+        else:
+            print_info("Use 'bgmi install' to install BGmi frontend / download delegate")
+        if not mark:
+            update()
+            raise SystemExit
+    except Exception as e:
+        if os.environ.get('DEBUG'):
+            raise e
+        print_warning('Error occurs when checking update, {}'.format(str(e)))
+
 @log_utils_function
 def check_update(mark=True):
-    def update():
-        try:
-            print_info('Checking update ...')
-            version = requests.get('https://pypi.python.org/pypi/bgmi/json',
-                                   verify=False).json()['info']['version']
-
-            with open(os.path.join(BGMI_PATH, 'latest'), 'w') as f:
-                f.write(version)
-
-            if version > __version__:
-                print_warning('Please update bgmi to the latest version {}{}{}.'
-                              '\nThen execute `bgmi upgrade` to migrate database'
-                              .format(GREEN, version, COLOR_END))
-            else:
-                print_success('Your BGmi is the latest version.')
-
-            package_json = requests.get(PACKAGE_JSON_URL).json()
-            admin_version = package_json['version']
-            if glob.glob(os.path.join(FRONT_STATIC_PATH, 'package.json')):
-                with open(os.path.join(FRONT_STATIC_PATH, 'package.json'), 'r') as f:
-                    local_version = json.loads(f.read())['version']
-                if [int(x) for x in admin_version.split('.')] > [int(x) for x in local_version.split('.')]:
-                    get_web_admin(method='update')
-            else:
-                print_info("Use 'bgmi install' to install BGmi frontend / download delegate")
-            if not mark:
-                update()
-                raise SystemExit
-        except Exception as e:
-            print_warning('Error occurs when checking update, {}'.format(str(e)))
 
     version_file = os.path.join(BGMI_PATH, 'version')
     if not os.path.exists(version_file):
         with open(version_file, 'w') as f:
             f.write(str(int(time.time())))
-        return update()
+        return update(mark)
 
     with open(version_file, 'r') as f:
         try:
@@ -270,7 +273,7 @@ def check_update(mark=True):
             if time.time() - 7 * 24 * 3600 > data:
                 with open(version_file, 'w') as f:
                     f.write(str(int(time.time())))
-                return update()
+                return update(mark)
         except ValueError:
             pass
 
@@ -420,9 +423,7 @@ def normalize_path(url):
 
 
 def get_web_admin(method):
-    # frontend_npm_url = 'https://registry.npmjs.com/bgmi-frontend/'
-    print_info('{}ing BGmi frontend'.format(method[0].upper() + method[1:]))
-
+    print_info('{}ing BGmi frontend'.format(method.title()))
     try:
         r = requests.get(FRONTEND_NPM_URL).json()
         version = requests.get(PACKAGE_JSON_URL).json()
@@ -438,7 +439,12 @@ def get_web_admin(method):
     except json.JSONDecodeError:
         print_warning('failed to download web admin')
         return
-    admin_zip = BytesIO(r.content)
+    unzip_zipped_file(r.content, version)
+    print_success('Web admin page {} successfully. version: {}'.format(method, version['version']))
+
+
+def unzip_zipped_file(file_content, front_version):
+    admin_zip = BytesIO(file_content)
     with gzip.GzipFile(fileobj=admin_zip) as f:
         tar_file = BytesIO(f.read())
 
@@ -452,9 +458,7 @@ def get_web_admin(method):
         move(os.path.join(FRONT_STATIC_PATH, 'package', 'dist', file),
              os.path.join(FRONT_STATIC_PATH, file))
     with open(os.path.join(FRONT_STATIC_PATH, 'package.json'), 'w+') as f:
-        f.write(json.dumps(version))
-    print_success('Web admin page {} successfully. version: {}'.format(method, version['version']))
-
+        f.write(json.dumps(front_version))
 
 @log_utils_function
 def convert_cover_url_to_path(cover_url):
@@ -463,7 +467,7 @@ def convert_cover_url_to_path(cover_url):
 
     :param cover_url: bangumi cover path
     :type cover_url:str
-    :rtype: str,str
+    :rtype: (str,str)
     :return: dir_path, file_path
     """
 
@@ -498,8 +502,12 @@ def download_cover(cover_url_list):
             continue
 
         dir_path, file_path = convert_cover_url_to_path(cover_url_list[index])
-        if not glob.glob(dir_path):
+
+        os.remove(dir_path) if os.path.exists(dir_path) and not os.path.isdir(dir_path) else None
+
+        if not os.path.exists(dir_path):
             os.makedirs(dir_path)
+
         with open(file_path, 'wb') as f:
             f.write(r.content)
     p.close()
