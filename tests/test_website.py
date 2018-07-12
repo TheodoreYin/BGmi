@@ -2,17 +2,14 @@
 
 import os
 import unittest
+from bgmi.website import Mikanani, BangumiMoe, DmhySource
+from bgmi.website.base import BaseWebsite
 
-from bgmi.config import str
-from bgmi.lib.fetch import data_source
 
-
-class ControllersTest(unittest.TestCase):
-    def setUp(self):
-        self.bangumi_name_1 = str(os.environ.get('BANGUMI_1'))
-        self.bangumi_name_2 = str(os.environ.get('BANGUMI_2'))
-        self.w = data_source
-        pass
+class Test:
+    bangumi_name_1 = ''
+    bangumi_name_2 = ''
+    w = BaseWebsite()
 
     def test_info(self):
         bs, gs = self.w.fetch_bangumi_calendar_and_subtitle_group()
@@ -47,7 +44,27 @@ class ControllersTest(unittest.TestCase):
             self.assertIn('title', b)
             self.assertIn('episode', b)
 
-    # @staticmethod
-    # def setUpClass():
-    #     setup()
-    #     recreate_source_relatively_table()
+
+class MikanTest(Test, unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.bangumi_name_1 = '海贼王'
+        cls.bangumi_name_2 = "名侦探柯南"
+        cls.w = Mikanani()
+
+
+class BangumiMoeTest(Test, unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.bangumi_name_1 = '海贼王'
+        cls.bangumi_name_2 = "名侦探柯南"
+        cls.w = BangumiMoe()
+
+
+class DmhyTest(Test, unittest.TestCase):
+
+    @classmethod
+    def setUpClass(cls):
+        cls.bangumi_name_1 = '名偵探柯南'
+        cls.bangumi_name_2 = "海賊王"
+        cls.w = DmhySource()

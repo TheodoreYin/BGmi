@@ -165,12 +165,7 @@ class ApiTestCase(AsyncHTTPTestCase):
         }), headers=self.headers)
         self.assertEqual(r.code, 400)
         self.assertEqual(self.parse_response(r)['status'], 'error')
-        print(subtitle_group)
         self.assertFalse(bool(list(set(subtitle_group) - set(res['data']['followed']))))
-        # for item in subtitle_group:
-        #     self.assertIn(item, res['data']['followed'])
-        # for item in res['data']['followed']:
-        #     self.assertIn(item, subtitle_group)
 
     def test_e_index(self):
         save_dir = os.path.join(SAVE_PATH)

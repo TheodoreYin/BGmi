@@ -370,458 +370,154 @@
     }
   ],
   "bangumi_moe": [
-    {
-      "id": "5492ecbc2a934ba5288acb20",
-      "name": "囧夏发布组"
-    },
-    {
-      "id": "59030031e777e29f2a081ba1",
-      "name": "天行搬运"
-    },
-    {
-      "id": "59058a79e777e29f2a081e10",
-      "name": "天空树双语字幕组"
-    },
-    {
-      "id": "55a3ddfab85ffe43596230d5",
-      "name": "香港動漫"
-    },
-    {
-      "id": "58fe0031e777e29f2a08175d",
-      "name": "AikatsuFans"
-    },
-    {
-      "id": "567cdf0d3e4e6e4148f19bbd",
-      "name": "風之聖殿字幕組"
-    },
-    {
-      "id": "567bda4eafc701435d468b61",
-      "name": "豌豆字幕组"
-    },
-    {
-      "id": "57fc8d1eee98e9ca2073074b",
-      "name": "SFEO-Raws"
-    },
-    {
-      "id": "55c057b124180bc3647feb1d",
-      "name": "動漫國字幕組"
-    },
-    {
-      "id": "56b36ddc50ad6a683360db67",
-      "name": "异域-11番小队"
-    },
-    {
-      "id": "559d1fcdb85ffe4359622f5f",
-      "name": "诸神字幕组"
-    },
-    {
-      "id": "56b9f07f50ad6a683360dd1f",
-      "name": "异域字幕组"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "5492dda32a934ba5288acb1b",
-      "name": "ANK-Raws"
-    },
-    {
-      "id": "55647eeca0b788232ee34dff",
-      "name": "茉语字幕组"
-    },
-    {
-      "id": "55a3ddfab85ffe43596230d5",
-      "name": "香港動漫"
-    },
-    {
-      "id": "57efe841ee98e9ca20730427",
-      "name": "NEW_NODE"
-    },
-    {
-      "id": "58eb97b5e777e29f2a080a0f",
-      "name": "动漫花园"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "586d00cd45a01953431c5b3c",
-      "name": "八重樱字幕组"
-    },
-    {
-      "id": "567bbb202bdec859292459ff",
-      "name": "時雨初空"
-    },
-    {
-      "id": "5854a57da8e01b4f37915ff4",
-      "name": "SweetSub"
-    },
-    {
-      "id": "581be821ee98e9ca20730eae",
-      "name": "LoliHouse"
-    },
-    {
-      "id": "57c38f7fee98e9ca2072f9b3",
-      "name": "c.c动漫"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "565dc75a4f1e8af942aa5024",
-      "name": "漫游字幕组"
-    },
-    {
-      "id": "59d85ac73dad7467798d6892",
-      "name": "鈴風字幕組"
-    },
-    {
-      "id": "55da7a4e7030f8c855f996c7",
-      "name": "喵萌茶会字幕组"
-    },
-    {
-      "id": "54bbe80a76870aad3bb603df",
-      "name": "千夏字幕組"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "5ae9511c2e78648174ce1961",
-      "name": "咪梦动漫组"
-    },
-    {
-      "id": "55647eeca0b788232ee34dff",
-      "name": "茉语字幕组"
-    },
-    {
-      "id": "567cdf0d3e4e6e4148f19bbd",
-      "name": "風之聖殿字幕組"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "57c38f7fee98e9ca2072f9b3",
-      "name": "c.c动漫"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "58a9c1e6f5dc363606ab42ed",
-      "name": "喵萌奶茶屋"
-    },
-    {
-      "id": "57a034ee5cc0696f1ce1a1b2",
-      "name": "桜都字幕组"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "581be821ee98e9ca20730eae",
-      "name": "LoliHouse"
-    },
-    {
-      "id": "54bffe22229d1ecf2c1e553b",
-      "name": "Leopard-Raws"
-    },
-    {
-      "id": "57a034ee5cc0696f1ce1a1b2",
-      "name": "桜都字幕组"
-    },
-    {
-      "id": "54af5a353801bcf877c0bedc",
-      "name": "傲娇零次元"
-    },
-    {
-      "id": "5693f6cb7fcb8b4a11ba52f2",
-      "name": "脸肿字幕组"
-    },
-    {
-      "id": "57a034ee5cc0696f1ce1a1b2",
-      "name": "桜都字幕组"
-    },
-    {
-      "id": "54992d1cc8b118cf40b274b3",
-      "name": "DHR動研字幕組"
-    },
-    {
-      "id": "55647eeca0b788232ee34dff",
-      "name": "茉语字幕组"
-    },
-    {
-      "id": "581be821ee98e9ca20730eae",
-      "name": "LoliHouse"
-    },
-    {
-      "id": "575446452165b9ba0c485d13",
-      "name": "悠哈璃羽字幕社"
-    },
-    {
-      "id": "54bbe80a76870aad3bb603df",
-      "name": "千夏字幕組"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "54992d1cc8b118cf40b274b3",
-      "name": "DHR動研字幕組"
-    },
-    {
-      "id": "55647eeca0b788232ee34dff",
-      "name": "茉语字幕组"
-    },
-    {
-      "id": "581be821ee98e9ca20730eae",
-      "name": "LoliHouse"
-    },
-    {
-      "id": "575446452165b9ba0c485d13",
-      "name": "悠哈璃羽字幕社"
-    },
-    {
-      "id": "55c057b124180bc3647feb1d",
-      "name": "動漫國字幕組"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "57a034ee5cc0696f1ce1a1b2",
-      "name": "桜都字幕组"
-    },
-    {
-      "id": "54992d1cc8b118cf40b274b3",
-      "name": "DHR動研字幕組"
-    },
-    {
-      "id": "581be821ee98e9ca20730eae",
-      "name": "LoliHouse"
-    },
-    {
-      "id": "55c057b124180bc3647feb1d",
-      "name": "動漫國字幕組"
-    },
-    {
-      "id": "55da7a4e7030f8c855f996c7",
-      "name": "喵萌茶会字幕组"
-    },
-    {
-      "id": "586d00cd45a01953431c5b3c",
-      "name": "八重樱字幕组"
-    },
-    {
-      "id": "54a59d43ff362c965be014de",
-      "name": "西农YUI汉化组"
-    },
-    {
-      "id": "58a9c1e6f5dc363606ab42ed",
-      "name": "喵萌奶茶屋"
-    },
-    {
-      "id": "5ae9511c2e78648174ce1961",
-      "name": "咪梦动漫组"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "58a9c1e6f5dc363606ab42ed",
-      "name": "喵萌奶茶屋"
-    },
-    {
-      "id": "5ae9511c2e78648174ce1961",
-      "name": "咪梦动漫组"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "57c38f7fee98e9ca2072f9b3",
-      "name": "c.c动漫"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "54bbe80a76870aad3bb603df",
-      "name": "千夏字幕組"
-    },
-    {
-      "id": "54992d1cc8b118cf40b274b3",
-      "name": "DHR動研字幕組"
-    },
-    {
-      "id": "55da7a4e7030f8c855f996c7",
-      "name": "喵萌茶会字幕组"
-    },
-    {
-      "id": "57c38f7fee98e9ca2072f9b3",
-      "name": "c.c动漫"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "54a59d43ff362c965be014de",
-      "name": "西农YUI汉化组"
-    },
-    {
-      "id": "55da7a4e7030f8c855f996c7",
-      "name": "喵萌茶会字幕组"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "54992d1cc8b118cf40b274b3",
-      "name": "DHR動研字幕組"
-    },
-    {
-      "id": "55647eeca0b788232ee34dff",
-      "name": "茉语字幕组"
-    },
-    {
-      "id": "54bbe80a76870aad3bb603df",
-      "name": "千夏字幕組"
-    },
-    {
-      "id": "581be821ee98e9ca20730eae",
-      "name": "LoliHouse"
-    },
-    {
-      "id": "55c057b124180bc3647feb1d",
-      "name": "動漫國字幕組"
-    },
-    {
-      "id": "57a034ee5cc0696f1ce1a1b2",
-      "name": "桜都字幕组"
-    },
-    {
-      "id": "57c38f7fee98e9ca2072f9b3",
-      "name": "c.c动漫"
-    },
-    {
-      "id": "5ae9511c2e78648174ce1961",
-      "name": "咪梦动漫组"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "5681480070a2ed025d98ae02",
-      "name": "轻之国度字幕组"
-    },
-    {
-      "id": "57c38f7fee98e9ca2072f9b3",
-      "name": "c.c动漫"
-    },
-    {
-      "id": "54992d1cc8b118cf40b274b3",
-      "name": "DHR動研字幕組"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "5ae9511c2e78648174ce1961",
-      "name": "咪梦动漫组"
-    },
-    {
-      "id": "55da7a4e7030f8c855f996c7",
-      "name": "喵萌茶会字幕组"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "58a9c1e6f5dc363606ab42ed",
-      "name": "喵萌奶茶屋"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "59af67e5d04829c1623b0e51",
-      "name": "c-a Raws"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "57c38f7fee98e9ca2072f9b3",
-      "name": "c.c动漫"
-    },
-    {
-      "id": "5ae9511c2e78648174ce1961",
-      "name": "咪梦动漫组"
-    },
-    {
-      "id": "5ac5d835ee0807e777a3a677",
-      "name": "YMDR搬运组"
-    },
-    {
-      "id": "5ae9511c2e78648174ce1961",
-      "name": "咪梦动漫组"
-    }
+      {
+          "id": "5492ecbc2a934ba5288acb20",
+          "name": "囧夏发布组"
+      },
+      {
+          "id": "59030031e777e29f2a081ba1",
+          "name": "天行搬运"
+      },
+      {
+          "id": "59058a79e777e29f2a081e10",
+          "name": "天空树双语字幕组"
+      },
+      {
+          "id": "55a3ddfab85ffe43596230d5",
+          "name": "香港動漫"
+      },
+      {
+          "id": "58fe0031e777e29f2a08175d",
+          "name": "AikatsuFans"
+      },
+      {
+          "id": "567cdf0d3e4e6e4148f19bbd",
+          "name": "風之聖殿字幕組"
+      },
+      {
+          "id": "567bda4eafc701435d468b61",
+          "name": "豌豆字幕组"
+      },
+      {
+          "id": "57fc8d1eee98e9ca2073074b",
+          "name": "SFEO-Raws"
+      },
+      {
+          "id": "55c057b124180bc3647feb1d",
+          "name": "動漫國字幕組"
+      },
+      {
+          "id": "56b36ddc50ad6a683360db67",
+          "name": "异域-11番小队"
+      },
+      {
+          "id": "559d1fcdb85ffe4359622f5f",
+          "name": "诸神字幕组"
+      },
+      {
+          "id": "56b9f07f50ad6a683360dd1f",
+          "name": "异域字幕组"
+      },
+      {
+          "id": "54bffe22229d1ecf2c1e553b",
+          "name": "Leopard-Raws"
+      },
+      {
+          "id": "5492dda32a934ba5288acb1b",
+          "name": "ANK-Raws"
+      },
+      {
+          "id": "55647eeca0b788232ee34dff",
+          "name": "茉语字幕组"
+      },
+      {
+          "id": "57efe841ee98e9ca20730427",
+          "name": "NEW_NODE"
+      },
+      {
+          "id": "58eb97b5e777e29f2a080a0f",
+          "name": "动漫花园"
+      },
+      {
+          "id": "586d00cd45a01953431c5b3c",
+          "name": "八重樱字幕组"
+      },
+      {
+          "id": "567bbb202bdec859292459ff",
+          "name": "時雨初空"
+      },
+      {
+          "id": "5854a57da8e01b4f37915ff4",
+          "name": "SweetSub"
+      },
+      {
+          "id": "581be821ee98e9ca20730eae",
+          "name": "LoliHouse"
+      },
+      {
+          "id": "57c38f7fee98e9ca2072f9b3",
+          "name": "c.c动漫"
+      },
+      {
+          "id": "5ac5d835ee0807e777a3a677",
+          "name": "YMDR搬运组"
+      },
+      {
+          "id": "59af67e5d04829c1623b0e51",
+          "name": "c-a Raws"
+      },
+      {
+          "id": "565dc75a4f1e8af942aa5024",
+          "name": "漫游字幕组"
+      },
+      {
+          "id": "59d85ac73dad7467798d6892",
+          "name": "鈴風字幕組"
+      },
+      {
+          "id": "55da7a4e7030f8c855f996c7",
+          "name": "喵萌茶会字幕组"
+      },
+      {
+          "id": "54bbe80a76870aad3bb603df",
+          "name": "千夏字幕組"
+      },
+      {
+          "id": "5ae9511c2e78648174ce1961",
+          "name": "咪梦动漫组"
+      },
+      {
+          "id": "58a9c1e6f5dc363606ab42ed",
+          "name": "喵萌奶茶屋"
+      },
+      {
+          "id": "57a034ee5cc0696f1ce1a1b2",
+          "name": "桜都字幕组"
+      },
+      {
+          "id": "54af5a353801bcf877c0bedc",
+          "name": "傲娇零次元"
+      },
+      {
+          "id": "5693f6cb7fcb8b4a11ba52f2",
+          "name": "脸肿字幕组"
+      },
+      {
+          "id": "54992d1cc8b118cf40b274b3",
+          "name": "DHR動研字幕組"
+      },
+      {
+          "id": "575446452165b9ba0c485d13",
+          "name": "悠哈璃羽字幕社"
+      },
+      {
+          "id": "54a59d43ff362c965be014de",
+          "name": "西农YUI汉化组"
+      },
+      {
+          "id": "5681480070a2ed025d98ae02",
+          "name": "轻之国度字幕组"
+      }
   ],
   "dmhy": [
     {

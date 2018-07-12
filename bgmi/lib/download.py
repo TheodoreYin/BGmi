@@ -27,10 +27,6 @@ def get_download_class(download_obj=None, save_path='', overwrite=True, instance
     if instance:
         delegate = delegate(download_obj=download_obj, overwrite=overwrite, save_path=save_path)
 
-    if os.environ.get('DEV_DELEGATE'):
-        from bgmi.downloader.dev_downloader import DevDownloadDelegate
-        return DevDownloadDelegate(download_obj=download_obj, overwrite=overwrite, save_path=save_path)
-
     return delegate
 
 

@@ -169,6 +169,12 @@ class Subtitle(NeoDB):
     name = TextField()
     data_source = TextField()
 
+    class Meta:
+        database = db
+        indexes = (
+            # create a unique on from/to/date
+            (('id', 'data_source'), True),
+        )
 
     @classmethod
     def get_subtitle_of_bangumi(cls, bangumi_obj):
@@ -189,8 +195,7 @@ class Subtitle(NeoDB):
         condition = list()
         for s in source:
             condition.append(
-                (Subtitle.id.in_(data_source[s]['subtitle_group'])) &
-                (Subtitle.data_source == s)
+                (Subtitle.id.in_(data_source[s]['subtitle_group'])) & (Subtitle.data_source == s)
             )
         if len(condition) > 1:
             tmp_c = condition[0]

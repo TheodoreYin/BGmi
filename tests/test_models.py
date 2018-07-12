@@ -157,9 +157,6 @@ for key, value in subtitle_group.items():
     subtitle_list += value
 
 
-# print(subtitle_list)
-
-
 class SubtitleTest(TestCase):
 
     def setUp(self):
