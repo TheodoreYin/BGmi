@@ -73,3 +73,27 @@ class BaseWebsite(object):
         :rtype: list[dict]
         """
         raise NotImplementedError
+
+    def search_by_keyword(self, keyword, count=None):
+        """
+        return a list of dict with at least 4 key: download, name, title, episode
+        example:
+        ```
+            [
+                {
+                    'name':"路人女主的养成方法",
+                    'download': 'magnet:?xt=urn:btih:what ever',
+                    'title': "[澄空学园] 路人女主的养成方法 第12话 MP4 720p  完",
+                    'episode': 12
+                },
+            ]
+        ```
+        :param keyword: search key word
+        :type keyword: str
+        :param count: how many page to fetch from website
+        :type count: int
+
+        :return: list of episode search result
+        :rtype: list[dict]
+        """
+        raise NotImplementedError

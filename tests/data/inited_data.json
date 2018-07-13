@@ -1,0 +1,4163 @@
+[
+  {
+    "name": "暗芝居 第六季",
+    "update_time": "Fri",
+    "keyword": 250117,
+    "status": 0,
+    "cover": "{\"large\": \"http://lain.bgm.tv/pic/cover/l/7d/3e/250117_ZpxXb.jpg\", \"common\": \"http://lain.bgm.tv/pic/cover/c/7d/3e/250117_ZpxXb.jpg\", \"medium\": \"http://lain.bgm.tv/pic/cover/m/7d/3e/250117_ZpxXb.jpg\", \"small\": \"http://lain.bgm.tv/pic/cover/s/7d/3e/250117_ZpxXb.jpg\", \"grid\": \"http://lain.bgm.tv/pic/cover/g/7d/3e/250117_ZpxXb.jpg\"}",
+    "type": 0,
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "181"
+        ],
+        "name": "鬼太郎 第六季",
+        "keyword": "1618",
+        "update_time": "Sun",
+        "cover": "https://mikanani.me/Images/Bangumi/201804/e6f6dfc5.jpg"
+      }
+    }
+  },
+  {
+    "name": "名侦探柯南",
+    "update_time": "Sat",
+    "keyword": 899,
+    "status": 0,
+    "cover": "{\"large\": \"http://lain.bgm.tv/pic/cover/l/01/88/899_Q3F3X.jpg\", \"common\": \"http://lain.bgm.tv/pic/cover/c/01/88/899_Q3F3X.jpg\", \"medium\": \"http://lain.bgm.tv/pic/cover/m/01/88/899_Q3F3X.jpg\", \"small\": \"http://lain.bgm.tv/pic/cover/s/01/88/899_Q3F3X.jpg\", \"grid\": \"http://lain.bgm.tv/pic/cover/g/01/88/899_Q3F3X.jpg\"}",
+    "type": 0,
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "10",
+          "161",
+          "93",
+          "202",
+          "305",
+          "22",
+          "387",
+          "169",
+          "373",
+          "7",
+          "38",
+          "21",
+          "97",
+          "25",
+          "81",
+          "151",
+          "14",
+          "65",
+          "85",
+          "9",
+          "57",
+          "52"
+        ],
+        "name": "名侦探柯南",
+        "keyword": "227",
+        "update_time": "Sun",
+        "cover": "https://mikanani.me/Images/Bangumi/201310/91d95f43.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5492ecbc2a934ba5288acb20"
+        ],
+        "name": "名侦探柯南",
+        "keyword": "548fe27ef892774b140ac6e8",
+        "update_time": "Sat",
+        "cover": "https://bangumi.moe/data/images/2014/12/6s8brph4pbw53m1ehi9.jpg"
+      }
+    }
+  },
+  {
+    "name": "海贼王",
+    "update_time": "Sun",
+    "keyword": 975,
+    "status": 0,
+    "cover": "{\"large\": \"http://lain.bgm.tv/pic/cover/l/92/97/975_YKuWd.jpg\", \"common\": \"http://lain.bgm.tv/pic/cover/c/92/97/975_YKuWd.jpg\", \"medium\": \"http://lain.bgm.tv/pic/cover/m/92/97/975_YKuWd.jpg\", \"small\": \"http://lain.bgm.tv/pic/cover/s/92/97/975_YKuWd.jpg\", \"grid\": \"http://lain.bgm.tv/pic/cover/g/92/97/975_YKuWd.jpg\"}",
+    "type": 0,
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "1",
+          "9",
+          "202",
+          "38",
+          "22"
+        ],
+        "name": "海贼王",
+        "keyword": "228",
+        "update_time": "Sun",
+        "cover": "https://mikanani.me/Images/Bangumi/201310/0aa598c7.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59030031e777e29f2a081ba1",
+          "59058a79e777e29f2a081e10",
+          "55a3ddfab85ffe43596230d5"
+        ],
+        "name": "海贼王",
+        "keyword": "548ef7225af0fb402813b57b",
+        "update_time": "Sun",
+        "cover": "https://bangumi.moe/data/images/2014/12/4812mhys7u6n7vvlvgl.jpg"
+      },
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "34",
+          "57",
+          "380",
+          "485",
+          "506"
+        ],
+        "name": "海賊王",
+        "keyword": "%E6%B5%B7%E8%B3%8A%E7%8E%8B",
+        "update_time": "Sun",
+        "cover": "https://share.dmhy.org/images/weekly/OnePiece.jpg"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "向山进发 第三季",
+    "update_time": "Mon",
+    "keyword": "216310",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/49/a2/216310_ci5yT.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/49/a2/216310_ci5yT.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/49/a2/216310_ci5yT.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/49/a2/216310_ci5yT.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/49/a2/216310_ci5yT.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "28",
+          "415",
+          "37",
+          "70"
+        ],
+        "name": "向山进发 第三季",
+        "keyword": "1675",
+        "update_time": "Tue",
+        "cover": "/Images/Bangumi/201807/4ccf406c.jpg"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "One Room 第二季",
+    "update_time": "Mon",
+    "keyword": "226507",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/87/1e/226507_dBZCh.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/87/1e/226507_dBZCh.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/87/1e/226507_dBZCh.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/87/1e/226507_dBZCh.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/87/1e/226507_dBZCh.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "442",
+          "382",
+          "203",
+          "370",
+          "42",
+          "12",
+          "99",
+          "202",
+          "19",
+          "28"
+        ],
+        "name": "One Room 第二季",
+        "keyword": "1701",
+        "update_time": "Tue",
+        "cover": "/Images/Bangumi/201807/1f528246.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "57a034ee5cc0696f1ce1a1b2",
+          "54992d1cc8b118cf40b274b3",
+          "581be821ee98e9ca20730eae",
+          "55c057b124180bc3647feb1d"
+        ],
+        "name": "One Room Second Season",
+        "keyword": "5b38c49fb3d4e8ef387d7eb9",
+        "update_time": "Mon",
+        "cover": "data/images/2018/07/1529495508785-cover.png"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "邪神与厨二病少女",
+    "update_time": "Mon",
+    "keyword": "231722",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/49/c0/231722_6mS09.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/49/c0/231722_6mS09.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/49/c0/231722_6mS09.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/49/c0/231722_6mS09.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/49/c0/231722_6mS09.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "邪神与厨二病少女",
+        "keyword": "5b38c49ab3d4e8ef387d7eb3",
+        "update_time": "Mon",
+        "cover": "data/images/2018/07/1529075977246-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "京都寺町三条商店街的福尔摩斯",
+    "update_time": "Mon",
+    "keyword": "240198",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/c5/07/240198_pi0Y7.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/c5/07/240198_pi0Y7.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/c5/07/240198_pi0Y7.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/c5/07/240198_pi0Y7.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/c5/07/240198_pi0Y7.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "454"
+        ],
+        "name": "京都寺町三条商店街的福尔摩斯",
+        "keyword": "1681",
+        "update_time": "Tue",
+        "cover": "/Images/Bangumi/201807/08a78bca.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "京都寺町三条商店街的福尔摩斯",
+        "keyword": "5b38c49db3d4e8ef387d7eb7",
+        "update_time": "Mon",
+        "cover": "data/images/2018/07/1529485084040-cover.png"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "暮光幻影",
+    "update_time": "Mon",
+    "keyword": "241264",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/7f/ce/241264_m6IO7.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/7f/ce/241264_m6IO7.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/7f/ce/241264_m6IO7.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/7f/ce/241264_m6IO7.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/7f/ce/241264_m6IO7.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "467",
+          "454"
+        ],
+        "name": "暮光幻影",
+        "keyword": "1697",
+        "update_time": "Mon",
+        "cover": "/Images/Bangumi/201807/e6d0a927.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ac5d835ee0807e777a3a677",
+          "5ae9511c2e78648174ce1961"
+        ],
+        "name": "暮光幻影",
+        "keyword": "5b38c49cb3d4e8ef387d7eb5",
+        "update_time": "Mon",
+        "cover": "data/images/2018/07/1529477116125-cover.png"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "Angolmois 元寇合战记",
+    "update_time": "Tue",
+    "keyword": "218572",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/8e/ee/218572_VDgMO.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/8e/ee/218572_VDgMO.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/8e/ee/218572_VDgMO.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/8e/ee/218572_VDgMO.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/8e/ee/218572_VDgMO.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "Angolmois～元寇合战记～",
+        "keyword": "5b38c4a8b3d4e8ef387d7ec7",
+        "update_time": "Tue",
+        "cover": "data/images/2018/07/1529075978073-cover.png"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "后街女孩",
+    "update_time": "Tue",
+    "keyword": "231278",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/5d/10/231278_FrbN1.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/5d/10/231278_FrbN1.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/5d/10/231278_FrbN1.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/5d/10/231278_FrbN1.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/5d/10/231278_FrbN1.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "305",
+          "34",
+          "376",
+          "213",
+          "99",
+          "454"
+        ],
+        "name": "后街女孩",
+        "keyword": "1669",
+        "update_time": "Wed",
+        "cover": "/Images/Bangumi/201807/a72e5783.jpg"
+      },
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "525",
+          "619",
+          "407"
+        ],
+        "name": "漫畫女孩",
+        "keyword": "Comic+Girls",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "偶像大师 灰姑娘女孩剧场 第三季",
+    "update_time": "Tue",
+    "keyword": "238087",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/eb/73/238087_j5IX2.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/eb/73/238087_j5IX2.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/eb/73/238087_j5IX2.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/eb/73/238087_j5IX2.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/eb/73/238087_j5IX2.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "偶像大师 灰姑娘女孩剧场 3rd SEASON",
+        "keyword": "5b38c4abb3d4e8ef387d7ecb",
+        "update_time": "Tue",
+        "cover": "data/images/2018/07/1529497428913-cover.png"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "千铳士",
+    "update_time": "Tue",
+    "keyword": "241093",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/18/f3/241093_U8EkK.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/18/f3/241093_U8EkK.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/18/f3/241093_U8EkK.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/18/f3/241093_U8EkK.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/18/f3/241093_U8EkK.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "454"
+        ],
+        "name": "千铳士",
+        "keyword": "1668",
+        "update_time": "Tue",
+        "cover": "/Images/Bangumi/201807/4b8f9534.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ae9511c2e78648174ce1961"
+        ],
+        "name": "千铳士",
+        "keyword": "5b38c4acb3d4e8ef387d7ecd",
+        "update_time": "Tue",
+        "cover": "data/images/2018/07/1529493360247-cover.png"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "深夜！天才傻鹏",
+    "update_time": "Tue",
+    "keyword": "242082",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/f8/3d/242082_vmAvx.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/f8/3d/242082_vmAvx.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/f8/3d/242082_vmAvx.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/f8/3d/242082_vmAvx.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/f8/3d/242082_vmAvx.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "深夜!天才傻鹏",
+        "keyword": "5b38c4adb3d4e8ef387d7ecf",
+        "update_time": "Tue",
+        "cover": "data/images/2018/07/1529075979214-cover.png"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "OVERLORD III",
+    "update_time": "Tue",
+    "keyword": "242170",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/47/d4/242170_iz9Ko.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/47/d4/242170_iz9Ko.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/47/d4/242170_iz9Ko.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/47/d4/242170_iz9Ko.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/47/d4/242170_iz9Ko.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "OVERLORD III",
+        "keyword": "5b38c4a7b3d4e8ef387d7ec5",
+        "update_time": "Tue",
+        "cover": "data/images/2018/07/1529477116354-cover.png"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "某僵尸少女的灾难",
+    "update_time": "Wed",
+    "keyword": "101994",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/a1/e5/101994_B53RR.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/a1/e5/101994_B53RR.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/a1/e5/101994_B53RR.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/a1/e5/101994_B53RR.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/a1/e5/101994_B53RR.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "476"
+        ],
+        "name": "某僵尸少女的灾难",
+        "keyword": "1704",
+        "update_time": "Wed",
+        "cover": "/Images/Bangumi/201806/5a8c0739.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "58a9c1e6f5dc363606ab42ed"
+        ],
+        "name": "某僵尸少女的灾难",
+        "keyword": "5b4046b224dd68674f53142f",
+        "update_time": "Wed",
+        "cover": "data/images/2018/07/2h5dsuivhfayjydwm4h.jpg"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "中间管理录利根川",
+    "update_time": "Wed",
+    "keyword": "237834",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/38/ed/237834_t6mtx.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/38/ed/237834_t6mtx.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/38/ed/237834_t6mtx.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/38/ed/237834_t6mtx.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/38/ed/237834_t6mtx.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "435"
+        ],
+        "name": "中间管理录利根川",
+        "keyword": "1694",
+        "update_time": "Wed",
+        "cover": "/Images/Bangumi/201807/4bf93ba9.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "中间管理录利根川",
+        "keyword": "5b38c4a9b3d4e8ef387d7ec9",
+        "update_time": "Tue",
+        "cover": "data/images/2018/07/1529485083477-cover.png"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "火影忍者疾风传",
+    "update_time": "Thu",
+    "keyword": "2782",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/60/24/2782_r0650.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/60/24/2782_r0650.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/60/24/2782_r0650.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/60/24/2782_r0650.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/60/24/2782_r0650.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "467",
+          "202",
+          "28",
+          "327",
+          "183",
+          "64"
+        ],
+        "name": "火影忍者 博人传之火影次世代",
+        "keyword": "1298",
+        "update_time": "Wed",
+        "cover": "/Images/Bangumi/201704/e46ad033.jpg"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "梦王国与沉睡的100名王子",
+    "update_time": "Thu",
+    "keyword": "191323",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/c3/27/191323_hLsyp.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/c3/27/191323_hLsyp.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/c3/27/191323_hLsyp.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/c3/27/191323_hLsyp.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/c3/27/191323_hLsyp.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "435"
+        ],
+        "name": "梦王国与沉睡的100名王子",
+        "keyword": "1686",
+        "update_time": "Thu",
+        "cover": "/Images/Bangumi/201807/f2ef7b67.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "梦王国与沉睡的100王子",
+        "keyword": "5b38c4b2b3d4e8ef387d7ed7",
+        "update_time": "Thu",
+        "cover": "data/images/2018/07/1529495508230-cover.png"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "少女☆歌剧 Revue・Starlight",
+    "update_time": "Thu",
+    "keyword": "214265",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/ca/48/214265_uHAIG.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/ca/48/214265_uHAIG.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/ca/48/214265_uHAIG.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/ca/48/214265_uHAIG.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/ca/48/214265_uHAIG.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "少女☆歌剧 Revue Starlight\t",
+        "keyword": "5b38c4b5b3d4e8ef387d7edb",
+        "update_time": "Thu",
+        "cover": "data/images/2018/07/1528798191590-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": "昴宿七星",
+    "update_time": "Thu",
+    "keyword": "225843",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/42/ad/225843_1c19U.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/42/ad/225843_1c19U.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/42/ad/225843_1c19U.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/42/ad/225843_1c19U.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/42/ad/225843_1c19U.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "305",
+          "435"
+        ],
+        "name": "昴宿七星",
+        "keyword": "1695",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201807/423ba03b.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "昴宿七星",
+        "keyword": "5b38c4b3b3d4e8ef387d7ed9",
+        "update_time": "Thu",
+        "cover": "data/images/2018/07/1529477116674-cover.png"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "春原庄的管理人",
+    "update_time": "Thu",
+    "keyword": "230110",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/91/41/230110_5tFWD.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/91/41/230110_5tFWD.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/91/41/230110_5tFWD.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/91/41/230110_5tFWD.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/91/41/230110_5tFWD.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "春原庄的管理员",
+        "keyword": "5b38c4b7b3d4e8ef387d7edf",
+        "update_time": "Thu",
+        "cover": "data/images/2018/07/1528998458087-cover.png"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "name": "异世界魔王与召唤少女的奴隶魔术",
+    "update_time": "Thu",
+    "keyword": "236224",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/53/20/236224_EO3GO.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/53/20/236224_EO3GO.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/53/20/236224_EO3GO.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/53/20/236224_EO3GO.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/53/20/236224_EO3GO.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "202",
+          "467",
+          "181"
+        ],
+        "name": "异世界魔王与召唤少女的奴隶魔术",
+        "keyword": "1670",
+        "update_time": "Thu",
+        "cover": "/Images/Bangumi/201807/5c107f58.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ac5d835ee0807e777a3a677",
+          "57c38f7fee98e9ca2072f9b3"
+        ],
+        "name": "异世界魔王与召唤少女的奴隶魔术",
+        "keyword": "5b38c4b6b3d4e8ef387d7edd",
+        "update_time": "Thu",
+        "cover": "data/images/2018/07/1528998457336-cover.png"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "name": "BanG Dream! 少女乐团派对！☆PICO",
+    "update_time": "Thu",
+    "keyword": "246431",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/08/fd/246431_2Ya25.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/08/fd/246431_2Ya25.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/08/fd/246431_2Ya25.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/08/fd/246431_2Ya25.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/08/fd/246431_2Ya25.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "37",
+          "12",
+          "28"
+        ],
+        "name": "BanG Dream! 少女乐团派对！☆PICO",
+        "keyword": "1705",
+        "update_time": "Thu",
+        "cover": "/Images/Bangumi/201807/d4eaa0dc.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "54bbe80a76870aad3bb603df",
+          "54992d1cc8b118cf40b274b3"
+        ],
+        "name": "BanG Dream! Girls Band Party!☆PICO",
+        "keyword": "5b38c4b8b3d4e8ef387d7ee1",
+        "update_time": "Thu",
+        "cover": "data/images/2018/07/1529872458413-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "name": "见习神明 秘密的心灵 夏天大喧闹SP",
+    "update_time": "Thu",
+    "keyword": "250558",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/4f/9b/250558_MBUI1.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/4f/9b/250558_MBUI1.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/4f/9b/250558_MBUI1.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/4f/9b/250558_MBUI1.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/4f/9b/250558_MBUI1.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "見習神仙 秘密的心靈",
+        "keyword": "%E3%81%93%E3%81%93%E3%81%9F%E3%81%BE%7C%E7%BF%92%E7%A5%9E",
+        "update_time": "Thu",
+        "cover": "/images/weekly/Cocotama.gif"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "name": "妖怪手表",
+    "update_time": "Fri",
+    "keyword": "83124",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/da/bf/83124_t8vg0.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/da/bf/83124_t8vg0.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/da/bf/83124_t8vg0.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/da/bf/83124_t8vg0.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/da/bf/83124_t8vg0.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "490",
+          "88"
+        ],
+        "name": "妖怪手錶",
+        "keyword": "Youkai+Watch",
+        "update_time": "Thu",
+        "cover": "/images/weekly/youkai-watch.jpg"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "name": "高分少女",
+    "update_time": "Fri",
+    "keyword": "91205",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/79/bb/91205_WzBkF.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/79/bb/91205_WzBkF.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/79/bb/91205_WzBkF.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/79/bb/91205_WzBkF.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/79/bb/91205_WzBkF.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "454"
+        ],
+        "name": "音乐少女",
+        "keyword": "1690",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201807/10cccdf1.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "音乐少女",
+        "keyword": "5b38c4c2b3d4e8ef387d7eef",
+        "update_time": "Fri",
+        "cover": "data/images/2018/07/1528786981701-cover.png"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "name": "千绪的通学路",
+    "update_time": "Fri",
+    "keyword": "218226",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/13/a0/218226_q1l6K.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/13/a0/218226_q1l6K.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/13/a0/218226_q1l6K.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/13/a0/218226_q1l6K.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/13/a0/218226_q1l6K.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "34",
+          "28",
+          "435"
+        ],
+        "name": "千绪的通学路",
+        "keyword": "1671",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201807/3857c6e4.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "54992d1cc8b118cf40b274b3",
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "千绪的通学路",
+        "keyword": "5b38c4bfb3d4e8ef387d7eeb",
+        "update_time": "Fri",
+        "cover": "data/images/2018/07/1529485083921-cover.png"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "name": "遥的接球",
+    "update_time": "Fri",
+    "keyword": "220375",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/1c/39/220375_5rFVZ.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/1c/39/220375_5rFVZ.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/1c/39/220375_5rFVZ.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/1c/39/220375_5rFVZ.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/1c/39/220375_5rFVZ.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "12",
+          "467",
+          "435",
+          "48",
+          "181"
+        ],
+        "name": "遥之彼方的接发球",
+        "keyword": "1691",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201807/dc6ed453.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ac5d835ee0807e777a3a677",
+          "59af67e5d04829c1623b0e51",
+          "5681480070a2ed025d98ae02",
+          "57c38f7fee98e9ca2072f9b3"
+        ],
+        "name": "遥的接球",
+        "keyword": "5b38c4bdb3d4e8ef387d7ee9",
+        "update_time": "Fri",
+        "cover": "data/images/2018/07/1528798190896-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": "杀戮天使",
+    "update_time": "Fri",
+    "keyword": "220566",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/1a/b7/220566_UeRSQ.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/1a/b7/220566_UeRSQ.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/1a/b7/220566_UeRSQ.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/1a/b7/220566_UeRSQ.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/1a/b7/220566_UeRSQ.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "467",
+          "223",
+          "439",
+          "415",
+          "37",
+          "146",
+          "34",
+          "19",
+          "203",
+          "376",
+          "464",
+          "181",
+          "454"
+        ],
+        "name": "杀戮天使",
+        "keyword": "1687",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201807/adcdf407.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ac5d835ee0807e777a3a677",
+          "54992d1cc8b118cf40b274b3",
+          "55647eeca0b788232ee34dff",
+          "54bbe80a76870aad3bb603df",
+          "581be821ee98e9ca20730eae",
+          "55c057b124180bc3647feb1d",
+          "57a034ee5cc0696f1ce1a1b2",
+          "57c38f7fee98e9ca2072f9b3",
+          "5ae9511c2e78648174ce1961"
+        ],
+        "name": "杀戮的天使",
+        "keyword": "5b38c4c3b3d4e8ef387d7ef1",
+        "update_time": "Fri",
+        "cover": "data/images/2018/07/1529493359189-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": "打工小哥！之2！",
+    "update_time": "Fri",
+    "keyword": "241831",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/23/01/241831_5Sa59.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/23/01/241831_5Sa59.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/23/01/241831_5Sa59.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/23/01/241831_5Sa59.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/23/01/241831_5Sa59.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "打工小哥!",
+        "keyword": "5b38d011f1a82c8443d7fc7f",
+        "update_time": "Fri",
+        "cover": "data/images/2018/07/1529968941077-cover.png"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "name": "天才玩偶",
+    "update_time": "Fri",
+    "keyword": "242737",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/ea/9b/242737_Tkztl.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/ea/9b/242737_Tkztl.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/ea/9b/242737_Tkztl.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/ea/9b/242737_Tkztl.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/ea/9b/242737_Tkztl.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "454"
+        ],
+        "name": "天才玩偶",
+        "keyword": "1717",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/cefedd86.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ae9511c2e78648174ce1961"
+        ],
+        "name": "天才玩偶",
+        "keyword": "5b38c4a3b3d4e8ef387d7ebf",
+        "update_time": "Mon",
+        "cover": "data/images/2018/07/1529990652621-cover.png"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "name": "汤摇庄的幽奈同学",
+    "update_time": "Sat",
+    "keyword": "228969",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/64/97/228969_0i030.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/64/97/228969_0i030.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/64/97/228969_0i030.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/64/97/228969_0i030.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/64/97/228969_0i030.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "44",
+          "202",
+          "203"
+        ],
+        "name": "汤摇庄的幽奈同学 OAD",
+        "keyword": "1720",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/1d0d79fd.jpg"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "name": "工作细胞",
+    "update_time": "Sat",
+    "keyword": "235612",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/84/fc/235612_EHO4Q.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/84/fc/235612_EHO4Q.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/84/fc/235612_EHO4Q.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/84/fc/235612_EHO4Q.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/84/fc/235612_EHO4Q.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "70",
+          "467",
+          "382",
+          "435"
+        ],
+        "name": "工作细胞",
+        "keyword": "1672",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/ba29fe25.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "55da7a4e7030f8c855f996c7",
+          "5ac5d835ee0807e777a3a677",
+          "58a9c1e6f5dc363606ab42ed",
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "工作细胞",
+        "keyword": "5b38d015f1a82c8443d7fc85",
+        "update_time": "Sat",
+        "cover": "data/images/2018/07/1529493359934-cover.png"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "name": "告诉我魔法之摆～莉露莉露妖精莉露～",
+    "update_time": "Sat",
+    "keyword": "237762",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/59/f7/237762_ZXxnZ.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/59/f7/237762_ZXxnZ.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/59/f7/237762_ZXxnZ.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/59/f7/237762_ZXxnZ.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/59/f7/237762_ZXxnZ.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "6"
+        ],
+        "name": "告诉我魔法之摆～莉露莉露妖精莉露～",
+        "keyword": "1721",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/90cb2118.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "告诉我!魔法灵摆～莉露莉露妖精莉露～",
+        "keyword": "5b38d01af1a82c8443d7fc8d",
+        "update_time": "Sat",
+        "cover": "data/images/2018/07/1529989258855-cover.png"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "name": "百炼霸王与圣约女武神",
+    "update_time": "Sat",
+    "keyword": "239960",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/62/2f/239960_N6F65.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/62/2f/239960_N6F65.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/62/2f/239960_N6F65.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/62/2f/239960_N6F65.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/62/2f/239960_N6F65.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "454"
+        ],
+        "name": "百炼霸王与圣约女武神",
+        "keyword": "1696",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/ad9d95a0.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ae9511c2e78648174ce1961"
+        ],
+        "name": "百炼霸王与圣约女武神",
+        "keyword": "5b38d018f1a82c8443d7fc89",
+        "update_time": "Sat",
+        "cover": "data/images/2018/07/1529493359348-cover.png"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "name": "刃牙",
+    "update_time": "Sun",
+    "keyword": "199373",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/d3/27/199373_y6WZ4.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/d3/27/199373_y6WZ4.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/d3/27/199373_y6WZ4.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/d3/27/199373_y6WZ4.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/d3/27/199373_y6WZ4.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "435"
+        ],
+        "name": "刃牙",
+        "keyword": "1682",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201806/42f2b7e0.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "刃牙",
+        "keyword": "5b38d020f1a82c8443d7fc95",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1529484338848-cover.png"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "name": "进击的巨人 第三季",
+    "update_time": "Sun",
+    "keyword": "217300",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/18/86/217300_WGgTy.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/18/86/217300_WGgTy.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/18/86/217300_WGgTy.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/18/86/217300_WGgTy.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/18/86/217300_WGgTy.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "305",
+          "454",
+          "376",
+          "202",
+          "467",
+          "453"
+        ],
+        "name": "我的英雄学院 第三季",
+        "keyword": "1640",
+        "update_time": "Sat",
+        "cover": "/Images/Bangumi/201804/3296ee17.jpg"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "name": "来玩游戏吧",
+    "update_time": "Sun",
+    "keyword": "236020",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/fb/c2/236020_6jd4d.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/fb/c2/236020_6jd4d.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/fb/c2/236020_6jd4d.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/fb/c2/236020_6jd4d.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/fb/c2/236020_6jd4d.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "435"
+        ],
+        "name": "来玩游戏吧",
+        "keyword": "1673",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/2cc09d31.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "来玩游戏吧",
+        "keyword": "5b38d023f1a82c8443d7fc99",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1528998457729-cover.png"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "name": "轻羽飞扬",
+    "update_time": "Sun",
+    "keyword": "236590",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/81/9c/236590_xneZa.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/81/9c/236590_xneZa.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/81/9c/236590_xneZa.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/81/9c/236590_xneZa.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/81/9c/236590_xneZa.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "19",
+          "467",
+          "444",
+          "223",
+          "12"
+        ],
+        "name": "轻羽飞扬",
+        "keyword": "1667",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/ee0d1ed3.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ac5d835ee0807e777a3a677",
+          "54992d1cc8b118cf40b274b3",
+          "55647eeca0b788232ee34dff",
+          "581be821ee98e9ca20730eae",
+          "575446452165b9ba0c485d13",
+          "55c057b124180bc3647feb1d"
+        ],
+        "name": "轻羽飞扬",
+        "keyword": "5b38d01df1a82c8443d7fc91",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1528787300962-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "name": "银魂. 银之魂篇 第二季",
+    "update_time": "Sun",
+    "keyword": "240811",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/26/3f/240811_Eeexh.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/26/3f/240811_Eeexh.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/26/3f/240811_Eeexh.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/26/3f/240811_Eeexh.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/26/3f/240811_Eeexh.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "17"
+        ],
+        "name": "银魂. 银之魂篇 第二季",
+        "keyword": "1710",
+        "update_time": "Mon",
+        "cover": "/Images/Bangumi/201807/540451d9.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "银魂. 银之魂篇 后半战",
+        "keyword": "5b38d026f1a82c8443d7fc9d",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1529990623340-cover.png"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "name": "行星与共",
+    "update_time": "Sun",
+    "keyword": "241133",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/90/34/241133_4wBHq.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/90/34/241133_4wBHq.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/90/34/241133_4wBHq.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/90/34/241133_4wBHq.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/90/34/241133_4wBHq.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "19",
+          "467",
+          "181"
+        ],
+        "name": "行星与共",
+        "keyword": "1676",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/88c9c6f4.jpg"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "name": "落女子！有女孩子从二楼掉下来了！？",
+    "update_time": "Sun",
+    "keyword": "248206",
+    "status": 0,
+    "cover": "{\"large\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/l/ee/1f/248206_vEylV.jpg\", \"common\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/c/ee/1f/248206_vEylV.jpg\", \"medium\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/m/ee/1f/248206_vEylV.jpg\", \"small\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/s/ee/1f/248206_vEylV.jpg\", \"grid\": \"http://localhost:8092/default/http/lain.bgm.tv/pic/cover/g/ee/1f/248206_vEylV.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "203",
+          "470"
+        ],
+        "name": "天降女子!～女孩子从2楼…掉了下来!?",
+        "keyword": "1703",
+        "update_time": "Mon",
+        "cover": "/Images/Bangumi/201806/aa6b732a.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "57a034ee5cc0696f1ce1a1b2"
+        ],
+        "name": "天降女子!～女孩子从2楼…掉了下来!?～",
+        "keyword": "5b38d028f1a82c8443d7fca1",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1529497429184-cover.png"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "name": "暗芝居 第六季",
+    "update_time": "Fri",
+    "keyword": "250117",
+    "status": 0,
+    "cover": "{\"large\": \"http://lain.bgm.tv/pic/cover/l/7d/3e/250117_ZpxXb.jpg\", \"common\": \"http://lain.bgm.tv/pic/cover/c/7d/3e/250117_ZpxXb.jpg\", \"medium\": \"http://lain.bgm.tv/pic/cover/m/7d/3e/250117_ZpxXb.jpg\", \"small\": \"http://lain.bgm.tv/pic/cover/s/7d/3e/250117_ZpxXb.jpg\", \"grid\": \"http://lain.bgm.tv/pic/cover/g/7d/3e/250117_ZpxXb.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "181"
+        ],
+        "name": "鬼太郎 第六季",
+        "keyword": "1618",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201804/e6f6dfc5.jpg"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "name": "名侦探柯南",
+    "update_time": "Sat",
+    "keyword": "899",
+    "status": 0,
+    "cover": "{\"large\": \"http://lain.bgm.tv/pic/cover/l/01/88/899_Q3F3X.jpg\", \"common\": \"http://lain.bgm.tv/pic/cover/c/01/88/899_Q3F3X.jpg\", \"medium\": \"http://lain.bgm.tv/pic/cover/m/01/88/899_Q3F3X.jpg\", \"small\": \"http://lain.bgm.tv/pic/cover/s/01/88/899_Q3F3X.jpg\", \"grid\": \"http://lain.bgm.tv/pic/cover/g/01/88/899_Q3F3X.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "10",
+          "161",
+          "93",
+          "202",
+          "305",
+          "22",
+          "387",
+          "169",
+          "373",
+          "7",
+          "38",
+          "21",
+          "97",
+          "25",
+          "81",
+          "151",
+          "14",
+          "65",
+          "85",
+          "9",
+          "57",
+          "52"
+        ],
+        "name": "名侦探柯南",
+        "keyword": "227",
+        "update_time": "Sun",
+        "cover": "https://mikanani.me/Images/Bangumi/201310/91d95f43.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5492ecbc2a934ba5288acb20"
+        ],
+        "name": "名侦探柯南",
+        "keyword": "548fe27ef892774b140ac6e8",
+        "update_time": "Sat",
+        "cover": "https://bangumi.moe/data/images/2014/12/6s8brph4pbw53m1ehi9.jpg"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "name": "海贼王",
+    "update_time": "Sun",
+    "keyword": "975",
+    "status": 0,
+    "cover": "{\"large\": \"http://lain.bgm.tv/pic/cover/l/92/97/975_YKuWd.jpg\", \"common\": \"http://lain.bgm.tv/pic/cover/c/92/97/975_YKuWd.jpg\", \"medium\": \"http://lain.bgm.tv/pic/cover/m/92/97/975_YKuWd.jpg\", \"small\": \"http://lain.bgm.tv/pic/cover/s/92/97/975_YKuWd.jpg\", \"grid\": \"http://lain.bgm.tv/pic/cover/g/92/97/975_YKuWd.jpg\"}",
+    "type": "0",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "1",
+          "9",
+          "202",
+          "38",
+          "22"
+        ],
+        "name": "海贼王",
+        "keyword": "228",
+        "update_time": "Sun",
+        "cover": "https://mikanani.me/Images/Bangumi/201310/0aa598c7.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59030031e777e29f2a081ba1",
+          "59058a79e777e29f2a081e10",
+          "55a3ddfab85ffe43596230d5"
+        ],
+        "name": "海贼王",
+        "keyword": "548ef7225af0fb402813b57b",
+        "update_time": "Sun",
+        "cover": "https://bangumi.moe/data/images/2014/12/4812mhys7u6n7vvlvgl.jpg"
+      },
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "34",
+          "57",
+          "380",
+          "485",
+          "506"
+        ],
+        "name": "海賊王",
+        "keyword": "%E6%B5%B7%E8%B3%8A%E7%8E%8B",
+        "update_time": "Sun",
+        "cover": "https://share.dmhy.org/images/weekly/OnePiece.jpg"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "name": "神怒之日",
+    "update_time": "Sun",
+    "keyword": "1456",
+    "status": 0,
+    "cover": "https://mikanani.me/Images/Bangumi/201710/0e9ea8e4.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "202",
+          "70",
+          "30",
+          "19"
+        ],
+        "name": "神怒之日",
+        "keyword": "1456",
+        "update_time": "Sun",
+        "cover": "https://mikanani.me/Images/Bangumi/201710/0e9ea8e4.jpg"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "name": "HUGtto！光之美少女",
+    "update_time": "Sun",
+    "keyword": "1538",
+    "status": 0,
+    "cover": "https://mikanani.me/Images/Bangumi/201802/d6b7452c.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "6",
+          "154"
+        ],
+        "name": "HUGtto！光之美少女",
+        "keyword": "1538",
+        "update_time": "Sun",
+        "cover": "https://mikanani.me/Images/Bangumi/201802/d6b7452c.jpg"
+      },
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "hugtto!光之美少女",
+        "keyword": "5a4338fccc0a83c72ff58849",
+        "update_time": "Sun",
+        "cover": "data/images/2017/12/24ipuhmi4unvnfhsl9o.jpg"
+      },
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "37",
+          "552"
+        ],
+        "name": "光之美少女!",
+        "keyword": "%E5%85%89%E4%B9%8B",
+        "update_time": "Sun",
+        "cover": "https://share.dmhy.org/images/weekly/MahouTsukaiPrecure.gif"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "name": "偶像活动",
+    "update_time": "Mon",
+    "keyword": "548f0f4cf892774b140ac678",
+    "status": 0,
+    "cover": "https://bangumi.moe/data/images/2014/12/6dv8ukxc0odnwade3pi.jpg",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "58fe0031e777e29f2a08175d",
+          "567cdf0d3e4e6e4148f19bbd",
+          "567bda4eafc701435d468b61"
+        ],
+        "name": "偶像活动",
+        "keyword": "548f0f4cf892774b140ac678",
+        "update_time": "Mon",
+        "cover": "https://bangumi.moe/data/images/2014/12/6dv8ukxc0odnwade3pi.jpg"
+      },
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "6",
+          "435",
+          "384",
+          "29"
+        ],
+        "name": "偶像活动Friends",
+        "keyword": "1592",
+        "update_time": "Thu",
+        "cover": "/Images/Bangumi/201804/f25437b9.jpg"
+      },
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "37",
+          "403",
+          "675"
+        ],
+        "name": "偶像活動",
+        "keyword": "%E6%B4%BB%E5%8B%95",
+        "update_time": "Thu",
+        "cover": "/images/weekly/AikatsuStars.gif"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "name": "妖精的尾巴",
+    "update_time": "Sat",
+    "keyword": "548f0f2df892774b140ac674",
+    "status": 0,
+    "cover": "https://bangumi.moe/data/images/2014/12/6dznn2rykghikpgav2k.jpg",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "57fc8d1eee98e9ca2073074b",
+          "55c057b124180bc3647feb1d",
+          "56b36ddc50ad6a683360db67",
+          "559d1fcdb85ffe4359622f5f",
+          "56b9f07f50ad6a683360dd1f",
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "妖精的尾巴",
+        "keyword": "548f0f2df892774b140ac674",
+        "update_time": "Sat",
+        "cover": "https://bangumi.moe/data/images/2014/12/6dznn2rykghikpgav2k.jpg"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "name": "龙珠改 魔人布欧篇",
+    "update_time": "Sun",
+    "keyword": "548f0275f892774b140ac634",
+    "status": 0,
+    "cover": "https://bangumi.moe/data/images/2014/12/53o20pi40qg4izrj1hj.jpg",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5492dda32a934ba5288acb1b"
+        ],
+        "name": "龙珠改 魔人布欧篇",
+        "keyword": "548f0275f892774b140ac634",
+        "update_time": "Sun",
+        "cover": "https://bangumi.moe/data/images/2014/12/53o20pi40qg4izrj1hj.jpg"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "name": "櫻桃小丸子",
+    "update_time": "Sun",
+    "keyword": "%E5%B0%8F%E4%B8%B8%E5%AD%90",
+    "status": 0,
+    "cover": "https://share.dmhy.org/images/weekly/chibimaru.jpg",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "488",
+          "506"
+        ],
+        "name": "櫻桃小丸子",
+        "keyword": "%E5%B0%8F%E4%B8%B8%E5%AD%90",
+        "update_time": "Sun",
+        "cover": "https://share.dmhy.org/images/weekly/chibimaru.jpg"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "name": "寶石寵物",
+    "update_time": "Sun",
+    "keyword": "%E7%9F%B3%E5%AF%B5",
+    "status": 0,
+    "cover": "https://share.dmhy.org/images/weekly/jewelpet7.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "488",
+          "552"
+        ],
+        "name": "寶石寵物",
+        "keyword": "%E7%9F%B3%E5%AF%B5",
+        "update_time": "Sun",
+        "cover": "https://share.dmhy.org/images/weekly/jewelpet7.gif"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "name": "光之美少女!",
+    "update_time": "Sun",
+    "keyword": "%E5%85%89%E4%B9%8B",
+    "status": 0,
+    "cover": "https://share.dmhy.org/images/weekly/MahouTsukaiPrecure.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "37",
+          "552"
+        ],
+        "name": "光之美少女!",
+        "keyword": "%E5%85%89%E4%B9%8B",
+        "update_time": "Sun",
+        "cover": "https://share.dmhy.org/images/weekly/MahouTsukaiPrecure.gif"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "name": "百變小櫻 透明牌篇",
+    "update_time": "Sun",
+    "keyword": "%E9%AD%94%E5%8D%A1%7C%E5%BA%AB%E6%B4%9B%7C%E7%99%BE%E8%AE%8A",
+    "status": 0,
+    "cover": "https://share.dmhy.org/images/weekly/ccsakura.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "117",
+          "669",
+          "185",
+          "454",
+          "58",
+          "134",
+          "151",
+          "663",
+          "432",
+          "434",
+          "674",
+          "423",
+          "141",
+          "649",
+          "619"
+        ],
+        "name": "百變小櫻 透明牌篇",
+        "keyword": "%E9%AD%94%E5%8D%A1%7C%E5%BA%AB%E6%B4%9B%7C%E7%99%BE%E8%AE%8A",
+        "update_time": "Sun",
+        "cover": "https://share.dmhy.org/images/weekly/ccsakura.gif"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "name": "女神异闻录5",
+    "update_time": "Sun",
+    "keyword": "1615",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/1947304b.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "370",
+          "99",
+          "12",
+          "21",
+          "467",
+          "435",
+          "158",
+          "34",
+          "70",
+          "316"
+        ],
+        "name": "女神异闻录5",
+        "keyword": "1615",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201804/1947304b.jpg"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "name": "雷顿 神秘侦探社～卡托莉的解谜档案～",
+    "update_time": "Sun",
+    "keyword": "1624",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/4b628d9c.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "202"
+        ],
+        "name": "雷顿 神秘侦探社～卡托莉的解谜档案～",
+        "keyword": "1624",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201804/4b628d9c.jpg"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "name": "闪亮美妙☆频道",
+    "update_time": "Sun",
+    "keyword": "1625",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/22dff6c7.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "50"
+        ],
+        "name": "闪亮美妙☆频道",
+        "keyword": "1625",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201804/22dff6c7.jpg"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "name": "年轻老板娘是小学生！",
+    "update_time": "Sun",
+    "keyword": "1641",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/40ab4db8.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "28",
+          "37",
+          "438"
+        ],
+        "name": "年轻老板娘是小学生！",
+        "keyword": "1641",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201804/40ab4db8.jpg"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "name": "高达创潜者",
+    "update_time": "Tue",
+    "keyword": "1603",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/6b63c82b.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "129",
+          "454",
+          "428"
+        ],
+        "name": "高达创潜者",
+        "keyword": "1603",
+        "update_time": "Tue",
+        "cover": "/Images/Bangumi/201804/6b63c82b.jpg"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "name": "足球小将",
+    "update_time": "Tue",
+    "keyword": "1632",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/4a175ff3.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "454",
+          "76",
+          "435"
+        ],
+        "name": "足球小将",
+        "keyword": "1632",
+        "update_time": "Tue",
+        "cover": "/Images/Bangumi/201804/4a175ff3.jpg"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "name": "游戏王VRAINS",
+    "update_time": "Wed",
+    "keyword": "1318",
+    "status": 0,
+    "cover": "/Images/Bangumi/201705/72aa5d65.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "389"
+        ],
+        "name": "游戏王VRAINS",
+        "keyword": "1318",
+        "update_time": "Wed",
+        "cover": "/Images/Bangumi/201705/72aa5d65.jpg"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "name": "鲁邦三世 PART5",
+    "update_time": "Wed",
+    "keyword": "1635",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/bf7b0659.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "468",
+          "145",
+          "202"
+        ],
+        "name": "鲁邦三世 PART5",
+        "keyword": "1635",
+        "update_time": "Wed",
+        "cover": "/Images/Bangumi/201804/bf7b0659.jpg"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "name": "精灵宝可梦 太阳&月亮",
+    "update_time": "Thu",
+    "keyword": "884",
+    "status": 0,
+    "cover": "/Images/Bangumi/201611/8193c704.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "321",
+          "202",
+          "67"
+        ],
+        "name": "精灵宝可梦 太阳&月亮",
+        "keyword": "884",
+        "update_time": "Thu",
+        "cover": "/Images/Bangumi/201611/8193c704.jpg"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "name": "命运石之门 0",
+    "update_time": "Thu",
+    "keyword": "1610",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/3e5b1620.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "34",
+          "316",
+          "382",
+          "203",
+          "467",
+          "45",
+          "417",
+          "202",
+          "164",
+          "454"
+        ],
+        "name": "命运石之门 0",
+        "keyword": "1610",
+        "update_time": "Thu",
+        "cover": "/Images/Bangumi/201804/3e5b1620.jpg"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "name": "哆啦A梦",
+    "update_time": "Fri",
+    "keyword": "681",
+    "status": 0,
+    "cover": "/Images/Bangumi/200504/1df90634.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "144",
+          "22",
+          "162",
+          "202",
+          "395",
+          "150",
+          "390",
+          "15",
+          "90"
+        ],
+        "name": "哆啦A梦",
+        "keyword": "681",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/200504/1df90634.jpg"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "name": "全金属狂潮 Invisible Victory",
+    "update_time": "Fri",
+    "keyword": "1593",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/10c1dd9a.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "34",
+          "53",
+          "42",
+          "467",
+          "6",
+          "129",
+          "181",
+          "454",
+          "202",
+          "80"
+        ],
+        "name": "全金属狂潮 Invisible Victory",
+        "keyword": "1593",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201804/10c1dd9a.jpg"
+      }
+    }
+  },
+  {
+    "id": 85,
+    "name": "敦君与女朋友",
+    "update_time": "Fri",
+    "keyword": "1638",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/77b86f41.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "34",
+          "44",
+          "12",
+          "435",
+          "438"
+        ],
+        "name": "敦君与女朋友",
+        "keyword": "1638",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201804/77b86f41.jpg"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "name": "异世界居酒屋～古都阿伊特力亚的居酒屋「阿信」",
+    "update_time": "Fri",
+    "keyword": "1646",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/f96b858d.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "202"
+        ],
+        "name": "异世界居酒屋～古都阿伊特力亚的居酒屋「阿信」",
+        "keyword": "1646",
+        "update_time": "Fri",
+        "cover": "/Images/Bangumi/201804/f96b858d.jpg"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "name": "BEATLESS -没有心跳的少女-",
+    "update_time": "Sat",
+    "keyword": "1494",
+    "status": 0,
+    "cover": "/Images/Bangumi/201801/559afc2c.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "74",
+          "70",
+          "19",
+          "202",
+          "453"
+        ],
+        "name": "BEATLESS -没有心跳的少女-",
+        "keyword": "1494",
+        "update_time": "Sat",
+        "cover": "/Images/Bangumi/201801/559afc2c.jpg"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "name": "Fate/EXTRA Last Encore",
+    "update_time": "Sat",
+    "keyword": "1539",
+    "status": 0,
+    "cover": "/Images/Bangumi/201801/6e8b6371.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "34",
+          "6",
+          "70",
+          "210",
+          "453"
+        ],
+        "name": "Fate/EXTRA Last Encore",
+        "keyword": "1539",
+        "update_time": "Sat",
+        "cover": "/Images/Bangumi/201801/6e8b6371.jpg"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "name": "信长的忍者 姊川·石山篇",
+    "update_time": "Sat",
+    "keyword": "1604",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/dec1a20f.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "454",
+          "181"
+        ],
+        "name": "信长的忍者 姊川·石山篇",
+        "keyword": "1604",
+        "update_time": "Sat",
+        "cover": "/Images/Bangumi/201804/dec1a20f.jpg"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "name": "棒球大联盟 2nd",
+    "update_time": "Sat",
+    "keyword": "1616",
+    "status": 0,
+    "cover": "/Images/Bangumi/201804/572ae186.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "2",
+          "453"
+        ],
+        "name": "棒球大联盟 2nd",
+        "keyword": "1616",
+        "update_time": "Sat",
+        "cover": "/Images/Bangumi/201804/572ae186.jpg"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "name": "卫宫家今天的饭",
+    "update_time": "Sun",
+    "keyword": "1536",
+    "status": 0,
+    "cover": "/Images/Bangumi/201801/bf6a3208.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "6",
+          "454",
+          "453",
+          "464",
+          "202"
+        ],
+        "name": "卫宫家今天的饭",
+        "keyword": "1536",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201801/bf6a3208.jpg"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "name": "牵牛花与加濑同学。",
+    "update_time": "Sun",
+    "keyword": "1652",
+    "status": 0,
+    "cover": "/Images/Bangumi/201806/15c0733a.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "202",
+          "12",
+          "28",
+          "415",
+          "37"
+        ],
+        "name": "牵牛花与加濑同学。",
+        "keyword": "1652",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201806/15c0733a.jpg"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "name": "血界战线 & BEYOND OAD",
+    "update_time": "Sun",
+    "keyword": "1722",
+    "status": 0,
+    "cover": "/Images/Bangumi/201807/5bbaed71.jpg",
+    "type": "1",
+    "data_source": {
+      "mikan_project": {
+        "status": 0,
+        "subtitle_group": [
+          "382"
+        ],
+        "name": "血界战线 & BEYOND OAD",
+        "keyword": "1722",
+        "update_time": "Sun",
+        "cover": "/Images/Bangumi/201807/5bbaed71.jpg"
+      }
+    }
+  },
+  {
+    "id": 94,
+    "name": "好朋友",
+    "update_time": "Sun",
+    "keyword": "559e9bd6b85ffe4359622f9c",
+    "status": 0,
+    "cover": "data/images/2015/07/0rftkfwbbimsp06bla1.jpg",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "55647eeca0b788232ee34dff"
+        ],
+        "name": "好朋友",
+        "keyword": "559e9bd6b85ffe4359622f9c",
+        "update_time": "Sun",
+        "cover": "data/images/2015/07/0rftkfwbbimsp06bla1.jpg"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "name": "忍者杀手",
+    "update_time": "Thu",
+    "keyword": "550ff3ab1fe5c31a190a06b2",
+    "status": 0,
+    "cover": "data/images/2015/03/42auo360nmc5ino3p87.jpg",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "55a3ddfab85ffe43596230d5"
+        ],
+        "name": "忍者杀手",
+        "keyword": "550ff3ab1fe5c31a190a06b2",
+        "update_time": "Thu",
+        "cover": "data/images/2015/03/42auo360nmc5ino3p87.jpg"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "name": "黑色五叶草",
+    "update_time": "Tue",
+    "keyword": "59d0cb4cfb34aac154710b65",
+    "status": 0,
+    "cover": "data/images/2017/10/1506708420558-cover.jpeg",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "57efe841ee98e9ca20730427",
+          "58eb97b5e777e29f2a080a0f",
+          "54bffe22229d1ecf2c1e553b",
+          "586d00cd45a01953431c5b3c"
+        ],
+        "name": "黑色五叶草",
+        "keyword": "59d0cb4cfb34aac154710b65",
+        "update_time": "Tue",
+        "cover": "data/images/2017/10/1506708420558-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 98,
+    "name": "妖怪旅馆营业中",
+    "update_time": "Mon",
+    "keyword": "5ac0aa77395e2a122f10f017",
+    "status": 0,
+    "cover": "data/images/2018/04/1522498818453-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "59af67e5d04829c1623b0e51",
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "妖怪旅馆营业中",
+        "keyword": "5ac0aa77395e2a122f10f017",
+        "update_time": "Mon",
+        "cover": "data/images/2018/04/1522498818453-cover.png"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "name": "高达Build Divers",
+    "update_time": "Tue",
+    "keyword": "5ac0aa86395e2a122f10f033",
+    "status": 0,
+    "cover": "data/images/2018/04/1522489667134-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ae9511c2e78648174ce1961",
+          "55647eeca0b788232ee34dff",
+          "567cdf0d3e4e6e4148f19bbd",
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "高达Build Divers",
+        "keyword": "5ac0aa86395e2a122f10f033",
+        "update_time": "Tue",
+        "cover": "data/images/2018/04/1522489667134-cover.png"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "name": "重神机潘多拉",
+    "update_time": "Wed",
+    "keyword": "5ac0aa8e395e2a122f10f041",
+    "status": 0,
+    "cover": "data/images/2018/04/1522494123759-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "57c38f7fee98e9ca2072f9b3",
+          "5ac5d835ee0807e777a3a677",
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "重神机潘多拉",
+        "keyword": "5ac0aa8e395e2a122f10f041",
+        "update_time": "Wed",
+        "cover": "data/images/2018/04/1522494123759-cover.png"
+      }
+    }
+  },
+  {
+    "id": 101,
+    "name": "信长的忍者～姊川·石山篇～",
+    "update_time": "Fri",
+    "keyword": "5ac0aaa8395e2a122f10f071",
+    "status": 0,
+    "cover": "data/images/2018/04/1522519371961-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "信长的忍者～姊川·石山篇～",
+        "keyword": "5ac0aaa8395e2a122f10f071",
+        "update_time": "Fri",
+        "cover": "data/images/2018/04/1522519371961-cover.png"
+      }
+    }
+  },
+  {
+    "id": 102,
+    "name": "雷顿神秘侦探社～卡特莉的解谜事件簿～",
+    "update_time": "Sun",
+    "keyword": "5ac0aab9395e2a122f10f091",
+    "status": 0,
+    "cover": "data/images/2018/04/1522501121413-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "雷顿神秘侦探社～卡特莉的解谜事件簿～",
+        "keyword": "5ac0aab9395e2a122f10f091",
+        "update_time": "Sun",
+        "cover": "data/images/2018/04/1522501121413-cover.png"
+      }
+    }
+  },
+  {
+    "id": 103,
+    "name": "命运石之门0",
+    "update_time": "Wed",
+    "keyword": "5ac0aa8c395e2a122f10f03f",
+    "status": 0,
+    "cover": "data/images/2018/04/1522494122254-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "58a9c1e6f5dc363606ab42ed",
+          "57a034ee5cc0696f1ce1a1b2",
+          "5ac5d835ee0807e777a3a677",
+          "581be821ee98e9ca20730eae",
+          "54bffe22229d1ecf2c1e553b"
+        ],
+        "name": "命运石之门0",
+        "keyword": "5ac0aa8c395e2a122f10f03f",
+        "update_time": "Wed",
+        "cover": "data/images/2018/04/1522494122254-cover.png"
+      }
+    }
+  },
+  {
+    "id": 104,
+    "name": "ISLAND",
+    "update_time": "Sun",
+    "keyword": "5b38d01ff1a82c8443d7fc93",
+    "status": 0,
+    "cover": "data/images/2018/07/1529477115212-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "54af5a353801bcf877c0bedc",
+          "5693f6cb7fcb8b4a11ba52f2",
+          "57a034ee5cc0696f1ce1a1b2",
+          "54992d1cc8b118cf40b274b3",
+          "55647eeca0b788232ee34dff",
+          "581be821ee98e9ca20730eae",
+          "575446452165b9ba0c485d13",
+          "54bbe80a76870aad3bb603df"
+        ],
+        "name": "ISLAND",
+        "keyword": "5b38d01ff1a82c8443d7fc93",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1529477115212-cover.png"
+      }
+    }
+  },
+  {
+    "id": 105,
+    "name": "向山进发 third season",
+    "update_time": "Mon",
+    "keyword": "5b38c4a1b3d4e8ef387d7ebb",
+    "status": 0,
+    "cover": "data/images/2018/07/1529075979438-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "55da7a4e7030f8c855f996c7"
+        ],
+        "name": "向山进发 third season",
+        "keyword": "5b38c4a1b3d4e8ef387d7ebb",
+        "update_time": "Mon",
+        "cover": "data/images/2018/07/1529075979438-cover.png"
+      }
+    }
+  },
+  {
+    "id": 106,
+    "name": "Back Street Girls -极道少女-",
+    "update_time": "Tue",
+    "keyword": "5b38c4a6b3d4e8ef387d7ec3",
+    "status": 0,
+    "cover": "data/images/2018/07/1529485083632-cover.jpeg",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "586d00cd45a01953431c5b3c",
+          "54a59d43ff362c965be014de",
+          "58a9c1e6f5dc363606ab42ed",
+          "5ae9511c2e78648174ce1961"
+        ],
+        "name": "Back Street Girls -极道少女-",
+        "keyword": "5b38c4a6b3d4e8ef387d7ec3",
+        "update_time": "Tue",
+        "cover": "data/images/2018/07/1529485083632-cover.jpeg"
+      }
+    }
+  },
+  {
+    "id": 107,
+    "name": "Free!-Dive to the Future-",
+    "update_time": "Wed",
+    "keyword": "5b38c4aeb3d4e8ef387d7ed1",
+    "status": 0,
+    "cover": "data/images/2018/07/1528798192094-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "Free!-Dive to the Future-",
+        "keyword": "5b38c4aeb3d4e8ef387d7ed1",
+        "update_time": "Wed",
+        "cover": "data/images/2018/07/1528798192094-cover.png"
+      }
+    }
+  },
+  {
+    "id": 108,
+    "name": "BANANA FISH 战栗杀机",
+    "update_time": "Thu",
+    "keyword": "5b38c4b0b3d4e8ef387d7ed5",
+    "status": 0,
+    "cover": "data/images/2018/07/1528798191942-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "55da7a4e7030f8c855f996c7",
+          "57c38f7fee98e9ca2072f9b3",
+          "59af67e5d04829c1623b0e51"
+        ],
+        "name": "BANANA FISH 战栗杀机",
+        "keyword": "5b38c4b0b3d4e8ef387d7ed5",
+        "update_time": "Thu",
+        "cover": "data/images/2018/07/1528798191942-cover.png"
+      }
+    }
+  },
+  {
+    "id": 109,
+    "name": "ZOIDS WILD",
+    "update_time": "Sat",
+    "keyword": "5b38d019f1a82c8443d7fc8b",
+    "status": 0,
+    "cover": "data/images/2018/07/1529989557675-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "ZOIDS WILD",
+        "keyword": "5b38d019f1a82c8443d7fc8b",
+        "update_time": "Sat",
+        "cover": "data/images/2018/07/1529989557675-cover.png"
+      }
+    }
+  },
+  {
+    "id": 110,
+    "name": "Space Bug",
+    "update_time": "Sun",
+    "keyword": "5b38d026f1a82c8443d7fc9f",
+    "status": 0,
+    "cover": "data/images/2018/07/1529990242575-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "Space Bug",
+        "keyword": "5b38d026f1a82c8443d7fc9f",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1529990242575-cover.png"
+      }
+    }
+  },
+  {
+    "id": 111,
+    "name": "Planet With",
+    "update_time": "Sun",
+    "keyword": "5b38d022f1a82c8443d7fc97",
+    "status": 0,
+    "cover": "data/images/2018/07/1529477115658-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [
+          "5ac5d835ee0807e777a3a677",
+          "57c38f7fee98e9ca2072f9b3"
+        ],
+        "name": "Planet With",
+        "keyword": "5b38d022f1a82c8443d7fc97",
+        "update_time": "Sun",
+        "cover": "data/images/2018/07/1529477115658-cover.png"
+      }
+    }
+  },
+  {
+    "id": 112,
+    "name": "快把我哥带走2",
+    "update_time": "Mon",
+    "keyword": "5b38c4a2b3d4e8ef387d7ebd",
+    "status": 0,
+    "cover": "data/images/2018/07/1529990652460-cover.png",
+    "type": "1",
+    "data_source": {
+      "bangumi_moe": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "快把我哥带走2",
+        "keyword": "5b38c4a2b3d4e8ef387d7ebd",
+        "update_time": "Mon",
+        "cover": "data/images/2018/07/1529990652460-cover.png"
+      }
+    }
+  },
+  {
+    "id": 113,
+    "name": "DARLING in the FRANXX",
+    "update_time": "Sun",
+    "keyword": "FRANXX",
+    "status": 0,
+    "cover": "/images/weekly/DarlingInTheFranxx.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "185",
+          "283",
+          "225",
+          "134",
+          "468",
+          "709"
+        ],
+        "name": "DARLING in the FRANXX",
+        "keyword": "FRANXX",
+        "update_time": "Sun",
+        "cover": "/images/weekly/DarlingInTheFranxx.gif"
+      }
+    }
+  },
+  {
+    "id": 114,
+    "name": "鬼太郎",
+    "update_time": "Sun",
+    "keyword": "%E9%AC%BC%E5%A4%AA%E9%83%8E",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "鬼太郎",
+        "keyword": "%E9%AC%BC%E5%A4%AA%E9%83%8E",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 115,
+    "name": "冷然之天秤",
+    "update_time": "Sun",
+    "keyword": "%E5%86%B7%E7%84%B6",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "冷然之天秤",
+        "keyword": "%E5%86%B7%E7%84%B6",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 116,
+    "name": "藍海少女 Advance",
+    "update_time": "Sun",
+    "keyword": "%E8%97%8D%E6%B5%B7%E5%B0%91%E5%A5%B3",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "217"
+        ],
+        "name": "藍海少女 Advance",
+        "keyword": "%E8%97%8D%E6%B5%B7%E5%B0%91%E5%A5%B3",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 117,
+    "name": "DEVILSLINE 惡魔戰線",
+    "update_time": "Sun",
+    "keyword": "Devils+Line",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "407",
+          "241",
+          "185"
+        ],
+        "name": "DEVILSLINE 惡魔戰線",
+        "keyword": "Devils+Line",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 118,
+    "name": "Gun Gale Online",
+    "update_time": "Sun",
+    "keyword": "Gun+Gale",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "303",
+          "619",
+          "432",
+          "468",
+          "423"
+        ],
+        "name": "Gun Gale Online",
+        "keyword": "Gun+Gale",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 119,
+    "name": "Persona5 the Animation",
+    "update_time": "Sun",
+    "keyword": "persona5%7C%E8%81%9E%E9%8C%845",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "241",
+          "525",
+          "58",
+          "468",
+          "568",
+          "185",
+          "151"
+        ],
+        "name": "Persona5 the Animation",
+        "keyword": "persona5%7C%E8%81%9E%E9%8C%845",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 120,
+    "name": "鬼燈的冷徹第貳期 其之貳",
+    "update_time": "Sun",
+    "keyword": "%E9%AC%BC%E7%87%88",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "185",
+          "434",
+          "288",
+          "663"
+        ],
+        "name": "鬼燈的冷徹第貳期 其之貳",
+        "keyword": "%E9%AC%BC%E7%87%88",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 121,
+    "name": "LOST SONG",
+    "update_time": "Sun",
+    "keyword": "Lost+Song",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "47",
+          "423",
+          "303"
+        ],
+        "name": "LOST SONG",
+        "keyword": "Lost+Song",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 122,
+    "name": "溫泉屋小女將",
+    "update_time": "Sun",
+    "keyword": "%E5%B0%8F%E5%A5%B3%E5%B0%87",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "699",
+          "283",
+          "407"
+        ],
+        "name": "溫泉屋小女將",
+        "keyword": "%E5%B0%8F%E5%A5%B3%E5%B0%87",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 123,
+    "name": "雷頓神秘偵探社 卡特莉的解謎事件簿",
+    "update_time": "Sun",
+    "keyword": "%E7%A7%98%E5%81%B5",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "雷頓神秘偵探社 卡特莉的解謎事件簿",
+        "keyword": "%E7%A7%98%E5%81%B5",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 124,
+    "name": "閃亮頻道",
+    "update_time": "Sun",
+    "keyword": "%E9%96%83%E4%BA%AE+%E9%A2%91%E9%81%93",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "434"
+        ],
+        "name": "閃亮頻道",
+        "keyword": "%E9%96%83%E4%BA%AE+%E9%A2%91%E9%81%93",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 125,
+    "name": "甜心戰士 Universe",
+    "update_time": "Sun",
+    "keyword": "%E7%94%9C%E5%BF%83+Universe",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "669"
+        ],
+        "name": "甜心戰士 Universe",
+        "keyword": "%E7%94%9C%E5%BF%83+Universe",
+        "update_time": "Sun",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 126,
+    "name": "龍族拼圖X",
+    "update_time": "Mon",
+    "keyword": "%E6%97%8F%E6%8B%BC%7C%E9%BE%8D%E8%BF%B7",
+    "status": 0,
+    "cover": "/images/weekly/padx.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "龍族拼圖X",
+        "keyword": "%E6%97%8F%E6%8B%BC%7C%E9%BE%8D%E8%BF%B7",
+        "update_time": "Mon",
+        "cover": "/images/weekly/padx.gif"
+      }
+    }
+  },
+  {
+    "id": 127,
+    "name": "銀魂",
+    "update_time": "Mon",
+    "keyword": "%E9%8A%80%E9%AD%82%7CGintama",
+    "status": 0,
+    "cover": "/images/weekly/Gintama2017.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "117",
+          "271",
+          "520",
+          "370",
+          "185",
+          "484"
+        ],
+        "name": "銀魂",
+        "keyword": "%E9%8A%80%E9%AD%82%7CGintama",
+        "update_time": "Mon",
+        "cover": "/images/weekly/Gintama2017.gif"
+      }
+    }
+  },
+  {
+    "id": 128,
+    "name": "賽馬娘Pretty Derby",
+    "update_time": "Mon",
+    "keyword": "%E9%A6%AC%E5%A8%98",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "407"
+        ],
+        "name": "賽馬娘Pretty Derby",
+        "keyword": "%E9%A6%AC%E5%A8%98",
+        "update_time": "Mon",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 129,
+    "name": "甜蜜懲罰～我是看守專用寵物",
+    "update_time": "Mon",
+    "keyword": "%E5%AE%88%E5%B0%88",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "619",
+          "723"
+        ],
+        "name": "甜蜜懲罰～我是看守專用寵物",
+        "keyword": "%E5%AE%88%E5%B0%88",
+        "update_time": "Mon",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 130,
+    "name": "你對群馬一無所知",
+    "update_time": "Mon",
+    "keyword": "%E7%BE%A4%E9%A6%AC",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "你對群馬一無所知",
+        "keyword": "%E7%BE%A4%E9%A6%AC",
+        "update_time": "Mon",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 131,
+    "name": "卡利古拉",
+    "update_time": "Mon",
+    "keyword": "%E5%88%A9%E5%8F%A4%E6%8B%89%7CCaligula",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "468",
+          "492"
+        ],
+        "name": "卡利古拉",
+        "keyword": "%E5%88%A9%E5%8F%A4%E6%8B%89%7CCaligula",
+        "update_time": "Mon",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 132,
+    "name": "琴之森",
+    "update_time": "Mon",
+    "keyword": "%E7%90%B4%E4%B9%8B%E6%A3%AE",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "88",
+          "407"
+        ],
+        "name": "琴之森",
+        "keyword": "%E7%90%B4%E4%B9%8B%E6%A3%AE",
+        "update_time": "Mon",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 133,
+    "name": "食戟之靈 餐之皿",
+    "update_time": "Mon",
+    "keyword": "%E9%A3%9F%E6%88%9F",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "708",
+          "185",
+          "663",
+          "49",
+          "241"
+        ],
+        "name": "食戟之靈 餐之皿",
+        "keyword": "%E9%A3%9F%E6%88%9F",
+        "update_time": "Mon",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 134,
+    "name": "美男高校地球防衛部HAPPY KISS",
+    "update_time": "Mon",
+    "keyword": "%E7%BE%8E%E7%94%B7%E9%AB%98",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "美男高校地球防衛部HAPPY KISS",
+        "keyword": "%E7%BE%8E%E7%94%B7%E9%AB%98",
+        "update_time": "Mon",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 135,
+    "name": "Pripara",
+    "update_time": "Tue",
+    "keyword": "Pripara",
+    "status": 0,
+    "cover": "/images/weekly/Pripara.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "434",
+          "90"
+        ],
+        "name": "Pripara",
+        "keyword": "Pripara",
+        "update_time": "Tue",
+        "cover": "/images/weekly/Pripara.gif"
+      }
+    }
+  },
+  {
+    "id": 136,
+    "name": "黑色五葉草",
+    "update_time": "Tue",
+    "keyword": "%E4%BA%94%E8%91%89%E8%8D%89",
+    "status": 0,
+    "cover": "/images/weekly/BlackClover.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "117",
+          "502",
+          "663",
+          "651",
+          "185"
+        ],
+        "name": "黑色五葉草",
+        "keyword": "%E4%BA%94%E8%91%89%E8%8D%89",
+        "update_time": "Tue",
+        "cover": "/images/weekly/BlackClover.gif"
+      }
+    }
+  },
+  {
+    "id": 137,
+    "name": "飆速宅男 GLORY LINE",
+    "update_time": "Tue",
+    "keyword": "%E9%A3%86%E9%80%9F+Glory+Line",
+    "status": 0,
+    "cover": "/images/weekly/YowamushiPedal_GloryLine.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "88"
+        ],
+        "name": "飆速宅男 GLORY LINE",
+        "keyword": "%E9%A3%86%E9%80%9F+Glory+Line",
+        "update_time": "Tue",
+        "cover": "/images/weekly/YowamushiPedal_GloryLine.gif"
+      }
+    }
+  },
+  {
+    "id": 138,
+    "name": "魔法少女 我",
+    "update_time": "Tue",
+    "keyword": "%E6%B3%95%E5%B0%91+%E6%88%91",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "魔法少女 我",
+        "keyword": "%E6%B3%95%E5%B0%91+%E6%88%91",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 139,
+    "name": "妖怪旅館營業中",
+    "update_time": "Tue",
+    "keyword": "%E5%A6%96%E6%80%AA%E6%97%85%E9%A4%A8",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "391"
+        ],
+        "name": "妖怪旅館營業中",
+        "keyword": "%E5%A6%96%E6%80%AA%E6%97%85%E9%A4%A8",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 140,
+    "name": "宇宙戰艦提拉米斯",
+    "update_time": "Tue",
+    "keyword": "%E6%8F%90%E6%8B%89%E7%B1%B3",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "288"
+        ],
+        "name": "宇宙戰艦提拉米斯",
+        "keyword": "%E6%8F%90%E6%8B%89%E7%B1%B3",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 141,
+    "name": "足球小將",
+    "update_time": "Tue",
+    "keyword": "%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%87",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "足球小將",
+        "keyword": "%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%87",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 142,
+    "name": "高達創鬥者 潛網大戰",
+    "update_time": "Tue",
+    "keyword": "%E9%AB%98%E9%81%94%E5%89%B5",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "537",
+          "434"
+        ],
+        "name": "高達創鬥者 潛網大戰",
+        "keyword": "%E9%AB%98%E9%81%94%E5%89%B5",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 143,
+    "name": "實驗品家庭",
+    "update_time": "Tue",
+    "keyword": "%E5%AF%A6%E9%A9%97%E5%93%81",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "407"
+        ],
+        "name": "實驗品家庭",
+        "keyword": "%E5%AF%A6%E9%A9%97%E5%93%81",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 144,
+    "name": "黃金神威",
+    "update_time": "Tue",
+    "keyword": "%E7%A5%9E%E5%A8%81",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "241",
+          "185"
+        ],
+        "name": "黃金神威",
+        "keyword": "%E7%A5%9E%E5%A8%81",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 145,
+    "name": "蒼天之拳 REGENESIS",
+    "update_time": "Tue",
+    "keyword": "%E8%92%BC%E5%A4%A9%E4%B9%8B%E6%8B%B3",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "蒼天之拳 REGENESIS",
+        "keyword": "%E8%92%BC%E5%A4%A9%E4%B9%8B%E6%8B%B3",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 146,
+    "name": "踏切時間",
+    "update_time": "Tue",
+    "keyword": "%E8%B8%8F%E5%88%87",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "151",
+          "185"
+        ],
+        "name": "踏切時間",
+        "keyword": "%E8%B8%8F%E5%88%87",
+        "update_time": "Tue",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 147,
+    "name": "戰鬥之魂 雙重驅動",
+    "update_time": "Wed",
+    "keyword": "%E6%88%B0%E9%AC%A5%E4%B9%8B%E9%AD%82",
+    "status": 0,
+    "cover": "/images/weekly/battlespirits8.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "戰鬥之魂 雙重驅動",
+        "keyword": "%E6%88%B0%E9%AC%A5%E4%B9%8B%E9%AD%82",
+        "update_time": "Wed",
+        "cover": "/images/weekly/battlespirits8.gif"
+      }
+    }
+  },
+  {
+    "id": 148,
+    "name": "貓貓日本史",
+    "update_time": "Wed",
+    "keyword": "%E8%B2%93%E8%B2%93%E6%97%A5%E6%9C%AC%E5%8F%B2",
+    "status": 0,
+    "cover": "/images/weekly/nekoneko.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "141"
+        ],
+        "name": "貓貓日本史",
+        "keyword": "%E8%B2%93%E8%B2%93%E6%97%A5%E6%9C%AC%E5%8F%B2",
+        "update_time": "Wed",
+        "cover": "/images/weekly/nekoneko.gif"
+      }
+    }
+  },
+  {
+    "id": 149,
+    "name": "BORUTO 火影新世代",
+    "update_time": "Wed",
+    "keyword": "%E5%8D%9A%E4%BA%BA%7CBoruto",
+    "status": 0,
+    "cover": "/images/weekly/boruto.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "407",
+          "370"
+        ],
+        "name": "BORUTO 火影新世代",
+        "keyword": "%E5%8D%9A%E4%BA%BA%7CBoruto",
+        "update_time": "Wed",
+        "cover": "/images/weekly/boruto.gif"
+      }
+    }
+  },
+  {
+    "id": 150,
+    "name": "銀河英雄傳說 Die Neue These 邂逅",
+    "update_time": "Wed",
+    "keyword": "Die+Neue",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "134",
+          "37"
+        ],
+        "name": "銀河英雄傳說 Die Neue These 邂逅",
+        "keyword": "Die+Neue",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 151,
+    "name": "東京喰種:re",
+    "update_time": "Wed",
+    "keyword": "%E5%96%B0%E7%A8%AE",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "454"
+        ],
+        "name": "東京喰種:re",
+        "keyword": "%E5%96%B0%E7%A8%AE",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 152,
+    "name": "立花館戀愛三角關係",
+    "update_time": "Wed",
+    "keyword": "%E7%AB%8B%E8%8A%B1%E9%A4%A8",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "699",
+          "321",
+          "407",
+          "283",
+          "185"
+        ],
+        "name": "立花館戀愛三角關係",
+        "keyword": "%E7%AB%8B%E8%8A%B1%E9%A4%A8",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 153,
+    "name": "魯邦三世 PART5",
+    "update_time": "Wed",
+    "keyword": "%E9%AD%AF%E9%82%A6+Part+5",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "721",
+          "567"
+        ],
+        "name": "魯邦三世 PART5",
+        "keyword": "%E9%AD%AF%E9%82%A6+Part+5",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 154,
+    "name": "三次元女友",
+    "update_time": "Wed",
+    "keyword": "3D+Real+Girl",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "672",
+          "423"
+        ],
+        "name": "三次元女友",
+        "keyword": "3D+Real+Girl",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 155,
+    "name": "Alice or Alice",
+    "update_time": "Wed",
+    "keyword": "Alice+or+Alice",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "241",
+          "703",
+          "283",
+          "492",
+          "407"
+        ],
+        "name": "Alice or Alice",
+        "keyword": "Alice+or+Alice",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 156,
+    "name": "High School DxD Hero",
+    "update_time": "Wed",
+    "keyword": "DxD+Hero",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "619",
+          "321",
+          "185",
+          "669"
+        ],
+        "name": "High School DxD Hero",
+        "keyword": "DxD+Hero",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 157,
+    "name": "和風喫茶鹿楓堂",
+    "update_time": "Wed",
+    "keyword": "%E9%B9%BF%E6%A5%93%E5%A0%82",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "407"
+        ],
+        "name": "和風喫茶鹿楓堂",
+        "keyword": "%E9%B9%BF%E6%A5%93%E5%A0%82",
+        "update_time": "Wed",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 158,
+    "name": "遊戲王VRAINS",
+    "update_time": "Thu",
+    "keyword": "%E9%81%8A%E6%88%B2%E7%8E%8B",
+    "status": 0,
+    "cover": "/images/weekly/yugioh-vrains.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "673"
+        ],
+        "name": "遊戲王VRAINS",
+        "keyword": "%E9%81%8A%E6%88%B2%E7%8E%8B",
+        "update_time": "Thu",
+        "cover": "/images/weekly/yugioh-vrains.gif"
+      }
+    }
+  },
+  {
+    "id": 159,
+    "name": "重神機潘多拉",
+    "update_time": "Thu",
+    "keyword": "%E9%87%8D%E7%A5%9E%E6%A9%9F",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "重神機潘多拉",
+        "keyword": "%E9%87%8D%E7%A5%9E%E6%A9%9F",
+        "update_time": "Thu",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 160,
+    "name": "多田君不戀愛",
+    "update_time": "Thu",
+    "keyword": "%E5%A4%9A%E7%94%B0",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "117",
+          "283",
+          "570",
+          "58",
+          "151",
+          "407",
+          "423"
+        ],
+        "name": "多田君不戀愛",
+        "keyword": "%E5%A4%9A%E7%94%B0",
+        "update_time": "Thu",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 161,
+    "name": "最后的休止符",
+    "update_time": "Thu",
+    "keyword": "%E4%BC%91%E6%AD%A2%E7%AC%A6",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "最后的休止符",
+        "keyword": "%E4%BC%91%E6%AD%A2%E7%AC%A6",
+        "update_time": "Thu",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 162,
+    "name": "Butlers 千年百年物語",
+    "update_time": "Thu",
+    "keyword": "%E5%8D%83%E5%B9%B4%E7%99%BE%E5%B9%B4",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "Butlers 千年百年物語",
+        "keyword": "%E5%8D%83%E5%B9%B4%E7%99%BE%E5%B9%B4",
+        "update_time": "Thu",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 163,
+    "name": "命運石之門0",
+    "update_time": "Thu",
+    "keyword": "Steins+Gate",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "37",
+          "669",
+          "185",
+          "47",
+          "619",
+          "391"
+        ],
+        "name": "命運石之門0",
+        "keyword": "Steins+Gate",
+        "update_time": "Thu",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 164,
+    "name": "蠟筆小新",
+    "update_time": "Fri",
+    "keyword": "%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0",
+    "status": 0,
+    "cover": "/images/weekly/717087432ab9c0e226db9e2d1d81b8c2.jpg",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "453",
+          "63",
+          "506"
+        ],
+        "name": "蠟筆小新",
+        "keyword": "%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0",
+        "update_time": "Fri",
+        "cover": "/images/weekly/717087432ab9c0e226db9e2d1d81b8c2.jpg"
+      }
+    }
+  },
+  {
+    "id": 165,
+    "name": "Doraemon",
+    "update_time": "Fri",
+    "keyword": "doraemon%7C%E5%95%A6a%E5%A4%A2",
+    "status": 0,
+    "cover": "/images/weekly/Doraemon.jpg",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "453",
+          "506",
+          "561",
+          "574",
+          "531",
+          "564"
+        ],
+        "name": "Doraemon",
+        "keyword": "doraemon%7C%E5%95%A6a%E5%A4%A2",
+        "update_time": "Fri",
+        "cover": "/images/weekly/Doraemon.jpg"
+      }
+    }
+  },
+  {
+    "id": 166,
+    "name": "寵物小精靈",
+    "update_time": "Fri",
+    "keyword": "%E5%AF%B5%E7%89%A9%E5%B0%8F%E7%B2%BE%E9%9D%88",
+    "status": 0,
+    "cover": "/images/weekly/pocket.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "94",
+          "117",
+          "88",
+          "376",
+          "57",
+          "506",
+          "447"
+        ],
+        "name": "寵物小精靈",
+        "keyword": "%E5%AF%B5%E7%89%A9%E5%B0%8F%E7%B2%BE%E9%9D%88",
+        "update_time": "Fri",
+        "cover": "/images/weekly/pocket.gif"
+      }
+    }
+  },
+  {
+    "id": 167,
+    "name": "童話魔法使",
+    "update_time": "Fri",
+    "keyword": "%E7%AB%A5%E8%A9%B1%E9%AD%94%7C%E7%AB%A5%E8%AF%9D%E4%B8%8E%7C%E5%8E%9F%E6%9B%B8",
+    "status": 0,
+    "cover": "/images/weekly/Marchen.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "303",
+          "58",
+          "703"
+        ],
+        "name": "童話魔法使",
+        "keyword": "%E7%AB%A5%E8%A9%B1%E9%AD%94%7C%E7%AB%A5%E8%AF%9D%E4%B8%8E%7C%E5%8E%9F%E6%9B%B8",
+        "update_time": "Fri",
+        "cover": "/images/weekly/Marchen.gif"
+      }
+    }
+  },
+  {
+    "id": 168,
+    "name": "MEGALO BOX",
+    "update_time": "Fri",
+    "keyword": "MEGALO+BOX",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [],
+        "name": "MEGALO BOX",
+        "keyword": "MEGALO+BOX",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 169,
+    "name": "罪人與龍共舞",
+    "update_time": "Fri",
+    "keyword": "%E7%BD%AA%E4%BA%BA%E8%88%87",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "723"
+        ],
+        "name": "罪人與龍共舞",
+        "keyword": "%E7%BD%AA%E4%BA%BA%E8%88%87",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 170,
+    "name": "極道超女",
+    "update_time": "Fri",
+    "keyword": "%E6%A5%B5%E9%81%93%E8%B6%85%E5%A5%B3%7C%E8%B6%85%E8%83%BD%E5%8A%9B%E5%A5%B3",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "241",
+          "321",
+          "303",
+          "468",
+          "151",
+          "185"
+        ],
+        "name": "極道超女",
+        "keyword": "%E6%A5%B5%E9%81%93%E8%B6%85%E5%A5%B3%7C%E8%B6%85%E8%83%BD%E5%8A%9B%E5%A5%B3",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 171,
+    "name": "敦君與女朋友",
+    "update_time": "Fri",
+    "keyword": "%E6%95%A6%E5%90%9B",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "699",
+          "430",
+          "151",
+          "185"
+        ],
+        "name": "敦君與女朋友",
+        "keyword": "%E6%95%A6%E5%90%9B",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 172,
+    "name": "Hisone與Masotan",
+    "update_time": "Fri",
+    "keyword": "Hisone",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "407",
+          "283"
+        ],
+        "name": "Hisone與Masotan",
+        "keyword": "Hisone",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 173,
+    "name": "阿宅的戀愛太難",
+    "update_time": "Fri",
+    "keyword": "%E6%88%80%E6%84%9B+%E9%9B%A3",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "303",
+          "663",
+          "468",
+          "669",
+          "619",
+          "185",
+          "492"
+        ],
+        "name": "阿宅的戀愛太難",
+        "keyword": "%E6%88%80%E6%84%9B+%E9%9B%A3",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 174,
+    "name": "奴隸區",
+    "update_time": "Fri",
+    "keyword": "%E5%A5%B4%E9%9A%B8%E5%8D%80",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "468",
+          "525"
+        ],
+        "name": "奴隸區",
+        "keyword": "%E5%A5%B4%E9%9A%B8%E5%8D%80",
+        "update_time": "Fri",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 175,
+    "name": "刀使之巫女",
+    "update_time": "Sat",
+    "keyword": "%E5%88%80%E4%BD%BF",
+    "status": 0,
+    "cover": "/images/weekly/tojinomiko.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "434",
+          "423",
+          "619"
+        ],
+        "name": "刀使之巫女",
+        "keyword": "%E5%88%80%E4%BD%BF",
+        "update_time": "Sat",
+        "cover": "/images/weekly/tojinomiko.gif"
+      }
+    }
+  },
+  {
+    "id": 176,
+    "name": "皇帝聖印戰記",
+    "update_time": "Sat",
+    "keyword": "%E8%81%96%E5%8D%B0",
+    "status": 0,
+    "cover": "/images/weekly/GrancrestSenki.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "185"
+        ],
+        "name": "皇帝聖印戰記",
+        "keyword": "%E8%81%96%E5%8D%B0",
+        "update_time": "Sat",
+        "cover": "/images/weekly/GrancrestSenki.gif"
+      }
+    }
+  },
+  {
+    "id": 177,
+    "name": "七大罪 戒律的復活",
+    "update_time": "Sat",
+    "keyword": "%E6%88%92%E5%BE%8B",
+    "status": 0,
+    "cover": "/images/weekly/7taizai.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "520",
+          "627",
+          "663",
+          "88"
+        ],
+        "name": "七大罪 戒律的復活",
+        "keyword": "%E6%88%92%E5%BE%8B",
+        "update_time": "Sat",
+        "cover": "/images/weekly/7taizai.gif"
+      }
+    }
+  },
+  {
+    "id": 178,
+    "name": "霸穹 封神演義",
+    "update_time": "Sat",
+    "keyword": "%E9%9C%B8%E7%A9%B9",
+    "status": 0,
+    "cover": "/images/weekly/HakyuuHoushinEngi.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "288",
+          "436"
+        ],
+        "name": "霸穹 封神演義",
+        "keyword": "%E9%9C%B8%E7%A9%B9",
+        "update_time": "Sat",
+        "cover": "/images/weekly/HakyuuHoushinEngi.gif"
+      }
+    }
+  },
+  {
+    "id": 179,
+    "name": "BEATLESS",
+    "update_time": "Sat",
+    "keyword": "BEATLESS",
+    "status": 0,
+    "cover": "/images/weekly/Beatless.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "468",
+          "303"
+        ],
+        "name": "BEATLESS",
+        "keyword": "BEATLESS",
+        "update_time": "Sat",
+        "cover": "/images/weekly/Beatless.gif"
+      }
+    }
+  },
+  {
+    "id": 180,
+    "name": "錢進球場",
+    "update_time": "Sat",
+    "keyword": "%E9%8C%A2%E9%80%B2%E7%90%83%E5%A0%B4",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "151"
+        ],
+        "name": "錢進球場",
+        "keyword": "%E9%8C%A2%E9%80%B2%E7%90%83%E5%A0%B4",
+        "update_time": "Sat",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 181,
+    "name": "Lostorage conflated WIXOSS",
+    "update_time": "Sat",
+    "keyword": "WIXOSS",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "185"
+        ],
+        "name": "Lostorage conflated WIXOSS",
+        "keyword": "WIXOSS",
+        "update_time": "Sat",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 182,
+    "name": "魔法少女網站",
+    "update_time": "Sat",
+    "keyword": "%E5%A5%B3%E7%B6%B2%E7%AB%99",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "669",
+          "241",
+          "672"
+        ],
+        "name": "魔法少女網站",
+        "keyword": "%E5%A5%B3%E7%B6%B2%E7%AB%99",
+        "update_time": "Sat",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 183,
+    "name": "我的英雄學院Ⅲ",
+    "update_time": "Sat",
+    "keyword": "%E8%8B%B1%E9%9B%84%E5%AD%B8%E9%99%A2",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "663",
+          "627",
+          "708",
+          "303"
+        ],
+        "name": "我的英雄學院Ⅲ",
+        "keyword": "%E8%8B%B1%E9%9B%84%E5%AD%B8%E9%99%A2",
+        "update_time": "Sat",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 184,
+    "name": "棒球大聯盟2nd",
+    "update_time": "Sat",
+    "keyword": "%E6%A3%92%E7%90%83+2nd",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "708",
+          "88"
+        ],
+        "name": "棒球大聯盟2nd",
+        "keyword": "%E6%A3%92%E7%90%83+2nd",
+        "update_time": "Sat",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  },
+  {
+    "id": 185,
+    "name": "全金屬狂潮Ⅳ",
+    "update_time": "Sat",
+    "keyword": "%E9%A9%9A%E7%88%86%E5%8D%B1%E6%A9%9F%7C%E5%85%A8%E9%87%91%E5%B1%9E",
+    "status": 0,
+    "cover": "/images/weekly/404.gif",
+    "type": "1",
+    "data_source": {
+      "dmhy": {
+        "status": 0,
+        "subtitle_group": [
+          "37",
+          "537",
+          "185",
+          "134",
+          "288",
+          "328"
+        ],
+        "name": "全金屬狂潮Ⅳ",
+        "keyword": "%E9%A9%9A%E7%88%86%E5%8D%B1%E6%A9%9F%7C%E5%85%A8%E9%87%91%E5%B1%9E",
+        "update_time": "Sat",
+        "cover": "/images/weekly/404.gif"
+      }
+    }
+  }
+]

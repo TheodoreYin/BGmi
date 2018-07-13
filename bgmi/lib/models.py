@@ -5,7 +5,7 @@ import time
 from collections import defaultdict
 
 import peewee
-from peewee import IntegerField, FixedCharField, TextField
+from peewee import IntegerField, FixedCharField, TextField, CompositeKey
 from playhouse.shortcuts import model_to_dict
 from playhouse.sqlite_ext import JSONField
 
@@ -175,6 +175,7 @@ class Subtitle(NeoDB):
             # create a unique on from/to/date
             (('id', 'data_source'), True),
         )
+        primary_key = CompositeKey('id', 'data_source')
 
     @classmethod
     def get_subtitle_of_bangumi(cls, bangumi_obj):
@@ -207,6 +208,24 @@ class Subtitle(NeoDB):
             return []
         return [model_to_dict(x) for x in Subtitle.select().where(tmp_c)]
 
+    @classmethod
+    def save_subtitle_list(cls, subtitle_group_list):
+        """
+        subtitle_group_list example: `tests/data/subtitle.json`
+        :type subtitle_group_list: dict
+        """
+        for data_source_id, subtitle_group_list in subtitle_group_list.items():
+            for subtitle_group in subtitle_group_list:
+                with db.atomic():
+                    s, if_created = Subtitle.get_or_create(id=str(subtitle_group['id']),
+                                                           data_source=data_source_id,
+                                                           defaults={'name': str(subtitle_group['name'])})
+                    if if_created:
+                        pass
+                    else:
+                        if s.name != str(subtitle_group['name']):
+                            s.name = str(subtitle_group['name'])
+                            s.save()
 
 script_db = peewee.SqliteDatabase(bgmi.config.SCRIPT_DB_PATH)
 

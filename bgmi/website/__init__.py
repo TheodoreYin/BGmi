@@ -165,12 +165,7 @@ class DataSource():
     def fetch(self, save=False, group_by_weekday=True):
         bangumi_result, subtitle_group_result = init_data()
         Bangumi.delete_all()
-        for data_source_id, subtitle_group_list in subtitle_group_result.items():
-            for subtitle_group in subtitle_group_list:
-                (Subtitle.insert({Subtitle.id: text_type(subtitle_group['id']),
-                                  Subtitle.name: text_type(subtitle_group['name']),
-                                  Subtitle.data_source: data_source_id})
-                 .on_conflict_replace()).execute()
+        Subtitle.save_subtitle_list(subtitle_group_result)
         if not bangumi_result:
             print('no result return None')
             return []
@@ -224,7 +219,7 @@ class DataSource():
         :type save: bool
 
         :param cover: list of cover url (of scripts) want to download
-        :type cover: list[str]
+        :type cover: bool
         """
         if force_update and not test_connection():
             force_update = False
@@ -242,7 +237,7 @@ class DataSource():
 
         if cover is not None:
             # download cover to local
-            cover_to_be_download = cover
+            cover_to_be_download = []
             for daily_bangumi in weekly_list.values():
                 for bangumi in daily_bangumi:
                     _, file_path = convert_cover_url_to_path(bangumi['cover'])
@@ -370,6 +365,15 @@ class DataSource():
             exclude_list = list(map(lambda s: s.strip(), exclude.split(',')))
             result = list(filter(lambda s: True if all(map(lambda t: t not in s['title'],
                                                            exclude_list)) else False, result))
+            """
+            
+        if include:
+            include_list = [s.strip() for s in include.split(',')]
+            result = [s for s in result if all(map(lambda t: t in s['title'], include_list))]
+        if exclude:
+            exclude_list = [s.strip() for s in exclude.split(',')]
+            result = [s for s in result if all(map(lambda t: t not in s['title'], exclude_list))]
+"""
 
         result = self.utils.filter_keyword(data=result, regex=regex)
         return result
